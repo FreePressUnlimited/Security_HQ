@@ -1,11 +1,12 @@
-# Money Trail's Repository of Digital Security Resources
+# Money Trail Security Headquarters
 
 A safe working environment is essential for investigative journalists. Because journalists work with sensitive information that adversaries often prefer not to see published, training on keeping themselves, their data and their sources secure is paramount. So during the last two days of our training, Free Press Unlimited will focus on advanced digital security techniques, including encryption, secure communication and methods to stay “under the radar” during investigations. This includes:
 
-- Device security how to keep one’s equipment secure
-- Online security, how to safely operate online
-- Mobile security, how to safely use digital equipment on-the-road, including telephones and other devices
-- Social media security, how to safely use social media for research and publication
+- Security of your data while at rest: that is information stored in your devices
+- Security of your data while in trasit: that is information that you exchange with the world
+- Security of your mobile devices: that is the security of your mobile digital equipment
+- Social media security, or how to safely use social media for research and publication
+- Emergency support: that is resources you might need in urgent situations
 
 See [Money Trail](https://www.money-trail.org) for more information about the project.
 
