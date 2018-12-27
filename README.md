@@ -1,4 +1,4 @@
-# Money Trail security headquarters
+# Money Trail Security Headquarters
 
 A safe working environment is essential for investigative journalists. Because journalists work with sensitive information that adversaries often prefer not to see published, training on keeping themselves, their data and their sources secure is paramount. So during the last two days of our training, Free Press Unlimited will focus on advanced digital security techniques, including encryption, secure communication and methods to stay “under the radar” during investigations. This includes:
 
