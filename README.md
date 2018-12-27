@@ -7,7 +7,7 @@ A safe working environment is essential for investigative journalists. Because j
 - Mobile security, how to safely use digital equipment on-the-road, including telephones and other devices
 - Social media security, how to safely use social media for research and publication
 
-See <https://www.money-trail.org> for more information about the Money Trail project.
+See [Money Trail](https://www.money-trail.org) for more information about the Money Trail project.
 
 ## License
 
@@ -25,4 +25,4 @@ See <https://www.money-trail.org> for more information about the Money Trail pro
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    along with this program.  If not, see [GNU Licenses](http://www.gnu.org/licenses/) .
