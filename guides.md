@@ -1,3 +1,5 @@
+<small>
+  
 # GENERALIST GUIDES (A-Z)
 
 Resource | Author | What | When | Difficulty | Last recommended in
@@ -13,3 +15,5 @@ Resource | Author | What | When | Difficulty | Last recommended in
 **Content** | Content | Content | Content | Content | Content
 **Content** | Content | Content | Content | Content | Content
 **Content** | Content | Content | Content | Content | Content
+
+</small>
