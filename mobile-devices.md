@@ -2,7 +2,10 @@
 
 [MOBILE DEVICES (PHONE, TABLET)](#mobile-devices-phone-tablet)
 
-#### MOBILE DEVICES (PHONE, TABLET)
+<p>foo
+baz</p>
+
+### MOBILE DEVICES (PHONE, TABLET)
 
 Resource | Author | What | When | Difficulty | Last recommended in
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
