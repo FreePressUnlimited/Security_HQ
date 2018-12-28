@@ -2,8 +2,7 @@
 
 [MOBILE DEVICES (PHONE, TABLET)](#mobile-devices-phone-tablet)
 
-<p>foo
-baz</p>
+<p>----------</p>
 
 ### MOBILE DEVICES (PHONE, TABLET)
 
