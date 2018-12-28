@@ -1,5 +1,5 @@
 # Generalist guides
-First Header | Second Header | Second Header
+Resource | Author | Last updated
 ------------ | ------------- | -------------
-Content from cell 1 | Content from cell 2 | Content from cell 2
+Digital security tips to protect you, your sources and your story | ROLAND BEDNARZ of the IJNet | December 2018
 Content in the first column | Content in the second column | Content in the second column
