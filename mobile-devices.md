@@ -2,7 +2,8 @@
 
 [MOBILE DEVICES (PHONE, TABLET)](#mobile-devices-phone-tablet)
 
-<p>----------</p>
+<p>
+</p>
 
 ### MOBILE DEVICES (PHONE, TABLET)
 
