@@ -1,5 +1,7 @@
 # EMERGENCY SUPPORT (A-Z)
 
+*Last updated: Dec 2018*
+
 * [FINANCIAL ASSISTANCE](#financial-assistance)
   * [Digital Defenders Partnership](#digital-defenders-partnership-ddp)
   * [Free Press Unlimited's Reporters Respond](#free-press-unlimiteds-reporters-respond)
