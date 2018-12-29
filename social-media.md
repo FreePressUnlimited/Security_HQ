@@ -13,6 +13,6 @@
 
 **FOR WHOM**: Android users
 
-**Difficulty**: Easy
+**DIFFICULTY**: Easy
 
 *Date recommended: Dec 2018*
