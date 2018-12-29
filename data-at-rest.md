@@ -1,17 +1,29 @@
 # Security of Data at Rest
 
-    Resources for securing your data at rest, whether it lives in a device or online, in the Cloud
+    Resources for securing the data stored in your devices and your online accounts.
 
 *Last updated: Dec 2018*
 
 * [PASSWORDS](#passwords)
   * [PASSWORD MANAGERS](#password-managers)
+    * [Encryptr](#encryptr)
     * [KeepassXC](#keepassxc)
 
 
 # PASSWORDS
 
 ## PASSWORD MANAGERS
+
+
+### **[Encryptr](https://spideroak.com/encryptr/)** 
+
+**WHAT**: Open source, fully encrypted password manager that allows syncing of passwords across devices.
+
+**PLATFORM**: Cross-platform. Works on mobile (iOS and Android) and desktop.
+
+**DIFFICULTY**: Easy
+
+
 
 ### **[KeepassXC](https://keepassxc.org/)** 
 
