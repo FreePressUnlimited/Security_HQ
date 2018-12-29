@@ -9,9 +9,10 @@
   
 
 ## FINANCIAL ASSISTANCE
+
 ### **[Digital Defenders Partnership (DDP)](https://www.digitaldefenders.org/)**
 
-**WHAT**: DDP offers funding that address difital emergency situations, as well as longer-term challenges.
+**WHAT**: DDP offers funding that addresses digital emergency situations, as well as longer-term challenges.
 
 **FOR WHOM**: The grants offered by DDP are designed to help human rights defenders (journalists may also apply) under digital attack by providing support (Incidental Emergency Grants which offers up to €10,000) and also increased the long term capacity to sustain future digital emergencies (Sustainable Emergency Grants which offers up to €50,000). DDP also coordinates a Rapid Response Network program and an Digital Integrity Fellowship where organizations receive personalized digital security and privacy trainings.
 
