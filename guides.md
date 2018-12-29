@@ -6,7 +6,7 @@
 * [Journalists in Distress: Securing Your Digital Life](#journalists-in-distress-securing-your-digital-life)
 * [Security in a Box](#security-in-a-box)
 * [Security Planner](#security-planner)
-* [Surveillance Self-Defense](#)
+* [Surveillance Self-Defense](#surveillance-self-defense)
 
 
 ### **[CPJ Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)** 
