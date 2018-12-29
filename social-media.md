@@ -32,7 +32,7 @@
 
 **SOURCE**: Chronicle Security Ireland Limited
 
-**WHAT**: Scan files and URLs with VirusTotal which uses a myriad of antivirus scanners and other tools to detect malware and fake websites aimed at stealing your credentials. Virus Total also offers [desktop apps](https://support.virustotal.com/hc/en-us/articles/115002179065-Desktop-apps), [browser extension](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) and [mobile apps](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-Apps).
+**WHAT**: Scan files and URLs with VirusTotal which uses a myriad of antivirus scanners and other tools to detect malware and fake websites aimed at stealing your credentials. Virus Total also offers [desktop apps](https://support.virustotal.com/hc/en-us/articles/115002179065-Desktop-apps), [browser extensions](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) and [mobile apps](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-Apps).
 
 **PLATFORM**: Desktop and mobile, cross platform
 
