@@ -3,6 +3,7 @@
 * [FINANCIAL ASSISTANCE](#FINANCIAL-ASSISTANCE)
   * [Digital Defenders Partnership](#Digital-Defenders-Partnership-DDP)
 
+
 * [TECHNICAL ASSISTANCE](#technical-assistance)
   * [Access Now Digital Security Helpline](#Access-Now-Digital-Security-Helpline)
   
