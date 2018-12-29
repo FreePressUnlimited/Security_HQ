@@ -2,10 +2,10 @@
 
 * [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
 * [Digital Security from Riseup](#digital-security-from-riseup)
-* [Digital security tips to protect you, your sources and your story](#)
-* [Journalists in Distress: Securing Your Digital Life](#)
-* [Security in a Box](#)
-* [Security Planner](#)
+* [Digital security tips to protect you, your sources and your story](#digital-security-tips-to-protect-you-your-sources-and-your-story)
+* [Journalists in Distress: Securing Your Digital Life](#journalists-in-distress-securing-your-digital-life)
+* [Security in a Box](#security-in-a-box)
+* [Security Planner](#security-planner)
 * [xx](#)
 
 
