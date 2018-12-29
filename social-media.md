@@ -1,4 +1,4 @@
-# SECURITY ON SOCIAL MEDIA
+# Security on Social Media
 
 *Last updated: Dec 2018*
 
