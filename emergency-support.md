@@ -18,6 +18,13 @@
 **FOR WHOM**: Human rights defenders under digital attack.
 
 
+### **[Free Press Unlimited's Reporters Respond](https://www.freepressunlimited.org/en/projects/reporters-respond-emergency-funding-for-the-media)**
+
+**WHAT**: Emergency fund for journalists managed by Free Press Unlimited.
+
+**FOR WHOM**: Meant to help journalists who have been confronted with vandalism or intimidations get started again as soon as possible.
+
+
 ### **[Frontline Defenders' Protection Grants](https://www.frontlinedefenders.org/en/programme/protection-grants)**
 
 **WHAT**: Grants designed to improve the overall security and protection of human rights defenders and their organisations.
