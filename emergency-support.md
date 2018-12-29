@@ -2,6 +2,7 @@
 
 * [FINANCIAL ASSISTANCE](#financial-assistance)
   * [Digital Defenders Partnership](#digital-defenders-partnership-ddp)
+  * [Frontline Defenders' Protection Grants](#frontline-defenders-protection-grants)
 
 
 * [TECHNICAL ASSISTANCE](#technical-assistance)
@@ -12,9 +13,16 @@
 
 ### **[Digital Defenders Partnership (DDP)](https://www.digitaldefenders.org/)**
 
-**WHAT**: DDP offers funding that addresses digital emergency situations, as well as longer-term challenges.
+**WHAT**: Funding that addresses digital emergency situations (Incidental Emergency Grants which offers up to €10,000), as well as longer-term challenges (Sustainable Emergency Grants which offers up to €50,000).
 
-**FOR WHOM**: The grants offered by DDP are designed to help human rights defenders (journalists may also apply) under digital attack by providing support (Incidental Emergency Grants which offers up to €10,000) and also increased the long term capacity to sustain future digital emergencies (Sustainable Emergency Grants which offers up to €50,000). DDP also coordinates a Rapid Response Network program and an Digital Integrity Fellowship where organizations receive personalized digital security and privacy trainings.
+**FOR WHOM**: Human rights defenders under digital attack.
+
+
+### **[Frontline Defenders' Protection Grants](https://www.frontlinedefenders.org/en/programme/protection-grants)**
+
+**WHAT**: Grants designed to improve the overall security and protection of human rights defenders and their organisations.
+
+**FOR WHOM**: Human rights defenders at risk.
 
 
 ## TECHNICAL ASSISTANCE
