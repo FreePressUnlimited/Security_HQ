@@ -6,7 +6,7 @@
 * [Journalists in Distress: Securing Your Digital Life](#journalists-in-distress-securing-your-digital-life)
 * [Security in a Box](#security-in-a-box)
 * [Security Planner](#security-planner)
-* [xx](#)
+* [Surveillance Self-Defense](#)
 
 
 ### **[CPJ Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)** 
@@ -98,15 +98,15 @@
 
 
 
-### **[xxx](#)** 
+### **[Surveillance Self-Defense](https://ssd.eff.org/en)** 
 
-**AUTHOR**: [xxx](#) 
+**AUTHOR**: [The Electronic Frontier Foundation (EFF)](https://www.eff.org/) 
 
-**WHAT**: xx
+**WHAT**: Interactive guide
 
-**WHEN**: xx. 
+**WHEN**: A trusted and updated go-to for newbies and experts alike. Ideal to learn from scratch how to stay safe online.
 
-**DIFFICULTY**: xx
+**DIFFICULTY**: Variable
 
 *Recommendation date: Dec 2018*
 
