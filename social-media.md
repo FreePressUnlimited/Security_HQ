@@ -1,5 +1,8 @@
 # SECURITY ON SOCIAL MEDIA
 
+*Last updated: Dec 2018*
+
+
 * [FACEBOOK](#facebook)
   * [Stop Facebook's Collection of Your Metadata](#stop-facebooks-collection-of-your-metadata)
 
@@ -14,5 +17,3 @@
 **FOR WHOM**: Android users
 
 **DIFFICULTY**: Easy
-
-*Date recommended: Dec 2018*
