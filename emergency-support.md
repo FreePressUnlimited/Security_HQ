@@ -1,7 +1,7 @@
 # EMERGENCY SUPPORT (A-Z)
 
 * [TECHNICAL ASSISTANCE](#technical-assistance)
-  * [Access Now Digital Security Helpline](#Access Now Digital Security Helpline)
+  * [Access Now Digital Security Helpline](#Access-Now-Digital-Security-Helpline)
   
 
 ## TECHNICAL ASSISTANCE
