@@ -1,9 +1,7 @@
 # SECURITY OF DEVICES (A-Z)
 
 * [MOBILE DEVICES (PHONE, TABLET)](#mobile-devices-phone-tablet)
- * [Umbrella](#umbrella)
-<p>
-</p>
+  * [Umbrella](#umbrella)
 
 ## MOBILE DEVICES (PHONE, TABLET)
 ### **[Umbrella](https://secfirst.org/umbrella/)** 
@@ -13,8 +11,6 @@
 **DIFFICULTY**: Easy 
 *Last recommended on Dec 2018*
 
-
-## MOBILE DEVICES (PHONE, TABLET)
 ### **[xx](#)** 
 **AUTHOR**: [xx](#)
 **WHAT**: xx
