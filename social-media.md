@@ -9,7 +9,7 @@
 
 **SOURCE**: The Electronic Frontier Foundation
 
-**TYPE**: Prvacy settings guide
+**TYPE**: Simple settings instructions
 
 **Difficulty**: Easy
 
