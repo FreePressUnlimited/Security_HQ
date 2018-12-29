@@ -1,3 +1,3 @@
 # Frequently Asked Questions
 
-Under construction. Being updated.
+*Last updated: Dec 2018*
