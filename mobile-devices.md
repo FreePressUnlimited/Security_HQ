@@ -1,4 +1,4 @@
-# SECURITY OF DEVICES (A-Z)
+# SECURITY OF DEVICES
 
 * [MOBILE DEVICES (PHONE, TABLET)](#mobile-devices-phone-tablet)
   * [Umbrella](#umbrella)
