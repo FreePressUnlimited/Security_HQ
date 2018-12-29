@@ -70,9 +70,9 @@
 
 **AUTHOR**: [Tactical Technology Collective](https://tacticaltech.org/) and [Front Line Defenders](https://www.frontlinedefenders.org/)  
 
-**WHAT**: A trusted go-to for many digital security trainers, Security in a Box is one of the largest collections of tools and tactics aimed at the security and privacy-aware
+**WHAT**: Website
 
-**WHEN**: To search and compare tools and tactics and learn of new ones. Available in multiple languages. 
+**WHEN**: Ideal for beginners and experts alike. The website is a trusted resource to search and compare tools and tactics and learn of new ones. Available in multiple languages. 
 
 **DIFFICULTY**: Easy
 
@@ -102,7 +102,7 @@
 
 **AUTHOR**: [The Electronic Frontier Foundation (EFF)](https://www.eff.org/) 
 
-**WHAT**: Interactive guide
+**WHAT**: Website
 
 **WHEN**: A trusted and updated go-to for newbies and experts alike. Ideal to learn from scratch how to stay safe online.
 
