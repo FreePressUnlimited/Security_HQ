@@ -36,7 +36,7 @@
 
 **PLATFORM**: Desktop and mobile, cross platform
 
-**COST**: FREE
+**COST**: Free
 
 **DIFFICULTY**: Easy
 
@@ -55,5 +55,7 @@
 **TYPE**: Add-on
 
 **PLATFORM**: Chrome browser (desktop, cross-platform)
+
+**COST**: Free
 
 **DIFFICULTY**: Easy
