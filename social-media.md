@@ -6,7 +6,7 @@
 * [FACEBOOK](#facebook)
   * [Stop Facebook's Collection of Your Metadata](#stop-facebooks-collection-of-your-metadata)
 * [ANTI-PHISHING](#anti-phishing)
-  * [Virus Total](#virus-total)
+  * [VirusTotal](#virustotal)
 * [BROWSER SECURITY](#browser-security)
   * [Password Alert](#password-alert)
 
@@ -28,11 +28,11 @@
 
 # ANTI-PHISHING
 
-## [Virus Total](https://www.virustotal.com/#/home/url)
+## [VirusTotal](https://www.virustotal.com/#/home/url)
 
 **SOURCE**: Chronicle Security Ireland Limited
 
-**WHAT**: Scan files and URLs with VirusTotal which uses a myriad of antivirus scanners and other tools to detect malware and fake websites aimed at stealing your credentials. Virus Total also offers [desktop apps](https://support.virustotal.com/hc/en-us/articles/115002179065-Desktop-apps), [browser extensions](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) and [mobile apps](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-Apps).
+**WHAT**: Allows you to scan files and URLs using a myriad of antivirus scanners and other tools to detect malware and fake websites aimed at stealing your credentials. VirusTotal also offers [desktop apps](https://support.virustotal.com/hc/en-us/articles/115002179065-Desktop-apps), [browser extensions](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) and [mobile apps](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-Apps).
 
 **PLATFORM**: Desktop and mobile, cross platform
 
