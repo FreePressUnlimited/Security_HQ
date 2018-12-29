@@ -1,5 +1,8 @@
 # GENERALIST GUIDES (A-Z)
 
+*Last updated: Dec 2018*
+
+
 * [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
 * [Digital Security from Riseup](#digital-security-from-riseup)
 * [Digital security tips to protect you, your sources and your story](#digital-security-tips-to-protect-you-your-sources-and-your-story)
@@ -19,7 +22,6 @@
 
 **DIFFICULTY**: Variable
 
-*Recommendation date: Dec 2018*
 
 
 ### **[Digital Security from Riseup](https://riseup.net/en/security)** 
@@ -32,7 +34,6 @@
 
 **DIFFICULTY**: Easy
 
-*Recommendation date: Dec 2018*
 
 
 
@@ -46,7 +47,6 @@
 
 **DIFFICULTY**: Easy
 
-*Recommendation date: Dec 2018*
 
 
 
@@ -61,7 +61,6 @@
 
 **DIFFICULTY**: Easy
 
-*Recommendation date: Dec 2018*
 
 
 
@@ -76,7 +75,6 @@
 
 **DIFFICULTY**: Variable
 
-*Recommendation date: Dec 2018*
 
 
 
@@ -92,7 +90,6 @@
 
 **DIFFICULTY**: Easy
 
-*Recommendation date: Dec 2018*
 
 
 
@@ -108,7 +105,6 @@
 
 **DIFFICULTY**: Variable
 
-*Recommendation date: Dec 2018*
 
 
 
@@ -123,126 +119,3 @@
 **WHEN**: xx. 
 
 **DIFFICULTY**: xx
-
-*Recommendation date: Dec 2018*
-
-
-
-
-
-### **[xxx](#)** 
-
-**AUTHOR**: [xxx](#) 
-
-**WHAT**: xx
-
-**WHEN**: xx. 
-
-**DIFFICULTY**: xx
-
-*Recommendation date: Dec 2018*
-
-
-
-
-### **[xxx](#)** 
-
-**AUTHOR**: [xxx](#) 
-
-**WHAT**: xx
-
-**WHEN**: xx. 
-
-**DIFFICULTY**: xx
-
-*Recommendation date: Dec 2018*
-
-
-
-
-### **[xxx](#)** 
-
-**AUTHOR**: [xxx](#) 
-
-**WHAT**: xx
-
-**WHEN**: xx. 
-
-**DIFFICULTY**: xx
-
-*Recommendation date: Dec 2018*
-
-
-
-
-### **[xxx](#)** 
-
-**AUTHOR**: [xxx](#) 
-
-**WHAT**: xx
-
-**WHEN**: xx. 
-
-**DIFFICULTY**: xx
-
-*Recommendation date: Dec 2018*
-
-
-
-
-### **[xxx](#)** 
-
-**AUTHOR**: [xxx](#) 
-
-**WHAT**: xx
-
-**WHEN**: xx. 
-
-**DIFFICULTY**: xx
-
-*Recommendation date: Dec 2018*
-
-
-
-
-### **[xxx](#)** 
-
-**AUTHOR**: [xxx](#) 
-
-**WHAT**: xx
-
-**WHEN**: xx. 
-
-**DIFFICULTY**: xx
-
-*Recommendation date: Dec 2018*
-
-
-
-
-### **[xxx](#)** 
-
-**AUTHOR**: [xxx](#) 
-
-**WHAT**: xx
-
-**WHEN**: xx. 
-
-**DIFFICULTY**: xx
-
-*Recommendation date: Dec 2018*
-
-
-
-
-### **[xxx](#)** 
-
-**AUTHOR**: [xxx](#) 
-
-**WHAT**: xx
-
-**WHEN**: xx. 
-
-**DIFFICULTY**: xx
-
-*Recommendation date: Dec 2018*
