@@ -1,4 +1,4 @@
-# SECURITY OF DATA AT REST
+# Security of Data at Rest
 
     Resources for securing your data at rest, whether it lives in a device or online, in the Cloud
 
