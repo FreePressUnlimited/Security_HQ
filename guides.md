@@ -1,4 +1,4 @@
-# GENERALIST GUIDES (A-Z)
+# Generalist Guides (A-Z)
 
 *Last updated: Dec 2018*
 
