@@ -104,18 +104,3 @@
 **WHEN**: A trusted and updated go-to for newbies and experts alike. Ideal to learn from scratch how to stay safe online.
 
 **DIFFICULTY**: Variable
-
-
-
-
-
-
-### **[xxx](#)** 
-
-**AUTHOR**: [xxx](#) 
-
-**WHAT**: xx
-
-**WHEN**: xx. 
-
-**DIFFICULTY**: xx
