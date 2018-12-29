@@ -6,7 +6,7 @@
 
 
 * [TECHNICAL ASSISTANCE](#technical-assistance)
-  * [Access Now Digital Security Helpline](#access-now-digital-security-helpline)
+  * [Access Now Digital Security Helpline](#access-now-digital-security-helpline) 
   
 
 ## FINANCIAL ASSISTANCE
