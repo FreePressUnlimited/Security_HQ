@@ -1,6 +1,6 @@
 # GENERALIST GUIDES (A-Z)
 
-
+[CPJ Journalist Security Guide](#)
 
 ### **[CPJ Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)** 
 
