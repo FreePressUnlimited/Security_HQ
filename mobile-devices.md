@@ -4,10 +4,11 @@
   * [Umbrella](#umbrella)
 * [LAPTOP](#laptop)
   * [ANTIVIRUS](#antivirus)
+   * [Clam AV](#clam-av)
 
-## MOBILE DEVICES (PHONE, TABLET)
+# MOBILE DEVICES (PHONE, TABLET)
 
-### **[Umbrella](https://secfirst.org/umbrella/)** 
+## **[Umbrella](https://secfirst.org/umbrella/)** 
 
 **AUTHOR**: [Security First](https://secfirst.org/about/)
 
@@ -21,13 +22,13 @@
 
 
 
-## LAPTOP
+# LAPTOP
 
-### ANTIVIRUS
+## ANTIVIRUS
 
-##### **[Clam AV](https://www.clamav.net/)** 
+### **[Clam AV](https://www.clamav.net/)** 
 
-**TYPE**: Open source, multi-platform antivirus sofrware for detecting trojans, viruses, malware & other malicious threats. 
+**TYPE**: Open source, multi-platform antivirus software for detecting trojans, viruses, malware & other malicious threats. 
 
 **DIFFICULTY**: Advanced 
 
