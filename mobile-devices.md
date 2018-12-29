@@ -2,6 +2,8 @@
 
 * [MOBILE DEVICES (PHONE, TABLET)](#mobile-devices-phone-tablet)
   * [Umbrella](#umbrella)
+* [LAPTOP](#laptop)
+  * [ANTIVIRUS](#antivirus)
 
 ## MOBILE DEVICES (PHONE, TABLET)
 
@@ -15,16 +17,18 @@
 
 **DIFFICULTY**: Easy 
 
-*Last recommended in Dec 2018*
+*Last recommended: Dec 2018*
 
-### **[xx](#)** 
 
-**AUTHOR**: [xx](#)
 
-**WHAT**: xx
+## LAPTOP
 
-**WHEN**: xx. 
+### ANTIVIRUS
 
-**DIFFICULTY**: xx 
+##### **[Clam AV](https://www.clamav.net/)** 
 
-*Last recommended in Dec 2018*
+**TYPE**: Open source, multi-platform antivirus sofrware for detecting trojans, viruses, malware & other malicious threats. 
+
+**DIFFICULTY**: Advanced 
+
+*Last recommended: Dec 2018*
