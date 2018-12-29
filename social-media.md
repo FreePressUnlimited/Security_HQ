@@ -11,6 +11,8 @@
 
 **TYPE**: Simple settings instructions
 
+**FOR WHOM**: Android users
+
 **Difficulty**: Easy
 
 *Date recommended: Dec 2018*
