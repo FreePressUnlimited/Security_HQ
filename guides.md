@@ -17,7 +17,7 @@
 
 **WHEN**: For journalists who need a comprehensive guide. Offers basic to advanced security advice for new and experienced journalists taking on their assignments around the world. Available in multiple languages. 
 
-**DIFFICULTY**: Easy
+**DIFFICULTY**: Variable
 
 *Recommendation date: Dec 2018*
 
@@ -74,7 +74,7 @@
 
 **WHEN**: Ideal for beginners and experts alike. The website is a trusted resource to search and compare tools and tactics and learn of new ones. Available in multiple languages. 
 
-**DIFFICULTY**: Easy
+**DIFFICULTY**: Variable
 
 *Recommendation date: Dec 2018*
 
