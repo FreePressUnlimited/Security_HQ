@@ -15,7 +15,7 @@
 
 **DIFFICULTY**: Easy 
 
-*Last recommended on Dec 2018*
+*Last recommended in Dec 2018*
 
 ### **[xx](#)** 
 
@@ -27,4 +27,4 @@
 
 **DIFFICULTY**: xx 
 
-*Last recommended on Dec 2018*
+*Last recommended in Dec 2018*
