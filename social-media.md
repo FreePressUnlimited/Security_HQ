@@ -1,6 +1,16 @@
 # SECURITY ON SOCIAL MEDIA
 
-First Header | Second Header | Third Header
------------- | ------------- | -------------
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | Content in the second column
+* [FACEBOOK](#facebook)
+ * [Stop Facebook's Collection of Your Metadata](#)
+
+# FACEBOOK
+
+## [Stop Facebook's Collection of Your Metadata](#https://www.eff.org/deeplinks/2018/03/android-users-change-setting-stop-facebooks-collection-your-call-and-text-metadata)
+
+**SOURCE**: The Electronic Frontier Foundation
+
+**TYPE**: Prvacy settings guide
+
+**Difficulty**: Easy
+
+*Date recommended: Dec 2018*
