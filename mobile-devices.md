@@ -1,4 +1,4 @@
-# SECURITY OF DEVICES
+# Device Security
 
 *Last updated: Dec 2018*
 
