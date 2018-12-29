@@ -1,7 +1,7 @@
 # GENERALIST GUIDES (A-Z)
 
 * [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
-* [Digital Security from Riseup](#riseups-digital-security)
+* [Digital Security from Riseup](#digital-security-from-riseup)
 * [Digital security tips to protect you, your sources and your story](#)
 * [Journalists in Distress: Securing Your Digital Life](#)
 * [Security in a Box](#)
