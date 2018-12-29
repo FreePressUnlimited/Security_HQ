@@ -1,7 +1,7 @@
 # EMERGENCY SUPPORT (A-Z)
 
-* [FINANCIAL ASSISTANCE](#FINANCIAL-ASSISTANCE)
-  * [Digital Defenders Partnership](#Digital-Defenders-Partnership-DDP)
+* [FINANCIAL ASSISTANCE](#financial-assistance)
+  * [Digital Defenders Partnership](#digital-defenders-partnership-ddp)
 
 
 * [TECHNICAL ASSISTANCE](#technical-assistance)
