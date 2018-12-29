@@ -2,7 +2,7 @@
 
 [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
 
-    ----
+    
 
 ### **[CPJ Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)** 
 
