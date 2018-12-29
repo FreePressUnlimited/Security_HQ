@@ -17,7 +17,7 @@
 
 ### **[Encryptr](https://spideroak.com/encryptr/)** 
 
-**WHAT**: Open source, fully encrypted password manager that allows syncing of passwords across devices.
+**WHAT**: Free, open source, fully encrypted password manager that allows syncing of passwords across devices.
 
 **PLATFORM**: Cross-platform. Works on mobile (iOS and Android) and desktop.
 
@@ -27,7 +27,7 @@
 
 ### **[KeepassXC](https://keepassxc.org/)** 
 
-**WHAT**: Open source, fully encrypted password manager that lives locally on your device.
+**WHAT**: Free, open source, fully encrypted password manager that lives locally on your device.
 
 **PLATFORM**: Desktop (cross-platform)
 
