@@ -4,7 +4,7 @@
 
 *Last updated: Dec 2018*
 
-* [PASSPWORDS](#passwords)
+* [PASSWORDS](#passwords)
   * [PASSWORD MANAGERS](#password-managers)
     * [KeepassXC](#keepassxc)
 
