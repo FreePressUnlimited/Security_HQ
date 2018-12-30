@@ -1,9 +1,10 @@
 # Social Media and Anti Phishing Strategies
 
+*Last updated: Dec 2018*
+
     Resources for staying safe when interacting 
     with others on the net.
 
-*Last updated: Dec 2018*
 
 
 * [FACEBOOK](#facebook)
