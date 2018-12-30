@@ -5,7 +5,7 @@
 * [BROWSING](#browsing)
   * [DuckDuckGo](#duckduckgo)
   * [Firefox Multi-Account Containers](#firefox-multi-account-containers)
-  * [Google Analytics Opt-out](#)
+  * [Google Analytics Opt-out](#google-analytics-opt-out)
   * [Orbot and Orfox](#orbot-and-orfox)
   * [Tor Browser](#tor-browser)
 * [EMAILING](#emailing)
