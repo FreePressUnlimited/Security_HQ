@@ -96,7 +96,7 @@
     
 # VIRTUAL PRIVATE NETWORK
 
-    A Virtual Private Network or VPN channels your device's 
+    A Virtual Private Network, or VPN, channels your device's 
     entire connection through an encrypted "tunnel" which 
     protects your privacy and security. A VPN can also allow 
     you to access blocked content in a network.
@@ -104,10 +104,10 @@
 
 ## **RECOMMENDED VPN SERVICE PROVIDERS**
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+First Header | Second Header | Second Header | Second Header
+------------ | ------------- | ------------- | -------------
+Content from cell 1 | Content from cell 2 | Content from cell 2 | Content from cell 2
+Content in the first column | Content in the second column | Content in the second column | Content in the second column
 
     
     
