@@ -8,6 +8,7 @@
 * [FACEBOOK](#facebook)
   * [Stop Facebook's Collection of Your Metadata](#stop-facebooks-collection-of-your-metadata)
 * [ANTI-PHISHING](#anti-phishing)
+  * [Password Alert](#password-alert)
   * [VirusTotal](#virustotal)
 
 
@@ -30,6 +31,21 @@
 
 
 # ANTI-PHISHING
+
+
+## [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep?hl=en)
+
+**SOURCE**: Google
+
+**TYPE**: Browser add-on
+
+**PLATFORM**: Chrome browser (desktop, cross-platform)
+
+**COST**: Free
+
+**DIFFICULTY**: Easy
+
+
 
 ## [VirusTotal](https://www.virustotal.com/#/home/url)
 
