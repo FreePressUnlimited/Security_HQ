@@ -105,11 +105,12 @@
 
 ## **RECOMMENDED VPN SERVICE PROVIDERS**
 
-Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid
------------- | ------------- | ------------- | ------------- | ------------- | -------------
-Content from cell 1 | Content from cell 2 | Content from cell 2 | Content from cell 2 | Content from cell 2 | Content from cell 2
-Content from cell 1 | Content from cell 2 | Content from cell 2 | Content from cell 2 | Content from cell 2 | Content from cell 2
-Content from cell 1 | Content from cell 2 | Content from cell 2 | Content from cell 2 | Content from cell 2 | Content from cell 2
+Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Mullvad](https://mullvad.net/en/) | Yes | No | Yes | Sweden | Yes | Easy (No set up needed)
+Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use
+Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use
+Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use
 
 
 **LEARN MORE** about Virtual Private Networks [here](https://securityplanner.org/#/tool/virtual-private-network).
