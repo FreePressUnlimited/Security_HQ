@@ -43,7 +43,7 @@
 
 **DIFFICULTY**: Easy (provided recepient is up and running with PGP)
 
-**LEARN MORE** about how PGP encryption works on [this tutorial](https://www.youtube.com/watch?v=-y2pVn8xi0Y&t=4s).
+**LEARN MORE** about how PGP encryption works on [this tutorial](https://youtu.be/-y2pVn8xi0Y?t=6).
 
 
 
