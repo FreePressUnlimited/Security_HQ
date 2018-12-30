@@ -4,6 +4,7 @@
 
 * [BROWSING](#browsing)
   * [Orbot and Orfox](#orbot-and-orfox)
+  * [Tor Browser](#tor-browser)
 * [EMAILING](#emailing)
   * [Hawkpost](#hawkpost)
   * [ProtonMail](#protonmail)
@@ -27,7 +28,25 @@
 
 **DIFFICULTY**: Easy
 
-**LEARN MORE** about Tor at [torproject.org](https://www.torproject.org/) and about Orbot/Orfox at [securityplanner.org](securityplanner.org)
+**LEARN MORE** about Orbot/Orfox at [securityplanner.org](securityplanner.org)
+
+
+
+
+## **[Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)** 
+
+**WHAT**: Allows you to browse the Internet anonymously. Protects your browsing activity.
+
+**PLATFORM**: Desktop. Cross-platform.
+
+**COST**: Free
+
+**DIFFICULTY**: Medium
+
+**LEARN MORE** about Tor at [torproject.org](https://www.torproject.org/)
+
+
+
 
 
 
