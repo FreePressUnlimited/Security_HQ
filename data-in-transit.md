@@ -6,6 +6,7 @@
   * [DuckDuckGo](#duckduckgo)
   * [Firefox Multi-Account Containers](#firefox-multi-account-containers)
   * [Google Analytics Opt-out](#google-analytics-opt-out)
+  * [HTTPS Everywhere](#https-everywhere)
   * [Orbot and Orfox](#orbot-and-orfox)
   * [Tor Browser](#tor-browser)
 * [EMAILING](#emailing)
@@ -53,6 +54,19 @@
 **WHAT**: Browser extension that prevents your data from being used by Google Analytics.
 
 **PLATFORM**: Browser extension. Available for Google Chrome, Mozilla Firefox, Apple Safari and Opera.
+
+**COST**: Free
+
+**DIFFICULTY**: Easy
+
+
+
+
+## **[HTTPS Everywhere](https://www.eff.org/https-everywhere)** 
+
+**WHAT**: Browser extension that makes sure major websites encrypt your communications.
+
+**PLATFORM**: Browser extension. Available for Google Chrome, Mozilla Firefox and Opera. Also available for Android.
 
 **COST**: Free
 
