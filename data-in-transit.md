@@ -107,7 +107,7 @@
 
 Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use | Platform
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Mullvad](https://mullvad.net/en/) | Yes | No | Yes | Sweden | Yes | Easy (No set up needed) | Cross-platform
+[Mullvad](https://mullvad.net/en/) | Yes | No | Yes | Sweden | Yes | Easy | Cross-platform
 [Psiphon](https://psiphon.ca/) | Yes | No | Yes | - | Free | Easy | iOS, Android, Windows
 
 
