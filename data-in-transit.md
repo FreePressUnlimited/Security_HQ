@@ -17,6 +17,8 @@
 
 **PLATFORM**: Android
 
+**COST**: Free
+
 **DIFFICULTY**: Easy
 
 **LEARN MORE** about Tor at [torproject.org](https://www.torproject.org/) and about Orbot/Orfox at [securityplanner.org](securityplanner.org)
@@ -32,4 +34,6 @@
 
 **PLATFORM**: iPhone, Android and desktop, cross-platform
 
-**DIFFICULTY**: Easy
+**COST**: Free
+
+***DIFFICULTY**: Easy
