@@ -1,4 +1,6 @@
-# Staying Safe on Social Media and while Searching the Net
+# Social and Search
+
+    Resources for staying safe when interacting with the internet, whether on social media or when searching the net.
 
 *Last updated: Dec 2018*
 
