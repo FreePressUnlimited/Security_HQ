@@ -1,6 +1,6 @@
-# Social and Search
+# Social Media and Anti Phishing Strategies
 
-    Resources for staying safe when interacting with the internet, whether on social media or when searching the net.
+    Resources for staying safe when interacting with others on the net.
 
 *Last updated: Dec 2018*
 
@@ -9,8 +9,9 @@
   * [Stop Facebook's Collection of Your Metadata](#stop-facebooks-collection-of-your-metadata)
 * [ANTI-PHISHING](#anti-phishing)
   * [VirusTotal](#virustotal)
-* [BROWSER SECURITY](#browser-security)
-  * [Password Alert](#password-alert)
+
+
+
 
 # FACEBOOK
 
@@ -44,20 +45,3 @@
 
 
 
-
-
-
-
-# BROWSER SECURITY
-
-## [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep?hl=en)
-
-**SOURCE**: Google
-
-**TYPE**: Add-on
-
-**PLATFORM**: Chrome browser (desktop, cross-platform)
-
-**COST**: Free
-
-**DIFFICULTY**: Easy
