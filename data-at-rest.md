@@ -45,7 +45,7 @@
 
 
 
-### **[LastPass](https://lastpass.com/)** 
+### **[LastPass](https://lastpass.com/)**
 
 **WHAT**: Although LastPass is not open source it is [recommended](https://securityplanner.org/#/tool/password-manager) for most users for its ease-of-use and solid security record. You can use it to store and manage passwords and sync them seamlessly across devices.
 
