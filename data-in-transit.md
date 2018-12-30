@@ -4,6 +4,8 @@
 
 * [BROWSING](#browsing)
   * [Orbot and Orfox](#orbot-and-orfox)
+* [EMAILING](#emailing)
+  * [Hawkpost](#hawkpost)
 * [MESSAGING](#messaging)
   * [Signal](#signal)
 
@@ -22,6 +24,33 @@
 **DIFFICULTY**: Easy
 
 **LEARN MORE** about Tor at [torproject.org](https://www.torproject.org/) and about Orbot/Orfox at [securityplanner.org](securityplanner.org)
+
+
+
+
+
+
+
+# EMAILING
+
+## **[Hawkpost](https://hawkpost.co/)** 
+
+**WHAT**: An online form that allows you to get encrypted data (email or files) from people who know nothing or little about PGP encryption. You still need, as the recepient, to open PGP encrypted files meant for your eyes only. 
+
+**PLATFORM**: Cross-platform
+
+**COST**: Free
+
+**DIFFICULTY**: Easy (provided recepient is up and running with PGP)
+
+**LEARN MORE** about how PGP encryption works on [this tutorial](https://www.youtube.com/watch?v=-y2pVn8xi0Y&t=4s).
+
+
+
+
+
+
+
 
 
 
