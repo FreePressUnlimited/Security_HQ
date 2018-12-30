@@ -11,6 +11,7 @@
 * [MESSAGING](#messaging)
   * [Signal](#signal)
 * [VIRTUAL PRIVATE NETWORK](#virtual-private-network)
+  * [Recommended VPN Service Providers](#recommended-vpn-service-providers)
 
 
 
@@ -93,7 +94,7 @@
 
     
     
-# **VIRTUAL PRIVATE NETWORK**
+# VIRTUAL PRIVATE NETWORK
 
     A Virtual Private Network or VPN channels your device's 
     entire connection through an encrypted "tunnel" which 
@@ -101,7 +102,7 @@
     you to access blocked content in a network.
 
 
-**RECOMMENDED VPN SERVICE PROVIDERS**
+## **RECOMMENDED VPN SERVICE PROVIDERS**
 
 First Header | Second Header
 ------------ | -------------
