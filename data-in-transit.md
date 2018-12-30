@@ -6,6 +6,8 @@
   * [Orbot and Orfox](#orbot-and-orfox)
 * [EMAILING](#emailing)
   * [Hawkpost](#hawkpost)
+  * [ProtonMail](#protonmail)
+  * [ProtonMail + Tor](#protonmail--tor)
 * [MESSAGING](#messaging)
   * [Signal](#signal)
 
@@ -64,13 +66,13 @@
 
 ## **[ProtonMail + Tor](https://protonmail.com/tor)** 
 
-**WHAT**: ProtonMai over the Tor network enabling the anonymous use of the email service. Users must access ProtonMail through the Tor browser.
+**WHAT**: ProtonMai over the Tor network enables the anonymous use of the email service. Users must have the Tor browser installed.
 
-**PLATFORM**: Mobile and desktop, cross-platform
+**PLATFORM**: Desktop, cross platform through the Tor browser.
 
-**COST**: Freemium
+**COST**: Free
 
-**DIFFICULTY**: Medium
+**DIFFICULTY**: Advanced
 
 **LEARN MORE** about ProtonMail over Tor setup [here](https://protonmail.com/support/knowledge-base/tor-setup/).
 
