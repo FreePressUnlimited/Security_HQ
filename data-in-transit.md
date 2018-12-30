@@ -4,6 +4,7 @@
 
 * [BROWSING](#browsing)
   * [DuckDuckGo](#duckduckgo)
+  * [Firefox Multi-Account Containers](#)
   * [Orbot and Orfox](#orbot-and-orfox)
   * [Tor Browser](#tor-browser)
 * [EMAILING](#emailing)
@@ -25,6 +26,19 @@
 **WHAT**: Privacy-enhancing search engine and browser for mobile and desktop.
 
 **PLATFORM**: [iOS](https://itunes.apple.com/us/app/duckduckgo-privacy-browser/id663592361?mt=8), [Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&hl=en), website and cross-platform [browser add-on](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
+
+**COST**: Free
+
+**DIFFICULTY**: Easy
+
+
+
+
+## **[Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)** 
+
+**WHAT**: A Firefox extension that allows you greater control over your privacy. Cookies are separated by "container", allowing you to use the web with multiple identities or accounts simultaneously.
+
+**PLATFORM**: Firefox browser extension
 
 **COST**: Free
 
