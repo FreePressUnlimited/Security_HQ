@@ -10,7 +10,7 @@
   * [ProtonMail + Tor](#protonmail--tor)
 * [MESSAGING](#messaging)
   * [Signal](#signal)
-* [VIRTUAL PRIVATE NETWORKS](#vpn)
+* [VIRTUAL PRIVATE NETWORK](#virtual-private-network)
 
 
 
@@ -93,7 +93,7 @@
 
     
     
-# **VPN**
+# **VIRTUAL PRIVATE NETWORK**
 
     A Virtual Private Network or VPN channels your device's 
     entire connection through an encrypted "tunnel" which 
