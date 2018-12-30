@@ -11,7 +11,7 @@
     * [LastPass](#lastpass)
     
  * [MULTI-FACTOR AUTHENTICATION](#multi-factor-authentication)
-   * [yubikey](#yubikey)
+   * [YubiKey](#yubikey)
 
 
 # PASSWORDS
