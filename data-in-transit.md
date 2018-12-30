@@ -3,7 +3,7 @@
 *Last updated: Dec 2018*
 
 * [BROWSING](#browsing)
-  * [Orbot and Orfox](##orbot-and-orfox)
+  * [Orbot and Orfox](#orbot-and-orfox)
 * [MESSAGING](#messaging)
   * [Signal](#signal)
 
