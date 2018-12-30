@@ -1,6 +1,7 @@
 # Security of Data at Rest
 
-    Resources for securing the data stored in your devices and your online accounts.
+    Resources for securing the data stored in 
+    your devices and your online accounts.
 
 *Last updated: Dec 2018*
 
