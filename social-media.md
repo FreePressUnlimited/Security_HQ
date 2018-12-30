@@ -8,6 +8,7 @@
 
 
 * [FACEBOOK](#facebook)
+  * [Facebook Container](#facebook-container)
   * [Stop Facebook's Collection of Your Metadata](#stop-facebooks-collection-of-your-metadata)
 * [ANTI-PHISHING](#anti-phishing)
   * [Password Alert](#password-alert)
@@ -17,6 +18,20 @@
 
 
 # FACEBOOK
+
+
+## [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+
+**SOURCE**: [Mozilla](https://addons.mozilla.org/en-US/firefox/user/4757633/)
+
+**WHAT**: Extension for Firefox designed to prevent Facebook from tracking you around the web by isolating your web activity from Facebook.
+
+**PLATFORM**: Firefox extension
+
+**DIFFICULTY**: Easy
+
+
+
 
 ## [Stop Facebook's Collection of Your Metadata](https://www.eff.org/deeplinks/2018/03/android-users-change-setting-stop-facebooks-collection-your-call-and-text-metadata)
 
