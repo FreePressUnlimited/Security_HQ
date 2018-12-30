@@ -114,7 +114,7 @@
 
 **AUTHOR**: [Security First](https://secfirst.org/) 
 
-**WHAT**: Free Android
+**WHAT**: Android app
 
 **WHEN**: To get free and updated digital and physical security advice on the go.
 
