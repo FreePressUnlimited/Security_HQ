@@ -60,7 +60,7 @@
 
 ### [YubiKey](https://www.yubico.com/)
 
-**WHAT**: Hardware authentication device (small USB key or wireless dongle) that allows users to securely log into their accounts. It is an advanced form of  two-factor athentication that makes it harder for unauthorized persons to gain access to your accounts 
+**WHAT**: Hardware authentication device (small USB key or wireless dongle) that allows users to securely log into their accounts. It is an advanced form of  two-factor athentication that makes it harder for unauthorized persons to gain access to your accounts.
 
 **PLATFORM**: Desktop and mobile, cross-platform (depending on the model)
 
