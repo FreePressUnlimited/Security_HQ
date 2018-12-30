@@ -93,9 +93,13 @@
 
     
     
-# **[VPN]**
+# **VPN**
 
-> A Virtual Private Network (VPN) uses encryption to secure your internet connection, to help you browse with more privacy and security, and to access websites that may be blocked on your network. -Security Planner
+    A Virtual Private Network or VPN channels your device's 
+    entire connection through an encrypted "tunnel" which 
+    protects your privacy and security. A VPN can also allow 
+    you to access blocked content in a network.
+
 
 **RECOMMENDED VPN SERVICE PROVIDERS**
 
