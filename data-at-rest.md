@@ -27,7 +27,7 @@
 
 **COST**: Free
 
-**DIFFICULTY**: Easy
+**DIFFICULTY**: Medium
 
 
 
@@ -39,7 +39,7 @@
 
 **COST**: Free
 
-**DIFFICULTY**: Medium
+**DIFFICULTY**: Advanced
 
 **LEARN MORE** at [KeepassXC.org](https://keepassxc.org/project/)
 
