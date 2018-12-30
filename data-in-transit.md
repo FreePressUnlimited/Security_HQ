@@ -10,6 +10,7 @@
   * [ProtonMail + Tor](#protonmail--tor)
 * [MESSAGING](#messaging)
   * [Signal](#signal)
+* [VIRTUAL PRIVATE NETWORKS](#vpn)
 
 
 
@@ -26,10 +27,6 @@
 **DIFFICULTY**: Easy
 
 **LEARN MORE** about Tor at [torproject.org](https://www.torproject.org/) and about Orbot/Orfox at [securityplanner.org](securityplanner.org)
-
-
-
-
 
 
 
@@ -93,3 +90,24 @@
 **COST**: Free
 
 **DIFFICULTY**: Easy
+
+    
+    
+# **[VPN]
+
+> A Virtual Private Network (VPN) uses encryption to secure your internet connection, to help you browse with more privacy and security, and to access websites that may be blocked on your network. -Security Planner
+
+**RECOMMENDED VPN SERVICE PROVIDERS**
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+    
+    
+    
+    
+    
+    
+    
+    
