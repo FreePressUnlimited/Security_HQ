@@ -1,4 +1,4 @@
-# Security on Social Media and When Searching the Net
+# Staying Safe on Social Media and while Searching the Net
 
 *Last updated: Dec 2018*
 
