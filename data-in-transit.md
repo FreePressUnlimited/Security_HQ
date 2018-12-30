@@ -3,6 +3,7 @@
 *Last updated: Dec 2018*
 
 * [BROWSING](#browsing)
+  * [DuckDuckGo](#duckduckgo)
   * [Orbot and Orfox](#orbot-and-orfox)
   * [Tor Browser](#tor-browser)
 * [EMAILING](#emailing)
@@ -17,6 +18,21 @@
 
 
 # BROWSING
+
+
+## **[DuckDuckGo](https://duckduckgo.com/)** 
+
+**WHAT**: Privacy-enhancing search engine and browser for mobile and desktop.
+
+**PLATFORM**: [iOS](https://itunes.apple.com/us/app/duckduckgo-privacy-browser/id663592361?mt=8), [Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&hl=en), website and cross-platform [browser add-on](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
+
+**COST**: Free
+
+**DIFFICULTY**: Easy
+
+
+
+
 
 ## **[Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en) and [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=en)** 
 
