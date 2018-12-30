@@ -5,6 +5,7 @@
 * [BROWSING](#browsing)
   * [DuckDuckGo](#duckduckgo)
   * [Firefox Multi-Account Containers](#firefox-multi-account-containers)
+  * [Google Analytics Opt-out](#)
   * [Orbot and Orfox](#orbot-and-orfox)
   * [Tor Browser](#tor-browser)
 * [EMAILING](#emailing)
@@ -38,12 +39,24 @@
 
 **WHAT**: A Firefox extension that allows you greater control over your privacy. Cookies are separated by "container", allowing you to use the web with multiple identities or accounts simultaneously.
 
-**PLATFORM**: Firefox browser extension
+**PLATFORM**: Firefox browser extension. Works across platforms.
 
 **COST**: Free
 
 **DIFFICULTY**: Easy
 
+
+
+
+## **[Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout)** 
+
+**WHAT**: Browser extension that prevents your data from being used by Google Analytics.
+
+**PLATFORM**: Browser extension. Available for Google Chrome, Mozilla Firefox, Apple Safari and Opera.
+
+**COST**: Free
+
+**DIFFICULTY**: Easy
 
 
 
