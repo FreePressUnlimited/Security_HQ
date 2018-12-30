@@ -111,7 +111,7 @@ Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction 
 [Psiphon](https://psiphon.ca/) | Yes | No | Yes | - | Free | Easy | iOS, Android, Windows
 
 
-**LEARN MORE** about how a VPN works [here](https://thewirecutter.com/reviews/what-is-a-vpn/).
+**LEARN MORE** about how a VPN works, [here](https://thewirecutter.com/reviews/what-is-a-vpn/).
 
     
     
