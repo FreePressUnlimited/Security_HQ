@@ -99,20 +99,21 @@
     A Virtual Private Network, or VPN, channels your device's 
     entire connection through an encrypted "tunnel" which 
     protects your privacy and security. A VPN can also allow 
-    you to access blocked content in a network.
-
+    you to access blocked. A VPN does NOT, however, make you 
+    entirely anonymous. The services you sign on to on the 
+    internet even while using a VPN can still figure out 
+    who you are.
 
 ## **RECOMMENDED VPN SERVICE PROVIDERS**
 
-First Header | Second Header | Second Header | Second Header
+Provider | Open source | Jurisdiction | Second Header
 ------------ | ------------- | ------------- | -------------
 Content from cell 1 | Content from cell 2 | Content from cell 2 | Content from cell 2
 Content in the first column | Content in the second column | Content in the second column | Content in the second column
 
-    
-    
-    
-    
+
+**LEARN MORE** about Virtual Private Networks [here](https://securityplanner.org/#/tool/virtual-private-network).
+
     
     
     
