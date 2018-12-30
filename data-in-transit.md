@@ -105,15 +105,13 @@
 
 ## **RECOMMENDED VPN SERVICE PROVIDERS**
 
-Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use
------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Mullvad](https://mullvad.net/en/) | Yes | No | Yes | Sweden | Yes | Easy (No set up needed)
-Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use
-Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use
-Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use
+Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use | Platform
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Mullvad](https://mullvad.net/en/) | Yes | No | Yes | Sweden | Yes | Easy (No set up needed) | Cross-platform
+[Psiphon](https://psiphon.ca/) | Yes | No | Yes | - | Free | Easy | iOS, Android, Windows
 
 
-**LEARN MORE** about Virtual Private Networks [here](https://securityplanner.org/#/tool/virtual-private-network).
+**LEARN MORE** about how a VPN works [here](https://thewirecutter.com/reviews/what-is-a-vpn/).
 
     
     
