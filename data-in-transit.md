@@ -49,6 +49,31 @@
 
 
 
+## **[ProtonMail](https://protonmail.com/)** 
+
+**WHAT**: End-to-end encrypted email service. 
+
+**PLATFORM**: Mobile and desktop, cross-platform
+
+**COST**: Freemium
+
+**DIFFICULTY**: Easy
+
+
+
+
+## **[ProtonMail + Tor](https://protonmail.com/tor)** 
+
+**WHAT**: ProtonMai over the Tor network enabling the anonymous use of the email service. Users must access ProtonMail through the Tor browser.
+
+**PLATFORM**: Mobile and desktop, cross-platform
+
+**COST**: Freemium
+
+**DIFFICULTY**: Medium
+
+**LEARN MORE** about ProtonMail over Tor setup [here](https://protonmail.com/support/knowledge-base/tor-setup/).
+
 
 
 
