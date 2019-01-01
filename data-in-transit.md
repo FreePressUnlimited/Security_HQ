@@ -8,6 +8,7 @@
   * [Google Analytics Opt-out](#google-analytics-opt-out)
   * [HTTPS Everywhere](#https-everywhere)
   * [Orbot and Orfox](#orbot-and-orfox)
+  * [Privacy Badger](#privacy-badger)
   * [Tor Browser](#tor-browser)
 * [EMAILING](#emailing)
   * [Hawkpost](#hawkpost)
@@ -89,10 +90,22 @@
 
 
 
+## **[Privacy Badger](https://www.eff.org/privacybadger)** 
+
+**WHAT**: A browser add-on that automatically learns to block invisible trackers to protect your privacy.
+
+**PLATFORM**: Desktop. Cross-platform.
+
+**COST**: Free
+
+**DIFFICULTY**: Easy
+
+
+
 
 ## **[Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)** 
 
-**WHAT**: Allows you to browse the Internet anonymously. Protects your browsing activity.
+**WHAT**: A browser that allows you to explore the Internet anonymously. Protects your browsing activity.
 
 **PLATFORM**: Desktop. Cross-platform.
 
