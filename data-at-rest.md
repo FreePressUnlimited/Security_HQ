@@ -18,6 +18,7 @@
 
 * [WEBSITE SECURITY](#website-security)
    * [Certbot](#certbot)
+   * [Deflect](#deflect)
 
 # PASSWORDS
 
@@ -97,3 +98,13 @@
 
 **LEARN MORE** about [why HTTPS matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https).
 
+
+### **[Deflect](https://deflect.ca/)**
+
+**WHAT**: Free open source anti DDoS (distributed denial-of-service) attack  mitigation service for your website.
+
+**COST**: Free. ([Elgibility criteria](https://docs.deflect.ca/en/latest/eligibility.html) do apply.)
+
+**DIFFICULTY**: Advanced
+
+**LEARN MORE** about what a DDoS attack is [here](https://www.youtube.com/watch?v=rg-EhNFnwS0).
