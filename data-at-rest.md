@@ -12,9 +12,12 @@
     * [KeepassXC](#keepassxc)
     * [LastPass](#lastpass)
     
- * [MULTI-FACTOR AUTHENTICATION](#multi-factor-authentication)
+ * [SECOND-FACTOR AUTHENTICATION](#second-factor-authentication)
    * [YubiKey](#yubikey)
 
+
+* [WEBSITE SECURITY](#website-security)
+   * [Certbot](#certbot)
 
 # PASSWORDS
 
@@ -58,7 +61,16 @@
 **DIFFICULTY**: Easy
 
 
-# MULTI-FACTOR AUTHENTICATION
+# SECOND-FACTOR AUTHENTICATION
+
+    Second-factor authentication requires that you 
+    enter another method of authentication on top
+    of your password. This adds an extra layer of 
+    protection making your online accounts much 
+    harder to break into. 
+    
+    There are many methods of authentication. Below,
+    we list those recommended most.
 
 ### **[YubiKey](https://www.yubico.com/)**
 
@@ -70,4 +82,20 @@
 
 **DIFFICULTY**: Medium
 
-**LEARN MORE** about security keys [here](https://www.yubico.com/solutions/fido-u2f/). 
+**LEARN MORE** about security keys [here](https://www.yubico.com/solutions/fido-u2f/).
+
+
+# WEBSITE SECURITY
+
+### **[Certbot](https://certbot.eff.org/)**
+
+**WHAT**: xx.
+
+**PLATFORM**: xx
+
+**COST**: xx
+
+**DIFFICULTY**: xx
+
+**LEARN MORE** xx
+
