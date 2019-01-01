@@ -107,4 +107,4 @@
 
 **DIFFICULTY**: Advanced
 
-**LEARN MORE** about what a DDoS attack is [here](https://www.youtube.com/watch?v=rg-EhNFnwS0).
+**LEARN MORE** about DDoS attacks [here](https://www.youtube.com/watch?v=rg-EhNFnwS0).
