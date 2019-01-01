@@ -89,7 +89,7 @@
 
 ### **[Certbot](https://certbot.eff.org/)**
 
-**WHAT**: This program helps you enable HTTPS on your website for free if you haven't already. Certbot automatically deploys [EFF's](https://www.eff.org/) [Let's Encrypt](https://letsencrypt.org/) certificate. HTTPS is a protocol that secures data (such as login credentials) between a browser and your website. It also helps authenticate your website.
+**WHAT**: This program helps you enable HTTPS on your website for free, if you haven't already. Certbot automatically deploys [EFF's](https://www.eff.org/) [Let's Encrypt](https://letsencrypt.org/) certificate. HTTPS is a protocol that secures data (such as login credentials) between a browser and your website. It also helps authenticate your website.
 
 **COST**: Free
 
