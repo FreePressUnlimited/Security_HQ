@@ -95,5 +95,5 @@
 
 **DIFFICULTY**: Advanced
 
-**LEARN MORE** about how to check a website's authenticity at [securityplanner.org](https://securityplanner.org/#/tool/check-website-names)
+**LEARN MORE** about [why HTTPS matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https).
 
