@@ -8,7 +8,7 @@
   * [Google Analytics Opt-out](#google-analytics-opt-out)
   * [HTTPS Everywhere](#https-everywhere)
   * [Orbot and Orfox](#orbot-and-orfox)
-  * [Start Page](#start-page)
+  * [StartPage](#startpage)
   * [Privacy Badger](#privacy-badger)
   * [Tor Browser](#tor-browser)
 * [EMAILING](#emailing)
@@ -103,7 +103,7 @@
 
 
 
-## **[Start Page](https://www.startpage.com/)** 
+## **[StartPage](https://www.startpage.com/)** 
 
 **WHAT**: Privacy-enhancing search engine. Alternative to Google.
 
