@@ -8,6 +8,7 @@
   * [Google Analytics Opt-out](#google-analytics-opt-out)
   * [HTTPS Everywhere](#https-everywhere)
   * [Orbot and Orfox](#orbot-and-orfox)
+  * [Start Page](#start-page)
   * [Privacy Badger](#privacy-badger)
   * [Tor Browser](#tor-browser)
 * [EMAILING](#emailing)
@@ -26,7 +27,7 @@
 
 ## **[DuckDuckGo](https://duckduckgo.com/)** 
 
-**WHAT**: Privacy-enhancing search engine and browser for mobile and desktop.
+**WHAT**: Privacy-enhancing search engine (alternative to Google) and browser for mobile and desktop.
 
 **PLATFORM**: [iOS](https://itunes.apple.com/us/app/duckduckgo-privacy-browser/id663592361?mt=8), [Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&hl=en), website and cross-platform [browser add-on](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 
@@ -94,7 +95,19 @@
 
 **WHAT**: A browser add-on that automatically learns to block invisible trackers to protect your privacy.
 
-**PLATFORM**: Desktop. Cross-platform.
+**PLATFORM**: Available for Google Chrome, Mozilla Firefox, Opera and Android.
+
+**COST**: Free
+
+**DIFFICULTY**: Easy
+
+
+
+## **[Start Page](https://www.startpage.com/)** 
+
+**WHAT**: Privacy-enhancing search engine. Alternative to Google.
+
+**PLATFORM**: Website. Cross-platform.
 
 **COST**: Free
 
