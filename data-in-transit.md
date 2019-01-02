@@ -19,6 +19,8 @@
   * [Signal](#signal)
 * [VIRTUAL PRIVATE NETWORK](#virtual-private-network)
   * [Recommended VPN Service Providers](#recommended-vpn-service-providers)
+* [VOICE AND CONFERENCE CALLS](#voice-and-conference-calls)
+  * [Jitsi Meet](#jitsi-meet)
 
 
 
@@ -194,7 +196,27 @@
 
 **DIFFICULTY**: Easy
 
+
+
+
+
+
     
+# VIDEO-CONFERENCING
+
+## **[Jitsi Meet](https://jitsi.org/jitsi-meet/)** 
+
+**WHAT**: A secure, end-to-end encrypted, open source alternative to Skype, Jitsi Meet can be used directly in a browser without the need for installing additional software. It can also be used as a stand-alone mobile application. Users can share a view of their desktop and invite new participants by sharing the link to the videoconference room.
+
+**PLATFORM**: iPhone, Android and desktop, cross-platform
+
+**COST**: Free
+
+**DIFFICULTY**: Easy
+
+
+
+
     
 # VIRTUAL PRIVATE NETWORK
 
@@ -215,7 +237,5 @@ Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction 
 
 **LEARN MORE** about how a VPN works, [here](https://thewirecutter.com/reviews/what-is-a-vpn/).
 
-    
-    
     
     
