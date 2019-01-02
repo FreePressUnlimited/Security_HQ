@@ -5,5 +5,5 @@
 * [Communication Tool's Safety Checklist](#)
 
 
-# Communication Tool's Safety Checklist
-
+# Choosing a communications channel
+**[Communication Tool's Safety Checklist](#checklist.pdf)
