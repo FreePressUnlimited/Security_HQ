@@ -17,10 +17,11 @@
   * [ProtonMail + Tor](#protonmail--tor)
 * [MESSAGING](#messaging)
   * [Signal](#signal)
+* [VIDEO-CONFERENCING](#video-conferencing)
+  * [Jitsi Meet](#jitsi-meet)
 * [VIRTUAL PRIVATE NETWORK](#virtual-private-network)
   * [Recommended VPN Service Providers](#recommended-vpn-service-providers)
-* [VOICE AND CONFERENCE CALLS](#voice-and-conference-calls)
-  * [Jitsi Meet](#jitsi-meet)
+
 
 
 
