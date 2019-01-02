@@ -90,7 +90,7 @@
 
 **DIFFICULTY**: Easy
 
-**LEARN MORE** about Orbot/Orfox at [securityplanner.org](https://securityplanner.org/#/tool/orbot-and-orfox)
+**LEARN MORE** about Orbot/Orfox at [securityplanner (dot) org](https://securityplanner.org/#/tool/orbot-and-orfox)
 
 
 
