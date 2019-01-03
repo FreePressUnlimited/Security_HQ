@@ -2,7 +2,7 @@
 
 *Last updated: Jan 2019*
 
-* [There are so many messaging apps. How do I choose which one is safest?](#there-are-so-many-messaging--apps-how-do-i-choose-which-one-is-safest)
+* [There are so many messaging apps. How do I choose which one is safest?](#there-are-so-many-messaging-apps-how-do-i-choose-which-one-is-safest)
 
 * * *
 
