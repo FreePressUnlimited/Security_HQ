@@ -2,13 +2,14 @@
 
 *Last updated: Jan 2019*
 
-* [There are so many different communication apps and channels available now. How do I choose which one is safest?](#there-are-so-many-different-communication-apps-and-channels-available-now-how-do-i-choose-which-one-is-safest)
+* [There are so many messaging apps. How do I choose which one is safest?](#there-are-so-many-messaging--apps-how-do-i-choose-which-one-is-safest)
 
 * * *
 
-# There are so many different communication apps and channels available now. How do I choose which one is safest?
-Each communication app or channel comes with it's own pros and cons. You need to assess every situation based on what you want to protect, against whom and from what plausible threat.
-At any rate, Access Now provides a helpful list of recommended channels that you can pick from. Please so consider each solution for its own merit. Keep in mind that none of the solutions is perfect.
+# There are so many messaging apps. How do I choose which one is safest?
+
+Each communication app or channel comes with it's own pros and cons. You need to assess every situation based on what you want to protect, against whom, and from what threat.
+At any rate, the following table provides an overview of recommended messaging tools. Please consider each solution for its own merit and keep in mind that no solution is entirely perfect.
 
 | **Tool** | **Open source** | **Default E2E** | **Group chat** |**Encryption protocol** | **Anonymous sign-up** | **Email sign-up** | **Phone sign-up** | **Self-destructing messages** | **Remote message deletion** | **Metadata Collection** | **Paid** | **Jurisdiction** | **Self-hosted** | **Usability** |
 |------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
