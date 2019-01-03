@@ -2,7 +2,7 @@
 
 *Last updated: Jan 2019*
 
-**DATA IN TRANSIT**
+## **DATA IN TRANSIT**
 
     Messaging, texting, emailing, calling, conferencing, etc.
 
@@ -10,7 +10,7 @@
 
 * * *
 
-# There are so many messaging apps. How do I choose which one is safest?
+## There are so many messaging apps. How do I choose which one is safest?
 
 Each communication app or channel comes with it's own pros and cons. You need to assess every situation based on what you want to protect, against whom, and from what threat.
 At any rate, the following table provides an overview of recommended messaging tools. Please consider each solution for its own merit and keep in mind that no solution is entirely perfect.
