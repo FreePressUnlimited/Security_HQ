@@ -20,6 +20,8 @@
    * [Certbot](#certbot)
    * [Deflect](#deflect)
 
+* * *
+
 # PASSWORDS
 
 ## PASSWORD MANAGERS
