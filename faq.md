@@ -2,6 +2,10 @@
 
 *Last updated: Jan 2019*
 
+**DATA IN TRANSIT**
+
+    Messaging, texting, emailing, calling, conferencing, etc.
+
 * [There are so many messaging apps. How do I choose which one is safest?](#there-are-so-many-messaging-apps-how-do-i-choose-which-one-is-safest)
 
 * * *
@@ -16,8 +20,6 @@ At any rate, the following table provides an overview of recommended messaging t
 | **Signal** | Yes | Yes | Yes | Signal | No | No | Yes | Yes | No | No | No | USA | No | Good |
 | **Wire** | Yes | Yes | Yes | Proteus | No | Yes | Yes | Yes | Yes | Yes | Freemium | Switzerland | No | Good |
 | **Riot** | Yes | Yes | Yes | Matrix | Yes | Yes | Yes | No | No | Yes | No | - | Yes | Medium |
-| **XMPP+OMEMO** | Yes | No | Unreliable | OMEMO | No | Yes | No | Conversations: yes | No | Depends on the provider | No | - | Yes | Low |
-| **XMPP+OTR** | Yes | No | No | OTR | No | Yes | No | No | No | Depends on the provider | No | - | Yes | Low |
 | **Mattermost** | Yes | No | Yes | No encryption | No | Yes | No | No | Yes | No | No | - | Yes | Good |
 | **Threema** | Only encryption protocol | Yes | Yes | NaCl | Yes | No | No | No | No | No | No | Switzerland | No | Good |
 | **WhatsApp** | Only encryption protocol | Yes | Yes | Signal | No | No | Yes | Yes | Yes | Yes | No | USA | No | Good |
