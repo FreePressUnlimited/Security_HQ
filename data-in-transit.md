@@ -19,7 +19,7 @@
   * [Signal](#signal)
 * [VIDEO-CONFERENCING](#video-conferencing)
   * [Jitsi Meet](#jitsi-meet)
-* [VIRTUAL PRIVATE NETWORK](#virtual-private-network)
+* [VIRTUAL PRIVATE NETWORK](#virtual-private-networks-and-circumvention-tools)
   * [Recommended VPN Service Providers](#recommended-vpn-service-providers)
 
 
@@ -187,28 +187,34 @@
 
 ## **[ProtonMail](https://protonmail.com/)** 
 
-**WHAT**: End-to-end encrypted email service. 
+**WHAT**: Webmail service provider.
 
-**USEFUL FOR**: 
+**USEFUL FOR**: Using an open source and secure alternative to popular webmail service providers such as Gmail. Protonmail uses end-end-encryption and open source cryptography and does not have access to users data.
 
-**PLATFORM**: Mobile and desktop, cross-platform
+**PLATFORM**: Works on mobile and desktop on all platforms.
 
-**COST**: Freemium
+**COST**: Freemium.
 
-**DIFFICULTY**: Easy
+**DIFFICULTY**: Easy.
+
+**LIMITS**: The free plan is limited to 500MB storage and 150 messages per day.
+
+**LEARN MORE**: ProtonMail offers additional security features such as address verification and PGP integration. Learn more about how to use ProtonMail's security features [here](https://protonmail.com/blog/address-verification-pgp-support/).
 
 
 
 
 ## **[ProtonMail + Tor](https://protonmail.com/tor)** 
 
-**WHAT**: ProtonMai over the Tor network enables the anonymous use of the email service. Users must have the Tor browser installed.
+**WHAT**: A way to run ProtonMai over the Tor network.
 
-**PLATFORM**: Desktop, cross platform through the Tor browser.
+**USEFUL FOR**: Adding an extra layer of anonymity to your ProtonMail use. 
 
-**COST**: Free
+**PLATFORM**: Works on desktop through the Tor browser. (Users must have the Tor browser already installed.)
 
-**DIFFICULTY**: Advanced
+**COST**: Free.
+
+**DIFFICULTY**: Medium.
 
 **LEARN MORE** about ProtonMail over Tor setup [here](https://protonmail.com/support/knowledge-base/tor-setup/).
 
@@ -220,15 +226,19 @@
 
 ## **[Signal](https://signal.org/)** 
 
-**WHAT**: Signal is an open source, end-to-end encrypted messaging app. But Signal has grown to become more than that: It allows group chat, secure calls, self-destructing messages and more.
+**WHAT**: Easy-to-use, secure messaging app.
 
-**PLATFORM**: iPhone, Android and desktop, cross-platform
+**USEFUL FOR**: Conducting safe group messaging, voice and video calls. It is safe because it is end-to-end encrypted and fully open source.
 
-**COST**: Free
+**PLATFORM**: Works on iPhone, Android and desktop on all platforms.
 
-**DIFFICULTY**: Easy
+**COST**: Free.
 
+**DIFFICULTY**: Easy.
 
+**LIMITS**: Signal does NOT protect against malware of phishing messages. 
+
+**LEARN MORE**: Learn how to spot [suspicious messages](https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#safer-emails) and [suspicious websites](https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#link-check).
 
 
 * * * 
@@ -239,13 +249,19 @@
 
 ## **[Jitsi Meet](https://jitsi.org/jitsi-meet/)** 
 
-**WHAT**: A secure, end-to-end encrypted, open source alternative to Skype, Jitsi Meet can be used directly in a browser without the need for installing additional software. It can also be used as a stand-alone mobile application. Users can share a view of their desktop and invite new participants by sharing the link to the videoconference room.
+**WHAT**: A program for conference calls.
 
-**PLATFORM**: iPhone, Android and desktop, cross-platform
+**USEFUL FOR**: Safe alternative to Skype. Allows conducting secure online calls without the need for installing complicated software. Jitsi Meet can be used directly in a browser. It can also be used as a stand-alone mobile application. Users can share a live screen view of their desktop and easily invite new participants by simply sharing a link.
+
+Jitsi is end-to-end encrypted and open source.
+
+**PLATFORM**: Works on iPhone, Android and desktop, across platforms.
 
 **COST**: Free
 
 **DIFFICULTY**: Easy
+
+**LEARN MORE**: [How Jitsi Meet works](https://jitsi.org/user-faq/).
 
 
 * * * 
