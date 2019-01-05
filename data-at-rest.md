@@ -132,6 +132,6 @@
 
 **COST**: Free. ([Elgibility criteria](https://docs.deflect.ca/en/latest/eligibility.html) do apply.)
 
-**DIFFICULTY**: Hard
+**DIFFICULTY**: Hard.
 
 **LEARN MORE** about DDoS attacks [here](https://www.youtube.com/watch?v=rg-EhNFnwS0).
