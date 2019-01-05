@@ -39,7 +39,7 @@
 
 **COST**: Free.
 
-**DIFFICULTY**: Good.
+**DIFFICULTY**: Easy.
 
 
 
@@ -99,11 +99,11 @@
 
 **PLATFORM**: Works on mobile and desktop (cross-platform).
 
-**COST**: Variable starting around $20.
+**COST**: Variable, starting around $20.
 
 **DIFFICULTY**: Medium.
 
-**LIMITS**: Some security keys (older models) only work on devices with a USB port. More recent models though no longer require being plugged in and can be activated remotely at the push of a button.
+**LIMITS**: Some security keys (older models) only work on devices with a USB port. More recent models no longer require being plugged in and can be activated remotely at the push of a button.
 
 **LEARN MORE** about security keys [here](https://www.yubico.com/solutions/fido-u2f/).
 
@@ -132,6 +132,6 @@
 
 **COST**: Free. ([Elgibility criteria](https://docs.deflect.ca/en/latest/eligibility.html) do apply.)
 
-**DIFFICULTY**: Advanced
+**DIFFICULTY**: Hard
 
 **LEARN MORE** about DDoS attacks [here](https://www.youtube.com/watch?v=rg-EhNFnwS0).
