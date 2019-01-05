@@ -23,29 +23,37 @@
   * [Recommended VPN Service Providers](#recommended-vpn-service-providers)
 
 
-
+* * * 
 
 # BROWSING
 
 
 ## **[DuckDuckGo](https://duckduckgo.com/)** 
 
-**WHAT**: Privacy-enhancing search engine (alternative to Google) and browser for mobile and desktop.
+**WHAT**: Privacy-enhancing search engine and browser for mobile and desktop.
 
-**PLATFORM**: [iOS](https://itunes.apple.com/us/app/duckduckgo-privacy-browser/id663592361?mt=8), [Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&hl=en), website and cross-platform [browser add-on](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
+**USEFUL FOR**: Making private searches and browsing online. Good alternative to Google, Bink and other commercial search engines that harvest user data.
 
-**COST**: Free
+**PLATFORM**: [iOS](https://itunes.apple.com/us/app/duckduckgo-privacy-browser/id663592361?mt=8), [Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&hl=en), website and cross-platform [browser add-on](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg).
 
-**DIFFICULTY**: Easy
+**COST**: Free.
+
+**DIFFICULTY**: Easy.
+
+**LIMITS**: Using a privacy-enhancing search engine will NOT make you anonymous as it does not protect you against tracking by your internet service provider or some governments. 
+
+**LEARN MORE**: Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides) provides some useful advice on ways to enhance your anonymity online.
 
 
 
 
 ## **[Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)** 
 
-**WHAT**: A Firefox extension that allows you greater control over your privacy. Cookies are separated by "container", allowing you to use the web with multiple identities or accounts simultaneously.
+**WHAT**: A Firefox extension.
 
-**PLATFORM**: Firefox browser extension. Works across platforms.
+**USEFUL FOR**:  Having greater control over your browsing habit. The extension separates cookies by "container", allowing you to use the web with multiple identities or accounts simultaneously.
+
+**PLATFORM**: Works on desktop, across platforms.
 
 **COST**: Free
 
@@ -56,22 +64,26 @@
 
 ## **[Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout)** 
 
-**WHAT**: Browser extension that prevents your data from being used by Google Analytics.
+**WHAT**: Browser extension.
 
-**PLATFORM**: Browser extension. Available for Google Chrome, Mozilla Firefox, Apple Safari and Opera.
+**USEFUL FOR**: To prevent your data from being used by Google Analytics.
 
-**COST**: Free
+**PLATFORM**: Works in desktop. Available for Google Chrome, Mozilla Firefox, Apple Safari and Opera.
 
-**DIFFICULTY**: Easy
+**COST**: Free.
+
+**DIFFICULTY**: Easy.
 
 
 
 
 ## **[HTTPS Everywhere](https://www.eff.org/https-everywhere)** 
 
-**WHAT**: Browser extension that makes sure major websites encrypt your communications.
+**WHAT**: Browser extension.
 
-**PLATFORM**: Browser extension. Available for Google Chrome, Mozilla Firefox and Opera. Also available for Android.
+**USEFUL FOR**: Making sure major websites encrypt your communications, especially when you input sensitive data such as your account password.
+
+**PLATFORM**: Works in desktop and mobile. Available for Google Chrome, Mozilla Firefox, Opera, and Android.
 
 **COST**: Free
 
@@ -82,33 +94,41 @@
 
 ## **[Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en) and [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=en)** 
 
-**WHAT**: Orbot and Orfox are two mobile apps that work together to channel your Android mobile's internet through the Tor network. Tor provides greater anonymity online.
+**WHAT**: Mobile apps.
 
-**PLATFORM**: Android
+**USEFUL FOR**: Channelling your Android mobile's entire internet connection through the Tor network. Tor provides greater anonymity online.
 
-**COST**: Free
+**PLATFORM**: Android.
 
-**DIFFICULTY**: Easy
+**COST**: Free.
 
-**LEARN MORE** about Orbot/Orfox at [securityplanner (dot) org](https://securityplanner.org/#/tool/orbot-and-orfox)
+**DIFFICULTY**: Medium.
+
+**LIMITS**: May slow down your internet connection.
+
+**LEARN MORE**: [What's the Tor network and how it works](https://www.torproject.org/about/overview).
 
 
 
 ## **[Privacy Badger](https://www.eff.org/privacybadger)** 
 
-**WHAT**: A browser add-on that automatically learns to block invisible trackers to protect your privacy.
+**WHAT**: Browser add-on.
 
-**PLATFORM**: Available for Google Chrome, Mozilla Firefox, Opera and Android.
+**USEFUL FOR**: Blocking invisible trackers.
 
-**COST**: Free
+**PLATFORM**: Available for desktop and mobile: Google Chrome, Mozilla Firefox, Opera and Android.
 
-**DIFFICULTY**: Easy
+**COST**: Free.
+
+**DIFFICULTY**: Easy.
 
 
 
 ## **[StartPage](https://www.startpage.com/)** 
 
-**WHAT**: Privacy-enhancing search engine. Alternative to Google.
+**WHAT**: Privacy-enhancing search engine.
+
+**USEFUL FOR**: Making private searches and browsing online. Good alternative to Google, Bink and other commercial search engines that harvest user data.
 
 **PLATFORM**: Website. Cross-platform.
 
@@ -116,39 +136,50 @@
 
 **DIFFICULTY**: Easy
 
+**LIMITS**: Using a privacy-enhancing search engine will NOT make you anonymous as it does not protect you against tracking by your internet service provider or some governments. 
+
+**LEARN MORE**: Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides) provides some useful advice on ways to enhance your anonymity online.
+
 
 
 
 ## **[Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)** 
 
-**WHAT**: A browser that allows you to explore the Internet anonymously. Protects your browsing activity.
+**WHAT**: Browser.
+
+**USEFUL FOR**: Browsing the Internet anonymously and protecting your online activity.
 
 **PLATFORM**: Desktop. Cross-platform.
 
-**COST**: Free
+**COST**: Free.
 
-**DIFFICULTY**: Medium
+**DIFFICULTY**: Medium.
 
-**LEARN MORE** about Tor at [torproject.org](https://www.torproject.org/)
+**LIMITS**: Use Tor with caution. Entering personal data into a website will reveal your identity even when you are using Tor. Tor will not protect you either against malicious websites or malware.
+
+**LEARN MORE** about the [Tor Project here](https://www.torproject.org/). Get advice on how to enhance your anonymity online by consulting the Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides).
 
 
-
-
+* * * 
 
 
 # EMAILING
 
 ## **[Hawkpost](https://hawkpost.co/)** 
 
-**WHAT**: An online form that allows you to get encrypted data (email or files) from people who know nothing or little about PGP encryption. You still need, as the recepient, to open PGP encrypted files meant for your eyes only. 
+**WHAT**: Secure online form.
 
-**PLATFORM**: Cross-platform
+**USEFUL FOR**: Getting encrypted data (email or files) from people who know nothing or little about PGP encryption. You still need, as the recepient, to open PGP encrypted files meant for your eyes only. 
 
-**COST**: Free
+**PLATFORM**: Works on any browser, on a desktop or mobile.
 
-**DIFFICULTY**: Easy (provided recepient is up and running with PGP)
+**COST**: Free.
 
-**LEARN MORE** about how PGP encryption works on [this tutorial](https://youtu.be/-y2pVn8xi0Y?t=6).
+**DIFFICULTY**: Easy.
+
+**LIMITS**: As a recepient, you will have to create a "box" for receiving encrypted data. You are therefore required to be knowledgeable of PGP encryption.
+
+**LEARN MORE**: [How PGP encryption works](https://youtu.be/-y2pVn8xi0Y?t=6).
 
 
 
@@ -157,6 +188,8 @@
 ## **[ProtonMail](https://protonmail.com/)** 
 
 **WHAT**: End-to-end encrypted email service. 
+
+**USEFUL FOR**: 
 
 **PLATFORM**: Mobile and desktop, cross-platform
 
@@ -180,9 +213,7 @@
 **LEARN MORE** about ProtonMail over Tor setup [here](https://protonmail.com/support/knowledge-base/tor-setup/).
 
 
-
-
-
+* * * 
 
 
 # MESSAGING
@@ -200,6 +231,7 @@
 
 
 
+* * * 
 
 
     
@@ -216,17 +248,12 @@
 **DIFFICULTY**: Easy
 
 
-
+* * * 
 
     
-# VIRTUAL PRIVATE NETWORK
+# VIRTUAL PRIVATE NETWORKS AND CIRCUMVENTION TOOLS
 
-    A Virtual Private Network, or VPN, channels your device's 
-    entire connection through an encrypted "tunnel" which 
-    protects your privacy and security. A VPN can also allow 
-    you to access blocked content. A VPN does NOT, however, 
-    make you entirely anonymous. The services you sign on to 
-    on the internet can still figure out who you are.
+    A Virtual Private Network, or VPN, is a program that channels your device's internet connection through an encrypted "tunnel" which helps protect your privacy and security. A VPN can also allow you to access blocked content on your netwoek. A VPN does NOT, however, make you entirely anonymous. The services you sign on to on the internet can still figure out who you are.
 
 ## **RECOMMENDED VPN SERVICE PROVIDERS**
 
@@ -236,7 +263,5 @@ Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction 
 [Psiphon](https://psiphon.ca/) | Yes | No | Yes | - | Free | Easy | iOS, Android, Windows
 
 
-**LEARN MORE** about how a VPN works, [here](https://thewirecutter.com/reviews/what-is-a-vpn/).
+**LEARN MORE**: The use of a VPN does NOT eliminate the need for making sure that other security measures are in place to protect your devices and accounts. Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides) provides some useful advice on ways to enhance your anonymity online.
 
-    
-    
