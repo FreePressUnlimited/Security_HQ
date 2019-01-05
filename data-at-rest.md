@@ -29,81 +29,104 @@
 
 ### **[Encryptr](https://spideroak.com/encryptr/)** 
 
-**WHAT**: Open source, fully encrypted password manager that allows syncing of passwords across devices.
+**WHAT**: Open source, fully encrypted password manager.
 
-**PLATFORM**: Cross-platform. Works on mobile (iOS and Android) and desktop.
+**USEFUL FOR**: storing passwords and syncing passwords across your devices.
 
-**COST**: Free
+**PLATFORM**: Works on mobile (iOS and Android) and desktop (cross-platform).
 
-**DIFFICULTY**: Medium
+**COST**: Free.
+
+**DIFFICULTY**: Good.
 
 
 
 ### **[KeepassXC](https://keepassxc.org/)** 
 
-**WHAT**: Free, open source, fully encrypted password manager that lives locally on your device.
+**WHAT**: Free, open source, fully encrypted password manager.
 
-**PLATFORM**: Desktop (cross-platform)
+**USEFUL FOR**: Generating and safely storing passwords, notes and files in your device.
 
-**COST**: Free
+**PLATFORM**: Works on desktop (cross-platform).
 
-**DIFFICULTY**: Advanced
+**COST**: Free.
 
-**LEARN MORE** at [KeepassXC.org](https://keepassxc.org/project/)
+**DIFFICULTY**: Hard.
+
+**LIMITS**: Hard to sync across devices.
+
+**LEARN MORE** at [KeepassXC.org](https://keepassxc.org/project/).
 
 
 
 ### **[LastPass](https://lastpass.com/)**
 
-**WHAT**: Although LastPass is not open source it is [recommended](https://securityplanner.org/#/tool/password-manager) for most users for its ease-of-use and solid security record. You can use it to store and manage passwords and sync them seamlessly across devices.
+**WHAT**: Browser-based password manager.
 
-**PLATFORM**: Cross-platform. Works on mobile (iOS, Android, Windows Phone) and desktop
+**USEFUL FOR**: Generating, managing passwords and syncing them across devices. Also useful for safely sharing passwords and secret notes with other LastPass users.
 
-**COST**: Freemium
+**PLATFORM**: Works on mobile (iOS, Android, Windows Phone) and desktop (cross-platform).
 
-**DIFFICULTY**: Easy
+**COST**: Freemium.
 
+**DIFFICULTY**: Easy.
 
-# SECOND-FACTOR AUTHENTICATION
+**LIMITS**: LastPass is not open source. It is, however, [recommended](https://securityplanner.org/#/tool/password-manager) for most users for its ease-of-use and solid security record.
 
-    Second-factor authentication requires that you 
-    enter another method of authentication on top
-    of your password. This adds an extra layer of 
-    protection making your online accounts much 
-    harder to break into. 
+* * *
+
+# MULTI-FACTOR AUTHENTICATION
+
+    Having extra steps of authentication 
+    requires that you enter other methods 
+    of authentication on top of your usual
+    password to log in to your accounts. 
+    This adds an extra layer of protection,
+    like an extra lock on the door, making 
+    your online accounts much harder to 
+    break. 
     
-    There are many methods of authentication. Below,
-    we list those recommended most.
+    There are many methods of authentication. 
+    Below, we list those recommended most.
 
 ### **[YubiKey](https://www.yubico.com/)**
 
-**WHAT**: Hardware authentication device (small USB key or wireless dongle) that allows users to securely log into their accounts. It is an advanced form of  two-factor athentication that makes it harder for unauthorized persons to gain access to your accounts.
+**WHAT**: Hardware authentication device (small USB key or wireless dongle).
 
-**PLATFORM**: Desktop and mobile, cross-platform (depending on the model)
+**USEFUL FOR**: Securing access to your most senstive accounts. To log into your account you would need to input your password then plug in or activate the device (usually a small USB key) to be able to have access.
 
-**COST**: Variable starting around $20
+**PLATFORM**: Works on mobile and desktop (cross-platform).
 
-**DIFFICULTY**: Medium
+**COST**: Variable starting around $20.
+
+**DIFFICULTY**: Medium.
+
+**LIMITS**: Some security keys (older models) only work on devices with a USB port. More recent models though no longer require being plugged in and can be activated remotely at the push of a button.
 
 **LEARN MORE** about security keys [here](https://www.yubico.com/solutions/fido-u2f/).
 
+* * *
 
 # WEBSITE SECURITY
 
 ### **[Certbot](https://certbot.eff.org/)**
 
-**WHAT**: This program helps you enable HTTPS on your website for free, if you haven't already. Certbot automatically deploys [EFF's](https://www.eff.org/) [Let's Encrypt](https://letsencrypt.org/) certificate. HTTPS is a protocol that secures data (such as login credentials) between a browser and your website. It also helps authenticate your website.
+**WHAT**: Bot developed by [EFF](https://www.eff.org/) for the deployment of [Let's Encrypt](https://letsencrypt.org/) certificates.
 
-**COST**: Free
+**USEFUL FOR**: Enabling HTTPS on your website for free, if you haven't already. HTTPS is a protocol that secures data (such as login credentials) between a browser and your website. It also helps authenticate your website for its users.
 
-**DIFFICULTY**: Advanced
+**COST**: Free.
+
+**DIFFICULTY**: Hard.
 
 **LEARN MORE** about [why HTTPS matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https).
 
 
 ### **[Deflect](https://deflect.ca/)**
 
-**WHAT**: Free open source anti DDoS (distributed denial-of-service) attack  mitigation service for your website.
+**WHAT**: Free open source anti DDoS (distributed denial-of-service) attack  mitigation service.
+
+**USEFUL FOR**: Protecting your website from DDoS attacks.
 
 **COST**: Free. ([Elgibility criteria](https://docs.deflect.ca/en/latest/eligibility.html) do apply.)
 
