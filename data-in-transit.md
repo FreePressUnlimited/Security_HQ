@@ -253,15 +253,20 @@
     
 # VIRTUAL PRIVATE NETWORKS AND CIRCUMVENTION TOOLS
 
-    A Virtual Private Network, or VPN, is a program that channels your device's internet connection through an encrypted "tunnel" which helps protect your privacy and security. A VPN can also allow you to access blocked content on your netwoek. A VPN does NOT, however, make you entirely anonymous. The services you sign on to on the internet can still figure out who you are.
+**WHAT**: A Virtual Private Network, or VPN, is a program that channels your device's internet connection through an encrypted "tunnel" which helps protect your privacy and security. A VPN can also allow you to access blocked content on your network.
 
-## **RECOMMENDED VPN SERVICE PROVIDERS**
+**USEFUL FOR**: Protecting the privacy and security of your internet activity. Accessing blocked or censored content online.
+
+**RECOMMENDED VPN SERVICE PROVIDERS**
 
 Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use | Platform
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Mullvad](https://mullvad.net/en/) | Yes | No | Yes | Sweden | Yes | Easy | Cross-platform
-[Psiphon](https://psiphon.ca/) | Yes | No | Yes | - | Free | Easy | iOS, Android, Windows
+[Mullvad](https://mullvad.net/en/) | Yes | No | Yes | Sweden | Yes | Good | Cross-platform
+[Psiphon](https://psiphon.ca/) | Yes | No | Yes | - | Free | Good | iOS, Android, Windows
 
 
-**LEARN MORE**: The use of a VPN does NOT eliminate the need for making sure that other security measures are in place to protect your devices and accounts. Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides) provides some useful advice on ways to enhance your anonymity online.
+**LIMITS**: A VPN does NOT make you entirely anonymous. The services you sign on to on the internet can still figure out who you are. 
+The use of a VPN does NOT eliminate the need for making sure that other security measures are in place to protect your devices and accounts. 
+
+**LEARN MORE**: Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides) provides some useful advice on ways to enhance your anonymity online.
 
