@@ -11,6 +11,7 @@
 * [TECHNICAL ASSISTANCE](#technical-assistance)
   * [Access Now Digital Security Helpline](#access-now-digital-security-helpline) 
   
+* * * 
 
 ## FINANCIAL ASSISTANCE
 
@@ -34,6 +35,7 @@
 
 **FOR WHOM**: Human rights defenders at risk.
 
+* * * 
 
 ## TECHNICAL ASSISTANCE
 
