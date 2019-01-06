@@ -75,17 +75,9 @@
 
 # MULTI-FACTOR AUTHENTICATION
 
-    Having extra steps of authentication 
-    requires that you enter other methods 
-    of authentication on top of your usual
-    password to log in to your accounts. 
-    This adds an extra layer of protection,
-    like an extra lock on the door, making 
-    your online accounts much harder to 
-    break. 
-    
-    There are many methods of authentication. 
-    Below, we list those recommended most.
+> Having extra steps of authentication requires that you enter other methods of authentication on top of your usual password to log in to your accounts. This adds an extra layer of protection, like an extra lock on the door, making  your online accounts much harder to break. 
+
+> There are many methods of authentication. Below, we list those recommended most.
 
 ### **[YubiKey](https://www.yubico.com/)**
 
