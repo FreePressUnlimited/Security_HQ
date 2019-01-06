@@ -4,6 +4,9 @@
 
 > Resources for securing the data stored in your devices and your online accounts.
 
+* [CLOUD STORAGE AND BACKUP]
+  * [Tresorit](#tresorit)
+
 * [PASSWORDS](#passwords)
   * [PASSWORD MANAGERS](#password-managers)
     * [Encryptr](#encryptr)
@@ -17,6 +20,24 @@
 * [WEBSITE SECURITY](#website-security)
    * [Certbot](#certbot)
    * [Deflect](#deflect)
+
+* * *
+
+# CLOUD STORAGE AND BACKUP
+
+## **[Tresorit](https://tresorit.com/)** 
+
+**WHAT**: Online cloud storage service.
+
+**USEFUL FOR**: Storing, sharing, syncing data across devices and backing it up safely. Tresorit uses strong security features such as [end-to-end encrypted](https://tresorit.com/security) and two-factor authentication to protect your data.
+
+**PLATFORM**: Works on mobile and desktop, across all platforms.
+
+**COST**: Variable. Tresorit provides [limited free subscription](https://tresorit.com/subscribe-nonprofit) for nonprofit organizations.
+
+**DIFFICULTY**: Easy.
+
+**JURISDICTION**: Switzerland, EU.
 
 * * *
 
