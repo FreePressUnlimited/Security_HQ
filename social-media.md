@@ -62,7 +62,7 @@
 
 ## [VirusTotal](https://www.virustotal.com/#/home/url)
 
-**WHAT**: Online agregator of antivirus and anti malware scanners.
+**WHAT**: Online aggregator of antivirus and anti malware scanners.
 
 **USEFUL FOR**: Scanning files and URLs using a myriad of antivirus scanners and other tools to detect malware and fake websites that you think may be trying to steal your password. 
 
