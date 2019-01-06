@@ -66,7 +66,7 @@
 
 **USEFUL FOR**: Scanning files and URLs using a myriad of antivirus scanners and other tools to detect malware and fake websites that you think may be trying to steal your password. 
 
-**PLATFORM**: Works on all platforms, on mibile and desktop. VirusTotal offers [desktop apps](https://support.virustotal.com/hc/en-us/articles/115002179065-Desktop-apps), [browser extensions](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) and [mobile apps](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-Apps).
+**PLATFORM**: Works on all platforms, on mobile and desktop. VirusTotal offers [desktop apps](https://support.virustotal.com/hc/en-us/articles/115002179065-Desktop-apps), [browser extensions](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) and [mobile apps](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-Apps).
 
 **COST**: Free
 
