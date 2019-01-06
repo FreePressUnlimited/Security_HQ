@@ -29,7 +29,7 @@
 
 **WHAT**: Online cloud storage service.
 
-**USEFUL FOR**: Storing, sharing, syncing data across devices and backing it up safely. Tresorit uses strong security features such as [end-to-end encrypted](https://tresorit.com/security) and two-factor authentication to protect your data.
+**USEFUL FOR**: Storing, sharing, syncing data across devices and backing it up safely. Tresorit uses strong security features such as [end-to-end encryption](https://tresorit.com/security) and two-factor authentication to protect your data.
 
 **PLATFORM**: Works on mobile and desktop, across all platforms.
 
