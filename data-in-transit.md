@@ -17,7 +17,6 @@
   * [ProtonMail](#protonmail)
   * [ProtonMail + Tor](#protonmail--tor)
 * [MESSAGING](#messaging)
-  * [Signal](#signal)
 * [VIDEO-CONFERENCING](#video-conferencing)
   * [Jitsi Meet](#jitsi-meet)
 * [VIRTUAL PRIVATE NETWORK](#virtual-private-networks-and-circumvention-tools)
