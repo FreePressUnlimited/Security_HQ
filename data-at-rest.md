@@ -4,7 +4,7 @@
 
 > Resources for securing the data stored in your devices and your online accounts.
 
-* [CLOUD STORAGE AND BACKUP]
+* [CLOUD STORAGE AND BACKUP](#cloud-storage-and-backup)
   * [Tresorit](#tresorit)
 
 * [PASSWORDS](#passwords)
