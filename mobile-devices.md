@@ -6,6 +6,7 @@
   * [ANTIVIRUS](#antivirus)
     * [Clam AV](#clam-av)
 
+* * *
 
 # LAPTOP
 
@@ -13,6 +14,12 @@
 
 ### **[Clam AV](https://www.clamav.net/)** 
 
-**TYPE**: Open source, multi-platform antivirus software for detecting trojans, viruses, malware & other malicious threats. 
+**WHAT**: Open source, multi-platform antivirus software. 
 
-**DIFFICULTY**: Advanced 
+**USEFUL FOR**: Detecting trojans, viruses, malware & other malicious threats.
+
+**PLATFORM**: Desktop, available across platforms.
+
+**COST**: Free.
+
+**DIFFICULTY**: Advanced.
