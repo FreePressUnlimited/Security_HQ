@@ -18,95 +18,63 @@
 
 **AUTHOR**: [CPJ](https://cpj.org/).
 
-**WHAT**: Read-through guide.
+**TYPE**: Read-through guide.
 
-**USEFUL FOR**: For journalists who need a comprehensive guide. Offers basic to advanced security advice for new and experienced journalists taking on their assignments around the world. Available in multiple languages. 
-
-**DIFFICULTY**: Variable.
-
+**WHAT**: Comprehensive guide specifically tailored for journalists. Offers basic to advanced security advice.
 
 
 ## **[Digital Security from Riseup](https://riseup.net/en/security)** 
 
 **AUTHOR**: [Riseup](https://riseup.net/en).
 
-**WHAT**: Read-through guide.
-**USEFUL FOR**: Quickly getting started on the basics of digital security. Available in multiple languages. 
+**TYPE**: Read-through guide.
 
-**DIFFICULTY**: Easy.
-
-
+**WHAT**: Short overview. Ideal for quickly getting started on the basics of digital security. 
 
 
 ## **[Digital security tips to protect you, your sources and your story](https://ijnet.org/en/story/digital-security-tips-protect-you-your-sources-and-your-story)** 
 
 **AUTHOR**: [IJNET](https://ijnet.org/en).
 
-**WHAT**: Read-through guide.
+**TYPE**: Read-through guide.
 
-**USEFUL FOR**: Getting familiar with basic principles of protection for devices and communication with sources. 
-
-**DIFFICULTY**: Easy.
-
-
-
+**WHAT**: Guide tailored for investigative journalists. Offers basic principles of protection for devices and communication with sources. 
 
 
 ## **[Journalists in Distress: Securing Your Digital Life](https://www.cjfe.org/journalists_in_distress_securing_your_digital_life)** 
 
 **AUTHOR**: [Canadian Journalists For Free Expression](https://www.cjfe.org/).
 
-**WHAT**: Read-through guide.
+**TYPE**: Read-through guide.
 
-**USEFUL FOR**: Quick tips and advice on how to protect yourself and your investigation. 
-
-**DIFFICULTY**: Easy.
-
-
-
+**WHAT**: Guide tailored for investigative journalists. Ideal for getting quick tips and advice on how to protect yourself and your investigation. 
 
 
 ## **[Security in a Box](https://securityinabox.org/en/)** 
 
 **AUTHOR**: [Tactical Technology Collective](https://tacticaltech.org/) and [Front Line Defenders](https://www.frontlinedefenders.org/).
 
-**WHAT**: Website.
+**TYPE**: Website.
 
-**USEFUL FOR**: Trusted resource for looking for and comparing tools and tactics and learning about new ones. Available in multiple languages. 
-
-**DIFFICULTY**: Variable.
-
-
-
-
+**WHAT**: Comprehensive and trusted resource for looking for and comparing tools and tactics and learning about new ones.
 
 
 ## **[Security Planner](https://securityplanner.org/#/)** 
 
 **AUTHOR**: [The Citizen Lab](https://citizenlab.ca/).
 
-**WHAT**: Interactive guide.
+**TYPE**: Interactive guide.
 
-**USEFUL FOR**: Devising personalized digital security plans. 
-
-**DIFFICULTY**: Easy.
-
-
-
-
+**WHAT**: Comprehensive and updated guide ideal for devising personalized digital security plans. 
 
 
 ## **[Surveillance Self-Defense](https://ssd.eff.org/en)** 
 
 **AUTHOR**: [The Electronic Frontier Foundation (EFF)](https://www.eff.org/).
 
-**WHAT**: Website.
+**TYPE**: Website.
 
-**WHEN**: A trusted and updated go-to for newbies and experts alike. Ideal to learn from scratch how to stay safe online.
-
-**DIFFICULTY**: Variable.
-
-
+**WHAT**: Comprehensive and trusted digital security resource.
 
 
 
@@ -114,8 +82,6 @@
 
 **AUTHOR**: [Security First](https://secfirst.org/).
 
-**WHAT**: Android app.
+**TYPE**: Android app.
 
-**WHEN**: To get free and updated digital and physical security advice on the go.
-
-**DIFFICULTY**: Easy.
+**WHAT**: Free and updated digital and physical security guide available on your phone.
