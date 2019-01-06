@@ -12,110 +12,110 @@
 * [Surveillance Self-Defense](#surveillance-self-defense)
 * [Umbrella](#umbrella)
 
+* * * 
 
-### **[CPJ Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)** 
+## **[CPJ Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)** 
 
-**AUTHOR**: [CPJ](https://cpj.org/) 
+**AUTHOR**: [CPJ](https://cpj.org/).
 
-**WHAT**: Read-through guide
+**WHAT**: Read-through guide.
 
-**WHEN**: For journalists who need a comprehensive guide. Offers basic to advanced security advice for new and experienced journalists taking on their assignments around the world. Available in multiple languages. 
+**USEFUL FOR**: For journalists who need a comprehensive guide. Offers basic to advanced security advice for new and experienced journalists taking on their assignments around the world. Available in multiple languages. 
 
-**DIFFICULTY**: Variable
-
-
-
-### **[Digital Security from Riseup](https://riseup.net/en/security)** 
-
-**AUTHOR**: [Riseup](https://riseup.net/en) 
-
-**WHAT**: Read-through guide
-
-**WHEN**: To quickly get started on the basics of digital security. Available in multiple languages. 
-
-**DIFFICULTY**: Easy
+**DIFFICULTY**: Variable.
 
 
 
+## **[Digital Security from Riseup](https://riseup.net/en/security)** 
 
-### **[Digital security tips to protect you, your sources and your story](https://ijnet.org/en/story/digital-security-tips-protect-you-your-sources-and-your-story)** 
+**AUTHOR**: [Riseup](https://riseup.net/en).
 
-**AUTHOR**: [IJNET](https://ijnet.org/en) 
+**WHAT**: Read-through guide.
+**USEFUL FOR**: Quickly getting started on the basics of digital security. Available in multiple languages. 
 
-**WHAT**: Read-through guide
-
-**WHEN**: To get familiar with basic principles of protection for devices and communication with sources. 
-
-**DIFFICULTY**: Easy
+**DIFFICULTY**: Easy.
 
 
 
 
+## **[Digital security tips to protect you, your sources and your story](https://ijnet.org/en/story/digital-security-tips-protect-you-your-sources-and-your-story)** 
 
-### **[Journalists in Distress: Securing Your Digital Life](https://www.cjfe.org/journalists_in_distress_securing_your_digital_life)** 
+**AUTHOR**: [IJNET](https://ijnet.org/en).
 
-**AUTHOR**: [Canadian Journalists For Free Expression](https://www.cjfe.org/) 
+**WHAT**: Read-through guide.
 
-**WHAT**: Read-through guide
+**USEFUL FOR**: Getting familiar with basic principles of protection for devices and communication with sources. 
 
-**WHEN**: For quick tips and advice on how to protect yourself and your investigation. 
-
-**DIFFICULTY**: Easy
+**DIFFICULTY**: Easy.
 
 
 
 
 
-### **[Security in a Box](https://securityinabox.org/en/)** 
+## **[Journalists in Distress: Securing Your Digital Life](https://www.cjfe.org/journalists_in_distress_securing_your_digital_life)** 
 
-**AUTHOR**: [Tactical Technology Collective](https://tacticaltech.org/) and [Front Line Defenders](https://www.frontlinedefenders.org/)  
+**AUTHOR**: [Canadian Journalists For Free Expression](https://www.cjfe.org/).
 
-**WHAT**: Website
+**WHAT**: Read-through guide.
 
-**WHEN**: Ideal for beginners and experts alike. The website is a trusted resource to search and compare tools and tactics and learn of new ones. Available in multiple languages. 
+**USEFUL FOR**: Quick tips and advice on how to protect yourself and your investigation. 
 
-**DIFFICULTY**: Variable
-
-
+**DIFFICULTY**: Easy.
 
 
 
 
-### **[Security Planner](https://securityplanner.org/#/)** 
 
-**AUTHOR**: [The Citizen Lab](https://citizenlab.ca/) 
+## **[Security in a Box](https://securityinabox.org/en/)** 
 
-**WHAT**: Interactive guide 
+**AUTHOR**: [Tactical Technology Collective](https://tacticaltech.org/) and [Front Line Defenders](https://www.frontlinedefenders.org/).
 
-**WHEN**: To quickly devise a personalized digital security plan ang get familiar. 
+**WHAT**: Website.
 
-**DIFFICULTY**: Easy
+**USEFUL FOR**: Trusted resource for looking for and comparing tools and tactics and learning about new ones. Available in multiple languages. 
+
+**DIFFICULTY**: Variable.
 
 
 
 
 
 
-### **[Surveillance Self-Defense](https://ssd.eff.org/en)** 
+## **[Security Planner](https://securityplanner.org/#/)** 
 
-**AUTHOR**: [The Electronic Frontier Foundation (EFF)](https://www.eff.org/) 
+**AUTHOR**: [The Citizen Lab](https://citizenlab.ca/).
 
-**WHAT**: Website
+**WHAT**: Interactive guide.
+
+**USEFUL FOR**: Devising personalized digital security plans. 
+
+**DIFFICULTY**: Easy.
+
+
+
+
+
+
+## **[Surveillance Self-Defense](https://ssd.eff.org/en)** 
+
+**AUTHOR**: [The Electronic Frontier Foundation (EFF)](https://www.eff.org/).
+
+**WHAT**: Website.
 
 **WHEN**: A trusted and updated go-to for newbies and experts alike. Ideal to learn from scratch how to stay safe online.
 
-**DIFFICULTY**: Variable
+**DIFFICULTY**: Variable.
 
 
 
 
 
-### **[Umbrella](https://secfirst.org/umbrella/)** 
+## **[Umbrella](https://secfirst.org/umbrella/)** 
 
-**AUTHOR**: [Security First](https://secfirst.org/) 
+**AUTHOR**: [Security First](https://secfirst.org/).
 
-**WHAT**: Android app
+**WHAT**: Android app.
 
 **WHEN**: To get free and updated digital and physical security advice on the go.
 
-**DIFFICULTY**: Easy
+**DIFFICULTY**: Easy.
