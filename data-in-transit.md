@@ -226,15 +226,15 @@
 
 When choosing a messaging tool, make sure they meet your security and privacy requirements. Access Now [recommends](https://accessnowhelpline.gitlab.io/community-documentation/141-Secure_Chat_Mobile.html) looking at the following features in any messaging tool:
 
-* **Whether it is open Source**: Open source means that the building blocks of the software behind the tool can be vetted by the security community.
+* **Whether it is open source**: Open source means that the building blocks of the software behind the tool can be vetted by the security community.
 * **Existence of default end-to-end encryption**: The message is transmitted and stored in encrypted format in the servers of the company. This reduces the risk of interception significantly.
-* **Whether it offers group chat**
+* **Whether it offers group chat**.
 * **What encryption protocol it uses**: Some encryption protocols such as Signal and other ones developped based on it (such as Proteus, OMEMO) are trusted because they have been tested by the security community and proved to be solid.
 * **Whether it offers an anonymous sign up option**: The possibity of anonymous sign up (by signing up directly via the app or via email) can be highly useful to, for instance, establish communication with a source.
-* **Whether it offers the option of self-destructing messages and remote message deletion**
+* **Whether it offers the option of self-destructing messages and remote message deletion**.
 * **Whether it collects metadata**: Some of the tools that offer end-to-end encryption can still collect metadata. Metadata can reveal a lot about conversations meant to remain private.
-* **Whether it is a paid or free service**
-* **What jurisdiction the company falls under**
+* **Whether it is a paid or free service**.
+* **What jurisdiction the company falls under**.
 * **Whether it can be self-hosted**: Self-hosting a messaging tool provides greater control over the communication process and eliminates vulnerabilities caused by any third party.
 * **How easy i it to use** (a.k.a. usability).
 
