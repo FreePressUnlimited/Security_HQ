@@ -22,4 +22,4 @@
 
 **COST**: Free.
 
-**DIFFICULTY**: Advanced.
+**DIFFICULTY**: Hard.
