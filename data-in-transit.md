@@ -2,6 +2,7 @@
 
 *Last updated: Dec 2018*
 
+
 * [BROWSING](#browsing)
   * [DuckDuckGo](#duckduckgo)
   * [Firefox Multi-Account Containers](#firefox-multi-account-containers)
@@ -224,27 +225,35 @@
 
 # MESSAGING
 
-## **[Signal](https://signal.org/)** 
+When choosing a messaging tool, make sure they meet your security and privacy requirements. Access Now [recommends](https://accessnowhelpline.gitlab.io/community-documentation/141-Secure_Chat_Mobile.html) looking at the following features in any messaging tool:
 
-**WHAT**: Easy-to-use, secure messaging app.
+* **Whether it is open Source**: Open source means that the building blocks of the software behind the tool can be vetted by the security community.
+* **Existence of default end-to-end encryption**: The message is transmitted and stored in encrypted format in the servers of the company. This reduces the risk of interception significantly.
+* **Whether it offers group chat**
+* **What encryption protocol it uses**: Some encryption protocols such as Signal and other ones developped based on it (such as Proteus, OMEMO) are trusted because they have been tested by the security community and proved to be solid.
+* **Whether it offers an anonymous sign up option**: The possibity of anonymous sign up (by signing up directly via the app or via email) can be highly useful to, for instance, establish communication with a source.
+* **Whether it offers the option of self-destructing messages and remote message deletion**
+* **Whether it collects metadata**: Some of the tools that offer end-to-end encryption can still collect metadata. Metadata can reveal a lot about conversations meant to remain private.
+* **Whether it is a paid or free service**
+* **What jurisdiction the company falls under**
+* **Whether it can be self-hosted**: Self-hosting a messaging tool provides greater control over the communication process and eliminates vulnerabilities caused by any third party.
+* **How easy i it to use** (a.k.a. usability).
 
-**USEFUL FOR**: Conducting safe group messaging, voice and video calls. It is safe because it is end-to-end encrypted and fully open source.
+The following table compiled by [Access Now](https://accessnowhelpline.gitlab.io/community-documentation/141-Secure_Chat_Mobile.html) offers an overview of recommended messaging tools based on the requirements listed above:
 
-**PLATFORM**: Works on iPhone, Android and desktop on all platforms.
-
-**COST**: Free.
-
-**DIFFICULTY**: Easy.
-
-**LIMITS**: Signal does NOT protect against malware of phishing messages. 
-
-**LEARN MORE**: Learn how to spot [suspicious messages](https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#safer-emails) and [suspicious websites](https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#link-check).
-
+| **Tool** | **Open source** | **Default E2E** | **Group chat** |**Encryption protocol** | **Anonymous sign-up** | **Email sign-up** | **Phone sign-up** | **Self-destructing messages** | **Remote message deletion** | **Metadata Collection** | **Paid** | **Jurisdiction** | **Self-hosted** | **Usability** |
+|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| **Signal** | Yes | Yes | Yes | Signal | No | No | Yes | Yes | No | No | No | USA | No | Good |
+| **Wire** | Yes | Yes | Yes | Proteus | No | Yes | Yes | Yes | Yes | Yes | Freemium | Switzerland | No | Good |
+| **Riot** | Yes | Yes | Yes | Matrix | Yes | Yes | Yes | No | No | Yes | No | - | Yes | Medium |
+| **Mattermost** | Yes | No | Yes | No encryption | No | Yes | No | No | Yes | No | No | - | Yes | Good |
+| **Threema** | Only encryption protocol | Yes | Yes | NaCl | Yes | No | No | No | No | No | No | Switzerland | No | Good |
+| **WhatsApp** | Only encryption protocol | Yes | Yes | Signal | No | No | Yes | Yes | Yes | Yes | No | USA | No | Good |
+| **FB Messenger** | Only encryption protocol | No | No | Signal | No | Yes | No | Yes | No | Yes | No | USA | No | Good |
+| **Wickr Me** | Only encryption protocol | Yes | Yes | Wickr | Yes | No | No | Yes | Yes | No | No | USA | No | Good |
 
 * * * 
 
-
-    
 # VIDEO-CONFERENCING
 
 ## **[Jitsi Meet](https://jitsi.org/jitsi-meet/)** 
