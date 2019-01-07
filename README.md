@@ -10,7 +10,9 @@ A safe working environment is essential for investigative journalists. Because j
 - [Urgent support](https://security.money-trail.org/emergency-support): resources you might need in **emergency situations**.
 - Finally, the [FAQ](https://security.money-trail.org/faq) (Frenquently Asked Questions) section catalogues answers given to specific questions asked by trainees.
 
-See [Money Trail](https://www.money-trail.org) for more information about the project.
+> See [Money Trail](https://www.money-trail.org) for more information about the project.
+
+> Free Press Unlimited has established a **Technical Support Desk** that participants can reach out to us for digital security-related advice and support by writing to: **techsupport-moneytrail@freepressunlimited.org**.
 
 ## License
 
