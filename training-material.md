@@ -7,6 +7,14 @@
 * * *
 
 # London, September 2018
+
+## [The Investigation's Risk Assessment Guide (PDF)](https://security.money-trail.org/assets/London-Sept-2018/worksheet.pdf)
+
+**WHAT**: This simple guide helps you better assess the risks that your investigation might entail. Identify likely and impactful threats and conveive of a set of measures to mitigate the more relevant of risks.
+
+**LEARN MORE**: EFF's [Threat Modeling Activity Handout](https://sec.eff.org/materials/threat-modeling-activity-handout-for-learners).
+
+
 ## [Communication Tool's Scoreboard (PDF)](https://security.money-trail.org/assets/London-Sept-2018/commscoreboard.pdf)
 
 **WHAT**: Communications tools are not created equal. While some, such as Signal, offer greater privacy (encryption of content) they may at the same time collect your metadata (compromising your anonymity) or allow third party access to some of your information. The Scoreboard allows you to navigate those security dimensions and choose the tool better suited for your purposes.
