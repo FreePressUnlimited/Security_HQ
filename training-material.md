@@ -1,4 +1,4 @@
-# Traning Material
+# Training Material
 
 * [London, September 2018](#london-september-2018)
   * [Communication Tool's Scoreboard](#communication-tools-scoreboard-pdf)
