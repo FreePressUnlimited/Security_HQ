@@ -3,7 +3,8 @@
 *Last updated Jan 2019*
 
 * [London, September 2018](#london-september-2018)
- * [Communication Tool's Scoreboard](#communication-tools-scoreboard-pdf)
+  * [Communication Tool's Scoreboard](#communication-tools-scoreboard-pdf)
+  * [Security Checklist](#security-checklist-PDF)
 
 * * *
 
