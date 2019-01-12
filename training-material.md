@@ -8,4 +8,4 @@
 
 ## Security Checklist
 
-![Security Checklist](/Security checklist.pdf "Security Checklist")
+![Security Checklist](/security-checklist.pdf "Security Checklist")
