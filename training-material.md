@@ -4,7 +4,7 @@
   * [Investigation's Risk Assessment Guide](#investigations-risk-assessment-guide-pdf)
   * [Communication Tool's Scoreboard](#communication-tools-scoreboard-pdf)
   * [Security Checklist](#security-checklist-pdf)
-  * [Wordlist For Dice-Generated Passphrases](#)
+  * [Wordlist For Dice-Generated Passphrases](#wordlist-for-dice-generated-passphrases-pdf)
 
 * * *
 
