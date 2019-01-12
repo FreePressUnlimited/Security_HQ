@@ -18,6 +18,6 @@
 
 ## [Security Checklist (PDF)](https://security.money-trail.org/assets/London-Sept-2018/secucheck.pdf)
 
-**WHAT**: The checklist is a "pocket" tool to help you quickly identify areas of digital security concerns. This checklist doesn’t replace a personal digital security audit. Check all that applies.
+**WHAT**: The checklist is a "pocket" tool to help you quickly identify areas of digital security concerns. This checklist doesn’t replace a personal digital security audit.
 
 **LEARN MORE**: [MoneyTrail Safety page](https://www.money-trail.org/safety/).
