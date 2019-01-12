@@ -4,7 +4,7 @@
 
 * [London, September 2018](#london-september-2018)
   * [Communication Tool's Scoreboard](#communication-tools-scoreboard-pdf)
-  * [Security Checklist](#security-checklist-PDF)
+  * [Security Checklist](#security-checklist-pdf)
 
 * * *
 
@@ -16,7 +16,7 @@
 **LEARN MORE**: [Messaging](https://security.money-trail.org/data-in-transit#messaging).
 
 
-## [Security Checklist (PDF)](https://security.money-trail.org/assets/London-Sept-2018/secucheck.pdf)
+## [Security Checklist (PDF)](https://security.money-trail.org/assets/London-Sept-2018/Secucheck.pdf)
 
 **WHAT**: The checklist is a "pocket" tool to help you quickly identify areas of digital security concerns. This checklist doesn’t replace a personal digital security audit.
 
