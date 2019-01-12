@@ -2,5 +2,10 @@
 
 *Last updated Jan 2019*
 
-* [Communication Tool's Safety Checklist](#)
+* [Security Checklist](#security-checklist)
+* [Communication Tool's Scoreboard](#)
 
+
+## Security Checklist
+
+![Security Checklist](/Security checklist.pdf "Security Checklist")
