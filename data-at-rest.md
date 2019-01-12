@@ -1,8 +1,8 @@
 # Security of Data at Rest
 
-*Last updated: Dec 2018*
+*Resources for securing the data stored in your devices and your online accounts.*
 
-> Resources for securing the data stored in your devices and your online accounts.
+*Last updated: Dec 2018*
 
 * [CLOUD STORAGE AND BACKUP](#cloud-storage-and-backup)
   * [Tresorit](#tresorit)
