@@ -1,7 +1,8 @@
 # Security of Data in Transit
 
-*Last updated: Dec 2018*
+*Resources for securing the data you exchange with others.*
 
+*Last updated: Dec 2018*
 
 * [BROWSING](#browsing)
   * [DuckDuckGo](#duckduckgo)
@@ -22,11 +23,9 @@
 * [VIRTUAL PRIVATE NETWORK](#virtual-private-networks-and-circumvention-tools)
   * [Recommended VPN Service Providers](#recommended-vpn-service-providers)
 
-
 * * * 
 
 # BROWSING
-
 
 ## **[DuckDuckGo](https://duckduckgo.com/)** 
 
@@ -45,8 +44,6 @@
 **LEARN MORE**: Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides) provides some useful advice on ways to enhance your anonymity online.
 
 
-
-
 ## **[Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)** 
 
 **WHAT**: A Firefox extension.
@@ -58,8 +55,6 @@
 **COST**: Free
 
 **DIFFICULTY**: Easy
-
-
 
 
 ## **[Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout)** 
@@ -75,8 +70,6 @@
 **DIFFICULTY**: Easy.
 
 
-
-
 ## **[HTTPS Everywhere](https://www.eff.org/https-everywhere)** 
 
 **WHAT**: Browser extension.
@@ -88,8 +81,6 @@
 **COST**: Free
 
 **DIFFICULTY**: Easy
-
-
 
 
 ## **[Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en) and [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=en)** 
@@ -109,7 +100,6 @@
 **LEARN MORE**: [What's the Tor network and how it works](https://www.torproject.org/about/overview).
 
 
-
 ## **[Privacy Badger](https://www.eff.org/privacybadger)** 
 
 **WHAT**: Browser add-on.
@@ -121,7 +111,6 @@
 **COST**: Free.
 
 **DIFFICULTY**: Easy.
-
 
 
 ## **[StartPage](https://www.startpage.com/)** 
@@ -139,8 +128,6 @@
 **LIMITS**: Using a privacy-enhancing search engine will NOT make you anonymous as it does not protect you against tracking by your internet service provider or some governments. 
 
 **LEARN MORE**: Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides) provides some useful advice on ways to enhance your anonymity online.
-
-
 
 
 ## **[Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)** 
