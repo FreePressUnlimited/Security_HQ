@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
 paginate: 5
+baseurl: /project-name
