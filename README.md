@@ -8,7 +8,7 @@ A safe working environment is essential for investigative journalists. Because j
 - **[Social media and anti-phishing strategies](https://security.money-trail.org/social-media)**: includes resources on how to safely use social media in the course of your investigative work and interact with others securely.
 - **[Generalist guides](https://security.money-trail.org/guides)**: a list of online **manuals, articles and tutorials**.
 - Under **[Support](https://security.money-trail.org/emergency-support)** you'll find resources that you might need in **emergency situations** as well as **normal situations** when you need to build yourself up to guard against potential threats in the future.
-- Finally, the **[FAQ](https://security.money-trail.org/faq)** (Frenquently Asked Questions) section links to **[training material](/training-material)** and catalogues answers given to specific questions asked by trainees.
+- Finally, the **[FAQ](https://security.money-trail.org/faq)** (Frenquently Asked Questions) section links to the MoneyTrail **[training material](/training-material)** and catalogues answers given to specific questions asked by trainees.
 
 > See [Money Trail](https://www.money-trail.org) for more information about the project.
 
