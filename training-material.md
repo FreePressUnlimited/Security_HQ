@@ -4,6 +4,7 @@
   * [Investigation's Risk Assessment Guide](#investigations-risk-assessment-guide-pdf)
   * [Communication Tool's Scoreboard](#communication-tools-scoreboard-pdf)
   * [Security Checklist](#security-checklist-pdf)
+  * [Wordlist For Dice-Generated Passphrases](#)
 
 * * *
 
@@ -28,3 +29,9 @@
 **WHAT**: The checklist is a "pocket" tool to help you quickly identify areas of digital security concerns. This checklist doesn’t replace a personal digital security audit.
 
 **LEARN MORE**: [MoneyTrail Safety page](https://www.money-trail.org/safety/).
+
+## [Wordlist For Dice-Generated Passphrases (PDF)](https://security.money-trail.org/assets/London-Sept-2018/wordlist.pdf)
+
+**WHAT**: Create unbreakable passphrases using a deck of five dices and list of random words.
+
+**LEARN MORE**: [EFF Dice-Generated Passphrases](https://www.eff.org/dice).
