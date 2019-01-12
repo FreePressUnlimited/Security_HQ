@@ -32,6 +32,6 @@
 
 ## [Wordlist For Dice-Generated Passphrases (PDF)](https://security.money-trail.org/assets/London-Sept-2018/wordlist.pdf)
 
-**WHAT**: Create unbreakable passphrases using a deck of five dices and list of random words.
+**WHAT**: Create unbreakable passphrases using a deck of five dices and a list of random words.
 
 **LEARN MORE**: [EFF Dice-Generated Passphrases](https://www.eff.org/dice).
