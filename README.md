@@ -12,7 +12,10 @@ A safe working environment is essential for investigative journalists. Because j
 
 > See [Money Trail](https://www.money-trail.org) for more information about the project.
 
-> FPU has established a **Technical Support Desk** that participants can reach out to for digital security-related advice and support by writing to: *techsupport-moneytrail@freepressunlimited.org*. 
+> FPU has established a **Technical Support Desk** that participants can reach out to for digital security-related advice and support by writing to: *techsupport-moneytrail@freepressunlimited.org*.
+
+> FPU is also part of [Totem](https://totem-project.org/), an online learning platform that helps journalists and activists use digital security and privacy tools and tactics more effectively in their work.
+
 
 ## License
 
