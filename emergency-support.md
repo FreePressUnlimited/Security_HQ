@@ -51,7 +51,7 @@
 
 ### **[IGLOO](https://www.qurium.org/igloo)**
 
-![Igloo](#)
+![Igloo](/assets/images/igloo.png)
 
 **WHAT**: Holistic Digital Security support, including secure website hosting for 24 months, tailored security audit, digital forensics analysis in case of a digital attack against your webite or email, deployment of circumvention measures in case of blocking of your website and 9-month long mentorship and training program for 1 to 2 members of your organization.
 
