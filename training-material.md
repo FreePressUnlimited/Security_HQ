@@ -4,6 +4,7 @@
   * [Investigation's Risk Assessment Guide](#investigations-risk-assessment-guide-pdf)
   * [Communication Tool's Scoreboard](#communication-tools-scoreboard-pdf)
   * [Security Checklist](#security-checklist-pdf)
+  * [Totem: e-learning platform for activists and journalists](#totem) 
   * [Wordlist For Dice-Generated Passphrases](#wordlist-for-dice-generated-passphrases-pdf)
 
 * * *
@@ -29,6 +30,16 @@
 **WHAT**: The checklist is a "pocket" tool to help you quickly identify areas of digital security concerns. This checklist doesn’t replace a personal digital security audit.
 
 **LEARN MORE**: [MoneyTrail Safety page](https://www.money-trail.org/safety/).
+
+![xx](#)
+
+## [TOTEM](https://totem-project.org/)
+
+**WHAT**: An online learning platform developed by the internet freedom community that helps journalists and activists use digital security and privacy tools and tactics more effectively in their work.
+
+**ENROLL** in courses as they become available. Available courses as of January 2019: 
+ * [Understanding the internet](https://learn.totem-project.org/courses/course-v1:Totem+TP_IP_001+2018/about)
+ * [Phishing](https://learn.totem-project.org/courses/course-v1:Totem+PHS101+course/about)
 
 ## [Wordlist For Dice-Generated Passphrases (PDF)](https://security.money-trail.org/assets/London-Sept-2018/wordlist.pdf)
 
