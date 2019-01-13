@@ -10,8 +10,9 @@
   * [Google Analytics Opt-out](#google-analytics-opt-out)
   * [HTTPS Everywhere](#https-everywhere)
   * [Orbot and Orfox](#orbot-and-orfox)
-  * [StartPage](#startpage)
   * [Privacy Badger](#privacy-badger)
+  * [Site Isolation](#site-isolation)
+  * [StartPage](#startpage)
   * [Tor Browser](#tor-browser)
 * [EMAILING](#emailing)
   * [Hawkpost](#hawkpost)
@@ -111,6 +112,29 @@
 **COST**: Free.
 
 **DIFFICULTY**: Easy.
+
+
+
+
+## **[Site Isolation](https://support.google.com/chrome/answer/7623121?hl=en-GB)** 
+
+**WHAT**: A Chrome browser setting that protects against known security bugs in browsers. It forces Chrome to load each website in its own process. This stops a site from stealing your data from another website.
+
+**USEFUL FOR**: Protecting your browsing activity from snooping by websites such as Facebook.
+
+**PLATFORM**: Works on Chrome.
+
+**COST**: Free
+
+**DIFFICULTY**: Medium
+
+**LIMITS**: Turning on site isolation may slightly slow down your Chrome browser. It may also cause some websites not to function properly. 
+
+**LEARN MORE** about [site isolation](https://www.chromium.org/Home/chromium-security/site-isolation).
+
+
+
+
 
 
 ## **[StartPage](https://www.startpage.com/)** 
