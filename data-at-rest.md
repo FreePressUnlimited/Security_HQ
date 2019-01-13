@@ -28,7 +28,7 @@
 
 ## **[eclips.is](https://eclips.is/)** 
 
-**WHAT**: Platform for deploying your own, secure mail, chat and video conference services, or build your own applications on the platform. Funded by [Open Technology Fund](https://www.opentech.fund), eclips.is is administered by Amsterdam-based tech company [Greenhost](https://greenhost.net).
+**WHAT**: Platform for deploying your own, secure mail, chat and video conference services, or building your own applications. Funded by [Open Technology Fund](https://www.opentech.fund), eclips.is is administered by Amsterdam-based tech company [Greenhost](https://greenhost.net).
 
 **USEFUL FOR**: Protecting your infrastructure especially if you are working with privacy-sensitive information and do not want to depend on software by big corporations like Amazon, Azure and Digital Ocean.
 
