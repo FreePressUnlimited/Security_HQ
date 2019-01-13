@@ -31,7 +31,7 @@
 
 **LEARN MORE**: [MoneyTrail Safety page](https://www.money-trail.org/safety/).
 
-![xx](#)
+![Totem](/assets/images/turtle.png)
 
 ## [TOTEM](https://totem-project.org/)
 
