@@ -1,6 +1,6 @@
 # Emergency Support (A-Z)
 
-*Last updated: Dec 2018*
+*Last updated: Jan 2019*
 
 > As part of the [MoneyTrail project](https://www.money-trail.org/), Free Press Unlimited has established a **Technical Support Desk** that participants can reach out to for digital security-related advice and support, by writing to: *techsupport-moneytrail@freepressunlimited.org*.
 
@@ -12,7 +12,8 @@
 
 
 * [TECHNICAL ASSISTANCE](#technical-assistance)
-  * [Access Now Digital Security Helpline](#access-now-digital-security-helpline) 
+  * [Access Now Digital Security Helpline](#access-now-digital-security-helpline)
+  * [IGLOO](#igloo)
   
 * * * 
 
@@ -46,4 +47,14 @@
 
 **WHAT**: Online security helpline that works with individuals and organizations
 
-**FOR WHOM**: If you’re at risk, the helpline offers to help you improve your digital security practices. If you’re already under attack, the helpline staff provides rapid-response emergency assistance. 
+**FOR WHOM**: If you’re at risk, the helpline offers to help you improve your digital security practices. If you’re already under attack, the helpline staff provides rapid-response emergency assistance.
+
+### **[IGLOO](https://www.qurium.org/igloo)**
+
+![Igloo](#)
+
+**WHAT**: Holistic Digital Security support, including secure website hosting for 24 months, tailored security audit, digital forensics analysis in case of a digital attack against your webite or email, deployment of circumvention measures in case of blocking of your website and 9-month long mentorship and training program for 1 to 2 members of your organization.
+
+**FOR WHOM**: Investigative journalists, independent media, human rights organizations and activists working in Internet repressive regimes. Priority is given to organizations that have been targets of digital attacks in the past, and have a substantial readership in their respective country.
+
+**ENROLLMENT PERIOD**: January-October 2019.
