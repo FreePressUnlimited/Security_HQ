@@ -4,6 +4,7 @@
 
 * [FACEBOOK](#facebook)
   * [Facebook Container](#facebook-container)
+  * [Site Isolation](#site-isolation)
   * [Stop Facebook's Collection of Your Metadata](#stop-facebooks-collection-of-your-metadata)
 * [ANTI-PHISHING](#anti-phishing)
   * [Password Alert](#password-alert)
@@ -26,6 +27,30 @@
 **DIFFICULTY**: Easy
 
 **LEARN MORE** about web tracking at [EFF.org](https://www.eff.org/issues/do-not-track).
+
+
+
+
+
+## **[Site Isolation](https://support.google.com/chrome/answer/7623121?hl=en-GB)** 
+
+**WHAT**: A Chrome browser setting that protects against known security bugs in browsers. It forces Chrome to load each website in its own process. This stops a site from stealing your data from another website.
+
+**USEFUL FOR**: Protecting your browsing activity from snooping by websites such as Facebook.
+
+**PLATFORM**: Works on Chrome.
+
+**COST**: Free
+
+**DIFFICULTY**: Medium
+
+**LIMITS**: Turning on site isolation may slightly slow down your Chrome browser. It may also cause some websites not to function properly. 
+
+**LEARN MORE** about [site isolation](https://www.chromium.org/Home/chromium-security/site-isolation).
+
+
+
+
 
 
 ## [Stop Facebook's Collection of Your Metadata](https://www.eff.org/deeplinks/2018/03/android-users-change-setting-stop-facebooks-collection-your-call-and-text-metadata)
