@@ -17,6 +17,7 @@
 
 **LEARN MORE**: EFF's [Threat Modeling Activity Handout](https://sec.eff.org/materials/threat-modeling-activity-handout-for-learners).
 
+* * * 
 
 ## [Communication Tool's Scoreboard (PDF)](https://security.money-trail.org/assets/London-Sept-2018/commscoreboard.pdf)
 
@@ -24,6 +25,7 @@
 
 **LEARN MORE**: [Messaging](https://security.money-trail.org/data-in-transit#messaging).
 
+* * * 
 
 ## [Security Checklist (PDF)](https://security.money-trail.org/assets/London-Sept-2018/Secucheck.pdf)
 
@@ -31,15 +33,19 @@
 
 **LEARN MORE**: [MoneyTrail Safety page](https://www.money-trail.org/safety/).
 
-![Totem](/assets/images/turtle.png)
+* * * 
 
 ## [TOTEM](https://totem-project.org/)
+
+![Totem](/assets/images/turtle.png)
 
 **WHAT**: An online learning platform developed by the internet freedom community that helps journalists and activists use digital security and privacy tools and tactics more effectively in their work.
 
 **ENROLL** in courses as they become available. Available courses as of January 2019: 
  * [Understanding the internet](https://learn.totem-project.org/courses/course-v1:Totem+TP_IP_001+2018/about)
  * [Phishing](https://learn.totem-project.org/courses/course-v1:Totem+PHS101+course/about)
+
+* * * 
 
 ## [Wordlist For Dice-Generated Passphrases (PDF)](https://security.money-trail.org/assets/London-Sept-2018/wordlist.pdf)
 
