@@ -32,7 +32,7 @@
 
 **USEFUL FOR**: Protecting your infrastructure especially if you are working with privacy-sensitive information and do not want to depend on software by big corporations like Amazon, Azure and Digital Ocean.
 
-**WHOSE ELIGIBLE**: Human rights organizations and human rights defenders, whether journalists or activits.
+**WHOSE ELIGIBLE**: Human rights organizations and human rights defenders, whether journalists or activists.
 
 **COST**: Free.
 
