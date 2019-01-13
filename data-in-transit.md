@@ -156,6 +156,8 @@
 
 ## **[Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)** 
 
+![Tor](/assets/images/tor.png)
+
 **WHAT**: Browser.
 
 **USEFUL FOR**: Browsing the Internet anonymously and protecting your online activity.
