@@ -14,9 +14,11 @@
     * [KeepassXC](#keepassxc)
     * [LastPass](#lastpass)
     
- * [SECOND-FACTOR AUTHENTICATION](#second-factor-authentication)
+ * [SECOND-FACTOR AUTHENTICATION](#second--factor-authentication)
    * [YubiKey](#yubikey)
 
+ * [SENDING LARGE FILES](#sending-large-files)
+   * [Riseup Share](#riseup-share)
 
 * [WEBSITE SECURITY](#website-security)
    * [Certbot](#certbot)
@@ -112,7 +114,7 @@
 
 * * *
 
-# MULTI-FACTOR AUTHENTICATION
+# SECOND-FACTOR AUTHENTICATION
 
 > Having extra steps of authentication requires that you enter other methods of authentication on top of your usual password to log in to your accounts. This adds an extra layer of protection, like an extra lock on the door, making  your online accounts much harder to break. 
 
