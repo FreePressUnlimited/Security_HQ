@@ -14,7 +14,7 @@
     * [KeepassXC](#keepassxc)
     * [LastPass](#lastpass)
     
- * [SECOND-FACTOR AUTHENTICATION](#second--factor-authentication)
+ * [SECOND-FACTOR AUTHENTICATION](#second-factor-authentication)
    * [YubiKey](#yubikey)
 
  * [SENDING LARGE FILES](#sending-large-files)
