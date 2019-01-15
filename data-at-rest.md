@@ -7,20 +7,13 @@
 * [CLOUD STORAGE AND BACKUP](#cloud-storage-and-backup)
   * [eclips.is](#eclipsis)
   * [Tresorit](#tresorit)
-
 * [PASSWORDS](#passwords)
   * [PASSWORD MANAGERS](#password-managers)
     * [Encryptr](#encryptr)
     * [KeepassXC](#keepassxc)
     * [LastPass](#lastpass)
-    
  * [SECOND-FACTOR AUTHENTICATION](#second-factor-authentication)
    * [YubiKey](#yubikey)
-
- * [SENDING LARGE FILES](#sending-large-files)
-   * [Onion Share](#onion-share)
-   * [Riseup Share](#riseup-share)
-
 * [WEBSITE SECURITY](#website-security)
    * [Certbot](#certbot)
    * [Deflect](#deflect)
@@ -138,41 +131,6 @@
 **LIMITS**: Some security keys (older models) only work on devices with a USB port. More recent models no longer require being plugged in and can be activated remotely at the push of a button.
 
 **LEARN MORE** about security keys [here](https://www.yubico.com/solutions/fido-u2f/).
-
-* * *
-
-# SENDING LARGE FILES
-
-### **[Onion Share](https://onionshare.org/)**
-
-**WHAT**: Lightweight, open source file sharing program.
-
-**USEFUL FOR**: Anonymous sharing of large files with colleagues via the Tor network. The program generates a link that you then share securely with recipients. They then proceed to collect the file by opening the link via the Tor browser.
-
-**PLATFORM**: Compatible for Windows, MacOS and various versions of Linux.
-
-**COST**: Free.
-
-**DIFFICULTY**: Medium.
-
-**LEARN MORE** about the [Tor network](https://www.torproject.org/about/overview.html.en).
-
-### **[Riseup Share](https://share.riseup.net/)**
-
-**WHAT**: Free file sharing service provided by Riseup, a volunteer-run collective.
-
-**USEFUL FOR**: Anonymous sharing of large files with colleagues via an end-to-end encrypted channel.
-
-**PLATFORM**: Works on all browsers.
-
-**COST**: Free.
-
-**DIFFICULTY**: Easy.
-
-**LIMITS**: Upload is limited to 50 mb and files are stored no longer than a week.
-
-**LEARN MORE** about [Riseup](https://riseup.net/en/about-us).
-
 
 * * *
 
