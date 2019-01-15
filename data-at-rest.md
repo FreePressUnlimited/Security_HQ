@@ -57,6 +57,8 @@
 
 **DIFFICULTY**: Easy.
 
+**LIMITS**: Because Tresorit is **NOT open source**, some of its security claims cannot be entirely verified. You will, therefore, use it at your own risk.
+
 **JURISDICTION**: Switzerland, EU.
 
 * * *
