@@ -18,6 +18,7 @@
    * [YubiKey](#yubikey)
 
  * [SENDING LARGE FILES](#sending-large-files)
+   * [Onion Share](#onion-share)
    * [Riseup Share](#riseup-share)
 
 * [WEBSITE SECURITY](#website-security)
