@@ -138,6 +138,27 @@
 
 * * *
 
+# SENDING LARGE FILES
+
+### **[Riseup Share](https://share.riseup.net/)**
+
+**WHAT**: Free file sharing service provided by Riseup, a volunteer-run collective.
+
+**USEFUL FOR**: Anonymous sharing of large files with colleagues via an end-to-end encrypted channel.
+
+**PLATFORM**: Works on all browsers.
+
+**COST**: Free.
+
+**DIFFICULTY**: Easy.
+
+**LIMITS**: Upload is limited to 50 mb and files are stored no longer than a week.
+
+**LEARN MORE** about [Riseup](https://riseup.net/en/about-us).
+
+
+* * *
+
 # WEBSITE SECURITY
 
 ### **[Certbot](https://certbot.eff.org/)**
