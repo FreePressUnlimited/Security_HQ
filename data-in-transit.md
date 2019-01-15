@@ -19,6 +19,9 @@
   * [ProtonMail](#protonmail)
   * [ProtonMail + Tor](#protonmail--tor)
 * [MESSAGING](#messaging)
+* [SENDING LARGE FILES](#sending-large-files)
+  * [Onion Share](#onion-share)
+  * [Riseup Share](#riseup-share)
 * [VIDEO-CONFERENCING](#video-conferencing)
   * [Jitsi Meet](#jitsi-meet)
 * [VIRTUAL PRIVATE NETWORK](#virtual-private-networks-and-circumvention-tools)
@@ -261,6 +264,41 @@ The following table compiled by [Access Now](https://accessnowhelpline.gitlab.io
 | **WhatsApp** | Only encryption protocol | Yes | Yes | Signal | No | No | Yes | Yes | Yes | Yes | No | USA | No | Good |
 | **FB Messenger** | Only encryption protocol | No | No | Signal | No | Yes | No | Yes | No | Yes | No | USA | No | Good |
 | **Wickr Me** | Only encryption protocol | Yes | Yes | Wickr | Yes | No | No | Yes | Yes | No | No | USA | No | Good |
+
+
+* * *
+
+# SENDING LARGE FILES
+
+### **[Onion Share](https://onionshare.org/)**
+
+**WHAT**: Lightweight, open source file sharing program.
+
+**USEFUL FOR**: Anonymous sharing of large files with colleagues via the Tor network. The program generates a link that you then share securely with recipients. They then proceed to collect the file by opening the link via the Tor browser.
+
+**PLATFORM**: Compatible for Windows, MacOS and various versions of Linux.
+
+**COST**: Free.
+
+**DIFFICULTY**: Medium.
+
+**LEARN MORE** about the [Tor network](https://www.torproject.org/about/overview.html.en).
+
+### **[Riseup Share](https://share.riseup.net/)**
+
+**WHAT**: Free file sharing service provided by Riseup, a volunteer-run collective.
+
+**USEFUL FOR**: Anonymous sharing of large files with colleagues via an end-to-end encrypted channel.
+
+**PLATFORM**: Works on all browsers.
+
+**COST**: Free.
+
+**DIFFICULTY**: Easy.
+
+**LIMITS**: Upload is limited to 50 mb and files are stored no longer than a week.
+
+**LEARN MORE** about [Riseup](https://riseup.net/en/about-us).
 
 * * * 
 
