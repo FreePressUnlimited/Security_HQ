@@ -142,6 +142,20 @@
 
 # SENDING LARGE FILES
 
+### **[Onion Share](https://onionshare.org/)**
+
+**WHAT**: Lightweight, open source file sharing program.
+
+**USEFUL FOR**: Anonymous sharing of large files with colleagues via the Tor network. The program generates a link that you then share securely with recipients. They then proceed to collect the file by opening the link via the Tor browser.
+
+**PLATFORM**: Compatible for Windows, MacOS and various versions of Linux.
+
+**COST**: Free.
+
+**DIFFICULTY**: Medium.
+
+**LEARN MORE** about the [Tor network](https://www.torproject.org/about/overview.html.en).
+
 ### **[Riseup Share](https://share.riseup.net/)**
 
 **WHAT**: Free file sharing service provided by Riseup, a volunteer-run collective.
