@@ -182,7 +182,7 @@
 
 # COLLABORATING
 
-## [Riseup Pad](https://pad.riseup.net/)
+## **[Riseup Pad](https://pad.riseup.net/)**
 
 **WHAT**: An etherpad (ephemeral, open-source, web-based collaborative real-time text editor) hosted by [Riseup](https://riseup.net/).
 
