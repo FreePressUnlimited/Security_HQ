@@ -175,13 +175,16 @@
 
 **LEARN MORE** about the [Tor Project here](https://www.torproject.org/). Get advice on how to enhance your anonymity online by consulting the Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides).
 
+
+
+
 * * * 
 
 # COLLABORATING
 
 ## [Riseup Pad](https://pad.riseup.net/)
 
-**WHAT**: An etherpad (open-source, web-based collaborative real-time text editor) hosted by [Riseup](https://riseup.net/).
+**WHAT**: An etherpad (ephemeral, open-source, web-based collaborative real-time text editor) hosted by [Riseup](https://riseup.net/).
 
 **USEFUL FOR**: Real-time group collaboration of text documents.
 
