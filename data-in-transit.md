@@ -14,7 +14,7 @@
   * [Site Isolation](#site-isolation)
   * [StartPage](#startpage)
   * [Tor Browser](#tor-browser)
-* [COLLABORATING]
+* [COLLABORATING](#collaborating)
   * [Riseup Pad](#riseup-pad)
 * [EMAILING](#emailing)
   * [Hawkpost](#hawkpost)
