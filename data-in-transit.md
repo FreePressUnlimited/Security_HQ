@@ -14,6 +14,8 @@
   * [Site Isolation](#site-isolation)
   * [StartPage](#startpage)
   * [Tor Browser](#tor-browser)
+* [COLLABORATING]
+  * [Riseup Pad](#riseup-pad)
 * [EMAILING](#emailing)
   * [Hawkpost](#hawkpost)
   * [ProtonMail](#protonmail)
@@ -173,6 +175,23 @@
 
 **LEARN MORE** about the [Tor Project here](https://www.torproject.org/). Get advice on how to enhance your anonymity online by consulting the Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides).
 
+* * * 
+
+# COLLABORATNG
+
+## **[Riseup Pad](https://pad.riseup.net/)
+
+**WHAT**: An etherpad (open-source, web-based collaborative real-time text editor) hosted by [Riseup](https://riseup.net/).
+
+**USEFUL FOR**: Real-time group collaboration of text documents.
+
+**PLATFORM**: Works on all platforms.
+
+**COST**: Free.
+
+**DIFFICULTY**: Easy.
+
+**LIMITS**: Accessing a Riseup Pad does not protect from snooping by internet service providers or governments. For added security, it is recommended to access the Riseup Pad via a VPN connection such as the [Riseup VPN](https://riseup.net/vpn) or a ["Tor hidden service"](https://www.torproject.org/docs/onion-services), a unique, anonymous link only accessible via the Tor Browser.
 
 * * * 
 
