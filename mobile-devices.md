@@ -54,4 +54,4 @@
 
 **DIFFICULTY**: Easy.
 
-**LEARN MORE**: [Review of Eraser v6.2.0.2982](https://www.lifewire.com/eraser-review-2619133).
+**LEARN MORE**: [Watch a video tutorial](https://www.youtube.com/watch?time_continue=5&v=sBfTLPdlkbs).
