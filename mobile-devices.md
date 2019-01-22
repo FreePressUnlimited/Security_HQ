@@ -42,7 +42,7 @@
 
 **LEARN MORE** on [how and when to use DBAN](https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148).
 
-## **[ERASER](https://eraser.heidi.ie/)
+## **[ERASER](https://eraser.heidi.ie/)**
 
 **WHAT**: Open-source, lightweight program that destroys data. 
 
