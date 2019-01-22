@@ -14,7 +14,7 @@
   * [Site Isolation](#site-isolation)
   * [StartPage](#startpage)
   * [Tor Browser](#tor-browser)
-* [COLLABORATING](#collaborating)
+* [COLLABORATING AND TEAMWORK](#collaborating-and-teamwork)
   * [Riseup Pad](#riseup-pad)
 * [EMAILING](#emailing)
   * [Hawkpost](#hawkpost)
@@ -180,7 +180,7 @@
 
 * * * 
 
-# COLLABORATING
+# COLLABORATING AND TEAMWORK
 
 ## **[Riseup Pad](https://pad.riseup.net/)**
 
@@ -195,6 +195,10 @@
 **DIFFICULTY**: Easy.
 
 **LIMITS**: Accessing a Riseup Pad does not protect from snooping by internet service providers or governments. For added security, it is recommended to access the Riseup Pad via a VPN connection such as the [Riseup VPN](https://riseup.net/vpn) or a ["Tor hidden service"](https://www.torproject.org/docs/onion-services), a unique, anonymous link only accessible via the Tor Browser.
+
+
+
+
 
 * * * 
 
