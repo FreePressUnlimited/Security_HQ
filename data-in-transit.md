@@ -15,6 +15,7 @@
   * [StartPage](#startpage)
   * [Tor Browser](#tor-browser)
 * [COLLABORATING AND TEAMWORK](#collaborating-and-teamwork)
+  * [Hypothes.is](#hypothes-is)
   * [Riseup Pad](#riseup-pad)
 * [EMAILING](#emailing)
   * [Hawkpost](#hawkpost)
@@ -178,9 +179,56 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 * * * 
 
 # COLLABORATING AND TEAMWORK
+
+
+
+
+
+
+
+
+
+
+## **[Hypothes.is](https://web.hypothes.is/)**
+
+**WHAT**: Open source annotation plug-in.
+
+**USEFUL FOR**: Annotate the web with collaborators.
+
+**PLATFORM**: Add-on for Chrome and other browsers.
+
+**COST**: Free.
+
+**DIFFICULTY**: Easy.
+
+**LIMITS**: Does not work on all web pages.
+
+**LEARN MORE**: [How it works](https://web.hypothes.is/#features).
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## **[Riseup Pad](https://pad.riseup.net/)**
 
@@ -200,7 +248,20 @@
 
 
 
+
+
+
+
+
 * * * 
+
+
+
+
+
+
+
+
 
 
 # EMAILING
