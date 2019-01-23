@@ -15,7 +15,7 @@
   * [StartPage](#startpage)
   * [Tor Browser](#tor-browser)
 * [COLLABORATING AND TEAMWORK](#collaborating-and-teamwork)
-  * [Hypothes.is](#hypothes-is)
+  * [Hypothes.is](#hypothesis)
   * [Riseup Pad](#riseup-pad)
 * [EMAILING](#emailing)
   * [Hawkpost](#hawkpost)
