@@ -14,7 +14,7 @@
 
 # FACEBOOK
 
-## [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+## **[Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)**
 
 **WHAT**: Browser extension.
 
@@ -53,7 +53,7 @@
 
 
 
-## [Stop Facebook's Collection of Your Metadata](https://www.eff.org/deeplinks/2018/03/android-users-change-setting-stop-facebooks-collection-your-call-and-text-metadata)
+## **[Stop Facebook's Collection of Your Metadata](https://www.eff.org/deeplinks/2018/03/android-users-change-setting-stop-facebooks-collection-your-call-and-text-metadata)**
 
 **WHAT**: Privacy settings instructions.
 
@@ -71,7 +71,7 @@
 
 # ANTI-PHISHING
 
-## [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep?hl=en)
+## **[Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep?hl=en)**
 
 **WHAT**: Browser add-on.
 
@@ -85,7 +85,7 @@
 
 
 
-## [VirusTotal](https://www.virustotal.com/#/home/url)
+## **[VirusTotal](https://www.virustotal.com/#/home/url)**
 
 **WHAT**: Online aggregator of antivirus and anti malware scanners.
 
