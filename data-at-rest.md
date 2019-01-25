@@ -14,7 +14,7 @@
     * [LastPass](#lastpass)
 * [SECOND-FACTOR AUTHENTICATION](#second-factor-authentication)
   * [YubiKey](#yubikey)
-* [USER-SIDE FILE ENCRYPTION](#)
+* [USER-SIDE FILE ENCRYPTION](#user-side-file-encryption)
   * [Cryptomator](#cryptomator)
 * [WEBSITE SECURITY](#website-security)
   * [Certbot](#certbot)
