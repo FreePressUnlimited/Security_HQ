@@ -11,7 +11,7 @@
 
 # London, September 2018
 
-## [Investigation's Risk Assessment Guide (PDF)](https://security.money-trail.org/assets/London-Sept-2018/worksheet.pdf)
+## [**Investigation's Risk Assessment Guide** (PDF)](https://security.money-trail.org/assets/London-Sept-2018/worksheet.pdf)
 
 **WHAT**: This simple guide helps you better assess the risks that your investigation might entail. Identify likely and impactful threats and conveive of a set of measures to mitigate the more relevant of risks.
 
