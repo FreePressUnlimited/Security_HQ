@@ -18,7 +18,7 @@
 **LEARN MORE**: EFF's [Threat Modeling Activity Handout](https://sec.eff.org/materials/threat-modeling-activity-handout-for-learners).
 
 
-## [Communication Tool's Scoreboard (PDF)](https://security.money-trail.org/assets/London-Sept-2018/commscoreboard.pdf)
+## [**Communication Tool's Scoreboard** (PDF)](https://security.money-trail.org/assets/London-Sept-2018/commscoreboard.pdf)
 
 **WHAT**: Communications tools are not created equal. While some, such as Signal, offer greater privacy (encryption of content) they may at the same time collect your metadata (compromising your anonymity) or allow third party access to some of your information. The Scoreboard allows you to navigate those security dimensions and choose the tool better suited for your purposes.
 
@@ -26,7 +26,7 @@
 
 
 
-## [Security Checklist (PDF)](https://security.money-trail.org/assets/London-Sept-2018/Secucheck.pdf)
+## [**Security Checklist** (PDF)](https://security.money-trail.org/assets/London-Sept-2018/Secucheck.pdf)
 
 **WHAT**: The checklist is a "pocket" tool to help you quickly identify areas of digital security concerns. This checklist doesn’t replace a personal digital security audit.
 
@@ -34,7 +34,7 @@
 
 
 
-## [TOTEM](https://totem-project.org/)
+## **[TOTEM](https://totem-project.org/)**
 
 ![Totem](/assets/images/turtle.png)
 
@@ -46,7 +46,7 @@
 
 
 
-## [Wordlist For Dice-Generated Passphrases (PDF)](https://security.money-trail.org/assets/London-Sept-2018/wordlist.pdf)
+## [**Wordlist For Dice-Generated Passphrases** (PDF)](https://security.money-trail.org/assets/London-Sept-2018/wordlist.pdf)
 
 ![Dice](/assets/images/dice.png)
 
