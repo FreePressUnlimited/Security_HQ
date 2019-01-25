@@ -12,11 +12,13 @@
     * [Encryptr](#encryptr)
     * [KeepassXC](#keepassxc)
     * [LastPass](#lastpass)
- * [SECOND-FACTOR AUTHENTICATION](#second-factor-authentication)
-   * [YubiKey](#yubikey)
+* [SECOND-FACTOR AUTHENTICATION](#second-factor-authentication)
+  * [YubiKey](#yubikey)
+* [USER-SIDE FILE ENCRYPTION](#)
+  * [Cryptomator](#cryptomator)
 * [WEBSITE SECURITY](#website-security)
-   * [Certbot](#certbot)
-   * [Deflect](#deflect)
+  * [Certbot](#certbot)
+  * [Deflect](#deflect)
 
 * * *
 
@@ -131,6 +133,27 @@
 **LIMITS**: Some security keys (older models) only work on devices with a USB port. More recent models no longer require being plugged in and can be activated remotely at the push of a button.
 
 **LEARN MORE** about security keys [here](https://www.yubico.com/solutions/fido-u2f/).
+
+
+* * *
+
+
+# USER-SIDE FILE ENCRYPTION
+
+## **[Cryptomator](https://cryptomator.org/)**
+
+**WHAT**: Open source user-side encryption for your local and cloud files.
+
+**USEFUL FOR**: Protect sensitive files before you store them in your device (computer or mobile) or upload them to the cloud.
+
+**PLATFORM**: Works across platforms and devices.
+
+**COST**: Free on desktop. Around €5 on app stores.
+
+**DIFFICULTY**: Easy.
+
+**LEARN MORE**: [Video tutorial](https://www.youtube.com/watch?v=g9A0zihHZ14).
+
 
 * * *
 
