@@ -37,9 +37,9 @@
 
 ## **[MyActivity (Google)](https://myactivity.google.com/)**
 
-**WHAT**: A single dashboard to check the privacy and security of your Google account.
+**WHAT**: A service that allows you to check the privacy and security of your Google account.
 
-**USEFUL FOR**: Controlling what data you share with Google and checking the security of your Google account(s) across Google services.
+**USEFUL FOR**: Controlling what data you share with Google, checking the security of your Google account across Google products.
 
 **COST**: Free.
 
@@ -54,9 +54,9 @@
 
 ## **[Takeout (Google)](https://takeout.google.com)**
 
-**WHAT**: A dashboard for making a copy of your data from across Google products and services.
+**WHAT**: A service that allows you to make a copy of your data from across Google products.
 
-**USEFUL FOR**: If you have to close your Google account (because it was compromised for instance), this service can help you make a copy of your Google-hosted data before you delete them from Google servers altogether.
+**USEFUL FOR**: This may come in handy if you have to, for example, deactivate or remove a Google account that has been comprimised. Make a copy of your data stored with Google before deleting the account altogether.
 
 **COST**: Free.
 
