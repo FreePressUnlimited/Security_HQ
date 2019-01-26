@@ -6,6 +6,7 @@
 
 * [ACCOUNT SECURITY](#account-security)
   * [MyActivity (Google)](#MyActivity-Google)
+  * [Takeout (Google)](#takeout-google)
 * [CLOUD STORAGE AND BACKUP](#cloud-storage-and-backup)
   * [eclips.is](#eclipsis)
   * [Tresorit](#tresorit)
@@ -49,6 +50,17 @@
 
 
 
+
+
+## **[Takeout (Google)](https://takeout.google.com)**
+
+**WHAT**: A dashboard for making a copy of your data from across Google products and services.
+
+**USEFUL FOR**: If you have to close your Google account (because it was compromised for instance), this service can help you make a copy of your Google-hosted data before you delete them from Google servers altogether.
+
+**COST**: Free.
+
+**DIFFICULTY**: Easy.
 
 
 
