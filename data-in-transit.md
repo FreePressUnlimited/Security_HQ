@@ -422,6 +422,7 @@ Jitsi is end-to-end encrypted and open source.
 Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use | Platform
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Mullvad](https://mullvad.net/en/) | Yes | No | Yes | Sweden | Yes | Good | Cross-platform
+[ProtonVPN](https://protonvpn.com/) | No | No | Yes | Switzerland | Freemium | Good | Cross-platform
 [Psiphon](https://psiphon.ca/) | Yes | No | Yes | - | Free | Good | iOS, Android, Windows
 
 
