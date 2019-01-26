@@ -4,7 +4,7 @@
 
 *Last updated: Jan 2019*
 
-* [ACCOUNT SECURITY]
+* [ACCOUNT SECURITY](#account-security)
   * [MyActivity.Google.com](#MyActivityGooglecom)
 * [CLOUD STORAGE AND BACKUP](#cloud-storage-and-backup)
   * [eclips.is](#eclipsis)
