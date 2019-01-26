@@ -5,7 +5,7 @@
 *Last updated: Jan 2019*
 
 * [ACCOUNT SECURITY](#account-security)
-  * [MyActivity (Google)](#MyActivity-Google)
+  * [MyActivity (Google)](#myactivity-google)
   * [Takeout (Google)](#takeout-google)
 * [CLOUD STORAGE AND BACKUP](#cloud-storage-and-backup)
   * [eclips.is](#eclipsis)
