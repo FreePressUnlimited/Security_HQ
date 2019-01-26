@@ -90,7 +90,7 @@
 
 **LIMITS**: Space storage is relatively more expansive than commercial alternatives.
 
-**JURISDICTION**: The Netherk
+**JURISDICTION**: The Netherlands, EU.
 
 **LEARN MORE**: Check out the other services that Disroot offers: 
 
