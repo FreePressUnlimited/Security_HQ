@@ -146,13 +146,36 @@
 
 **USEFUL FOR**: Protect sensitive files before you store them in your device (computer or mobile) or upload them to the cloud.
 
-**PLATFORM**: Works across platforms and devices.
+**PLATFORM**: Works across platforms.
 
 **COST**: Free on desktop. Around €5 on app stores.
 
 **DIFFICULTY**: Easy.
 
 **LEARN MORE**: [Video tutorial](https://www.youtube.com/watch?v=g9A0zihHZ14).
+
+
+
+## **[Veracrypt](https://www.veracrypt.fr/en/Downloads.html)**
+
+**WHAT**: Open source disk and file encryption software.
+
+**USEFUL FOR**: Full disk encryption and to protect sensitive files before you store them in your computer. 
+
+**PLATFORM**: Works across platforms.
+
+**COST**: Free.
+
+**DIFFICULTY**: Medium.
+
+**LIMITS**: Does not work on mobile devices as of the publication of this notice.
+
+**LEARN MORE**: [Video tutorial](https://youtu.be/fSRGWfmnNzI).
+
+
+
+
+
 
 
 * * *
