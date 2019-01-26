@@ -5,7 +5,7 @@
 *Last updated: Jan 2019*
 
 * [ACCOUNT SECURITY](#account-security)
-  * [MyActivity.Google.com](#MyActivityGooglecom)
+  * [MyActivity (Google)](#MyActivity-Google)
 * [CLOUD STORAGE AND BACKUP](#cloud-storage-and-backup)
   * [eclips.is](#eclipsis)
   * [Tresorit](#tresorit)
@@ -34,7 +34,7 @@
 
 # ACCOUNT SECURITY
 
-## **[MyActivity.Google.com](https://myactivity.google.com/)**
+## **[MyActivity (Google)](https://myactivity.google.com/)**
 
 **WHAT**: A single dashboard to check the privacy and security of your Google account.
 
