@@ -8,7 +8,7 @@
   * [MyActivity (Google)](#myactivity-google)
   * [Takeout (Google)](#takeout-google)
 * [CLOUD STORAGE AND BACKUP](#cloud-storage-and-backup)
-  * [Disroot](#disroot)
+  * [Disroot](#disroot--nextcloud)
   * [eclips.is](#eclipsis)
   * [Tresorit](#tresorit)
 * [PASSWORDS](#passwords)
