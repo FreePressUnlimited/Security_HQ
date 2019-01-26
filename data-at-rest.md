@@ -65,7 +65,7 @@
 ## PASSWORD MANAGERS
 
 
-### **[Encryptr](https://spideroak.com/encryptr/)** 
+## **[Encryptr](https://spideroak.com/encryptr/)** 
 
 **WHAT**: Open source, fully encrypted password manager.
 
@@ -79,7 +79,7 @@
 
 
 
-### **[KeepassXC](https://keepassxc.org/)** 
+## **[KeepassXC](https://keepassxc.org/)** 
 
 **WHAT**: Free, open source, fully encrypted password manager.
 
@@ -97,7 +97,7 @@
 
 
 
-### **[LastPass](https://lastpass.com/)**
+## **[LastPass](https://lastpass.com/)**
 
 **WHAT**: Browser-based password manager.
 
@@ -119,7 +119,7 @@
 
 > There are many methods of authentication. Below, we list those recommended most.
 
-### **[YubiKey](https://www.yubico.com/)**
+## **[YubiKey](https://www.yubico.com/)**
 
 **WHAT**: Hardware authentication device (small USB key or wireless dongle).
 
