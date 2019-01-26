@@ -80,7 +80,7 @@
 
 **WHAT**: Disroot is a project based in Amsterdam, it is maintained by volunteers and depends on the support of its own community. It offers online services including a cloud service using Nextcloud, an open source cloud-based file storage and collaboration software.
 
-**USEFUL FOR**: Safe cloud storage, syncing  and share of files, calendar, contacts and more.
+**USEFUL FOR**: Safe cloud storage, syncing  and sharing of files, calendar, contacts and more. Secure alternative to popular/commercial service providers such as Google.
 
 **PLATFORM**: Works across platforms, on both computers and mobile devices.
 
