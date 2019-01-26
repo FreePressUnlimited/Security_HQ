@@ -16,6 +16,7 @@
   * [YubiKey](#yubikey)
 * [USER-SIDE FILE ENCRYPTION](#user-side-file-encryption)
   * [Cryptomator](#cryptomator)
+  * [Veracrypt](#veracrypt)
 * [WEBSITE SECURITY](#website-security)
   * [Certbot](#certbot)
   * [Deflect](#deflect)
@@ -182,7 +183,7 @@
 
 # WEBSITE SECURITY
 
-### **[Certbot](https://certbot.eff.org/)**
+## **[Certbot](https://certbot.eff.org/)**
 
 **WHAT**: Bot developed by [EFF](https://www.eff.org/) for the deployment of [Let's Encrypt](https://letsencrypt.org/) certificates.
 
@@ -195,7 +196,7 @@
 **LEARN MORE** about [why HTTPS matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https).
 
 
-### **[Deflect](https://deflect.ca/)**
+## **[Deflect](https://deflect.ca/)**
 
 **WHAT**: Free open source anti DDoS (distributed denial-of-service) attack  mitigation service.
 
