@@ -94,7 +94,7 @@
 
 **LEARN MORE**: Check out the other services that Disroot offers: 
 
- * **[webmail](https://disroot.org/en/services/email)**.
+ * **[Webmail](https://disroot.org/en/services/email)**.
  * **[Diaspora](https://disroot.org/en/services/diaspora)**, a user-owned, decentralized social media platform.
  * **[Discourse](https://disroot.org/en/services/forum)**, an open-source "modern approach to discussion forums".
  * **[Prodosy](https://disroot.org/en/services/xmpp)**, an open-source, encrypted and decentralized instant messaging service.
