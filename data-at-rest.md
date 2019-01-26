@@ -4,6 +4,8 @@
 
 *Last updated: Jan 2019*
 
+* [ACCOUNT SECURITY]
+  * [MyActivity.Google.com](#MyActivityGooglecom)
 * [CLOUD STORAGE AND BACKUP](#cloud-storage-and-backup)
   * [eclips.is](#eclipsis)
   * [Tresorit](#tresorit)
@@ -20,6 +22,39 @@
 * [WEBSITE SECURITY](#website-security)
   * [Certbot](#certbot)
   * [Deflect](#deflect)
+
+
+
+
+
+
+
+
+* * *
+
+# ACCOUNT SECURITY
+
+## **[MyActivity.Google.com](https://myactivity.google.com/)**
+
+**WHAT**: A single dashboard to check the privacy and security of your Google account.
+
+**USEFUL FOR**: Controlling what data you share with Google and checking the security of your Google account(s) across Google services.
+
+**COST**: Free.
+
+**DIFFICULTY**: Easy.
+
+**LEARN MORE** ["View & control activity on your account"](https://support.google.com/accounts/answer/7028918?co=GENIE.Platform%3DDesktop&hl=en).
+
+
+
+
+
+
+
+
+
+
 
 * * *
 
