@@ -56,7 +56,7 @@
 
 **WHAT**: A service that allows you to make a copy of your data from across Google products.
 
-**USEFUL FOR**: This may come in handy if you have to, for example, deactivate or remove a Google account that has been comprimised. Make a copy of your data stored with Google before deleting the account altogether.
+**USEFUL FOR**: This may come in handy if you have to, for example, deactivate or remove a Google account that has been compromised. Make a copy of your data stored with Google before deleting the account altogether.
 
 **COST**: Free.
 
