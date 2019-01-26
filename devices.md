@@ -2,6 +2,8 @@
 
 *Last updated: JAN 2019*
 
+* [ANTI-THEFT](#anti-theft)
+  * [Prey](#prey)
 * [ANTIVIRUS](#antivirus)
   * [Clam AV](#clam-av)
 * [DATA DELETION AND DISK WIPE](#data-deletion-and-disk-wipe)
@@ -15,7 +17,7 @@
 
 ## **[Prey](https://preyproject.com/pricing/)**
 
-**WHAT**: Open source remote device tracking, wipe and encryption software. 
+**WHAT**: Open source, remote device tracking, wipe and encryption software. 
 
 **USEFUL FOR**: Tracking your devices, locating them in case of theft and (paid version) remotely wiping the data in them.
 
