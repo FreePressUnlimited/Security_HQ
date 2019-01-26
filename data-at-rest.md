@@ -8,6 +8,7 @@
   * [MyActivity (Google)](#myactivity-google)
   * [Takeout (Google)](#takeout-google)
 * [CLOUD STORAGE AND BACKUP](#cloud-storage-and-backup)
+  * [Disroot](#disroot)
   * [eclips.is](#eclipsis)
   * [Tresorit](#tresorit)
 * [PASSWORDS](#passwords)
@@ -71,6 +72,43 @@
 * * *
 
 # CLOUD STORAGE AND BACKUP
+
+
+
+
+## **[Disroot / Nextcloud](https://disroot.org/en/services/nextcloud)**
+
+**WHAT**: Disroot is a project based in Amsterdam, it is maintained by volunteers and depends on the support of its own community. It offers online services including a cloud service using Nextcloud, an open source cloud-based file storage and collaboration software.
+
+**USEFUL FOR**: Safe cloud storage, syncing  and share of files, calendar, contacts and more.
+
+**PLATFORM**: Works across platforms, on both computers and mobile devices.
+
+**COST**: 2GB of free storage. Paid for additional storage space.
+
+**DIFFICULTY**: Easy.
+
+**LIMITS**: Space storage is relatively more expansive than commercial alternatives.
+
+**JURISDICTION**: The Netherk
+
+**LEARN MORE**: Check out the other services that Disroot offers: 
+
+ * **[webmail](https://disroot.org/en/services/email)**.
+ * **[Diaspora](https://disroot.org/en/services/diaspora)**, a user-owned, decentralized social media platform.
+ * **[Discourse](https://disroot.org/en/services/forum)**, an open-source "modern approach to discussion forums".
+ * **[Prodosy](https://disroot.org/en/services/xmpp)**, an open-source, encrypted and decentralized instant messaging service.
+ * **[Etherpad](https://pad.disroot.org/)** and **[Ethercalc](https://calc.disroot.org/)** for collaborative editing.
+ * **[PrivateBin](https://bin.disroot.org/)**, an open-source online pastebin and discussion board.
+ * **[Lufi](https://upload.disroot.org/)**, an open-source, encrypted temporary file upload service.
+ * **[SearX](https://search.disroot.org/)**, an anonymous multi-search engine platform.
+ * **[Dispoll](https://poll.disroot.org/)**, an online service for conducting polls and planning appointments.
+ * **[Taiga](#)**, an open-source, project management board for programmers, designers and startups.
+
+
+
+
+
 
 ## **[eclips.is](https://eclips.is/)** 
 
