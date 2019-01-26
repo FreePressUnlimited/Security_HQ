@@ -8,7 +8,40 @@
   * [DBAN](#dban)
   * [ERASER](#eraser)
 
+
 * * *
+
+# ANTI-THEFT
+
+## **[Prey](https://preyproject.com/pricing/)**
+
+**WHAT**: Open source remote device tracking, wipe and encryption software. 
+
+**USEFUL FOR**: Tracking your devices, locating them in case of theft and (paid version) remotely wiping the data in them.
+
+**PLATFORM**: Works across platforms, on computers and mobile devices.
+
+**COST**: Variable. The free plan allows for tracking up to 3 devices.
+
+**DIFFICULTY**: Medium.
+
+**LIMITS**: Remote wiping of data needs an upgrade to the paid version, starting at $5/month
+
+**JURISDICTION**: U.S.A.
+
+**LEARN MORE**: [How it works](https://preyproject.com/how-it-works/).
+
+
+
+
+
+
+* * *
+
+
+
+
+
 
 # ANTIVIRUS
 
