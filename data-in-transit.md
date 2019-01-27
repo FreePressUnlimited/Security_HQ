@@ -27,8 +27,8 @@
   * [Riseup Share](#riseup-share)
 * [VIDEO-CONFERENCING](#video-conferencing)
   * [Jitsi Meet](#jitsi-meet)
-* [VIRTUAL PRIVATE NETWORK](#virtual-private-networks-and-circumvention-tools)
-  * [Recommended VPN Service Providers](#recommended-vpn-service-providers)
+* [CIRCUMVENTION AND OBFUSCATION SERVICES](#CIRCUMVENTION-AND-OBFUSCATION-SERVICES)
+  * [VIRTUAL PRIVATE NETWORKS](#virtual-private-networks)
 
 * * * 
 
@@ -420,7 +420,9 @@ Jitsi is end-to-end encrypted and open source.
 * * * 
 
     
-# VIRTUAL PRIVATE NETWORKS AND CIRCUMVENTION TOOLS
+# CIRCUMVENTION AND OBFUSCATION SERVICES
+
+## VIRTUAL PRIVATE NETWORKS
 
 **WHAT**: A Virtual Private Network, or VPN, is a program that channels your device's internet connection through an encrypted "tunnel" which helps protect your privacy and security. A VPN can also allow you to access blocked content on your network.
 
