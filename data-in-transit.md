@@ -14,6 +14,8 @@
   * [Site Isolation](#site-isolation)
   * [StartPage](#startpage)
   * [Tor Browser](#tor-browser)
+* [CIRCUMVENTION AND OBFUSCATION SERVICES](#CIRCUMVENTION-AND-OBFUSCATION-SERVICES)
+  * [VIRTUAL PRIVATE NETWORKS](#virtual-private-networks)
 * [COLLABORATING AND TEAMWORK](#collaborating-and-teamwork)
   * [Hypothes.is](#hypothesis)
   * [Riseup Pad](#riseup-pad)
@@ -27,8 +29,11 @@
   * [Riseup Share](#riseup-share)
 * [VIDEO-CONFERENCING](#video-conferencing)
   * [Jitsi Meet](#jitsi-meet)
-* [CIRCUMVENTION AND OBFUSCATION SERVICES](#CIRCUMVENTION-AND-OBFUSCATION-SERVICES)
-  * [VIRTUAL PRIVATE NETWORKS](#virtual-private-networks)
+
+
+
+
+
 
 * * * 
 
@@ -175,6 +180,60 @@
 **LIMITS**: Use Tor with caution. Entering personal data into a website will reveal your identity even when you are using Tor. Tor will not protect you either against malicious websites or malware.
 
 **LEARN MORE** about the [Tor Project here](https://www.torproject.org/). Get advice on how to enhance your anonymity online by consulting the Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * * 
+
+    
+# CIRCUMVENTION AND OBFUSCATION SERVICES
+
+## VIRTUAL PRIVATE NETWORKS
+
+**WHAT**: A Virtual Private Network, or VPN, is a program that channels your device's internet connection through an encrypted "tunnel" which helps protect your privacy and security. A VPN can also allow you to access blocked content on your network.
+
+**USEFUL FOR**: Protecting the privacy and security of your internet activity. Accessing blocked or censored content online.
+
+**RECOMMENDED VPN SERVICE PROVIDERS**
+
+Choose carefully, depending on your needs, which service offers a better balance of privacy and anonimity (open source, anonymous sign in, no metadata collection, safe jurisdiction), and ease of use.
+
+Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use | Platform
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Mullvad](https://mullvad.net/en/) | Yes | No | Yes | Sweden | Yes | Good | Cross-platform
+[ProtonVPN](https://protonvpn.com/) | No | No | Yes | Switzerland | Freemium | Good | Cross-platform
+[Psiphon](https://psiphon.ca/) | Yes | No | Yes | - | Free | Good | iOS, Android, Windows
+
+
+**LIMITS**: A VPN does NOT make you entirely anonymous. The services you sign on to on the internet can still figure out who you are. 
+The use of a VPN does NOT eliminate the need for making sure that other security measures are in place to protect your devices and accounts. 
+
+**LEARN MORE**: Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides) provides some useful advice on ways to enhance your anonymity online.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -415,30 +474,3 @@ Jitsi is end-to-end encrypted and open source.
 **DIFFICULTY**: Easy
 
 **LEARN MORE**: [How Jitsi Meet works](https://jitsi.org/user-faq/).
-
-
-* * * 
-
-    
-# CIRCUMVENTION AND OBFUSCATION SERVICES
-
-## VIRTUAL PRIVATE NETWORKS
-
-**WHAT**: A Virtual Private Network, or VPN, is a program that channels your device's internet connection through an encrypted "tunnel" which helps protect your privacy and security. A VPN can also allow you to access blocked content on your network.
-
-**USEFUL FOR**: Protecting the privacy and security of your internet activity. Accessing blocked or censored content online.
-
-**RECOMMENDED VPN SERVICE PROVIDERS**
-
-Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use | Platform
------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Mullvad](https://mullvad.net/en/) | Yes | No | Yes | Sweden | Yes | Good | Cross-platform
-[ProtonVPN](https://protonvpn.com/) | No | No | Yes | Switzerland | Freemium | Good | Cross-platform
-[Psiphon](https://psiphon.ca/) | Yes | No | Yes | - | Free | Good | iOS, Android, Windows
-
-
-**LIMITS**: A VPN does NOT make you entirely anonymous. The services you sign on to on the internet can still figure out who you are. 
-The use of a VPN does NOT eliminate the need for making sure that other security measures are in place to protect your devices and accounts. 
-
-**LEARN MORE**: Security Planner's [Advanced Anonymity Guide](https://securityplanner.org/#/tool/advanced-anonymity-security-guides) provides some useful advice on ways to enhance your anonymity online.
-
