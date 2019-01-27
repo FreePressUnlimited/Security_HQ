@@ -54,7 +54,7 @@
 
 
 
-
+# LEGAL ASSISTANCE
 
 ## **[Legal Defense Fund](https://www.freepressunlimited.org/en/legal-support-for-journalists)**
 
