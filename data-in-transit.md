@@ -212,7 +212,7 @@
 
 **RECOMMENDED VPN SERVICE PROVIDERS**
 
-Choose carefully, depending on your needs, which service offers a better balance of privacy and anonimity (open source, anonymous sign in, no metadata collection, safe jurisdiction), and ease of use.
+Choose carefully, depending on your needs, which service offers a better balance of privacy and anonymity (open source, anonymous sign in, no metadata collection, safe jurisdiction), ease of use and availability across platforms.
 
 Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use | Platform
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
