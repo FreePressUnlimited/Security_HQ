@@ -1,18 +1,24 @@
-# Generalist Guides (A-Z)
+# Guides (A-Z)
 
 *Last updated: Dec 2018*
 
+* [JOURNALISTS](#journalists)
+  * [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
+  * [Journalists in Distress: Securing Your Digital Life](#journalists-in-distress-securing-your-digital-life)
 
-* [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
-* [Digital Security from Riseup](#digital-security-from-riseup)
-* [Digital security tips to protect you, your sources and your story](#digital-security-tips-to-protect-you-your-sources-and-your-story)
-* [Journalists in Distress: Securing Your Digital Life](#journalists-in-distress-securing-your-digital-life)
-* [Security in a Box](#security-in-a-box)
-* [Security Planner](#security-planner)
-* [Surveillance Self-Defense](#surveillance-self-defense)
-* [Umbrella](#umbrella)
+* [DIGITAL SECURITY](#digital-security)
+  * [Digital Security from Riseup](#digital-security-from-riseup)
+  * [Digital security tips to protect you, your sources and your story](#digital-security-tips-to-protect-you-your-sources-and-your-story)
+  * [Security in a Box](#security-in-a-box)
+  * [Security Planner](#security-planner)
+  * [Surveillance Self-Defense](#surveillance-self-defense)
+  * [Umbrella](#umbrella)
+
+
 
 * * * 
+
+# JOURNALISTS
 
 ## **[CPJ Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)** 
 
@@ -22,6 +28,27 @@
 
 **WHAT**: Comprehensive guide specifically tailored for journalists. Offers basic to advanced security advice.
 
+
+
+
+## **[Journalists in Distress: Securing Your Digital Life](https://www.cjfe.org/journalists_in_distress_securing_your_digital_life)** 
+
+**AUTHOR**: [Canadian Journalists For Free Expression](https://www.cjfe.org/).
+
+**TYPE**: Read-through guide.
+
+**WHAT**: Guide tailored for investigative journalists. Ideal for getting quick tips and advice on how to protect yourself and your investigation. 
+
+
+
+
+
+
+
+
+* * *
+
+# DIGITAL SECURITY
 
 ## **[Digital Security from Riseup](https://riseup.net/en/security)** 
 
@@ -39,15 +66,6 @@
 **TYPE**: Read-through guide.
 
 **WHAT**: Guide tailored for investigative journalists. Offers basic principles of protection for devices and communication with sources. 
-
-
-## **[Journalists in Distress: Securing Your Digital Life](https://www.cjfe.org/journalists_in_distress_securing_your_digital_life)** 
-
-**AUTHOR**: [Canadian Journalists For Free Expression](https://www.cjfe.org/).
-
-**TYPE**: Read-through guide.
-
-**WHAT**: Guide tailored for investigative journalists. Ideal for getting quick tips and advice on how to protect yourself and your investigation. 
 
 
 ## **[Security in a Box](https://securityinabox.org/en/)** 
