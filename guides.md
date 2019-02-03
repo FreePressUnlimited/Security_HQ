@@ -1,8 +1,9 @@
 # Guides (A-Z)
 
-*Last updated: Dec 2018*
+*Last updated: Jan 2019*
 
 * [DIGITAL SECURITY IN RELATION TO JOURNALISM](#DIGITAL-SECURITY-IN-RELATION-TO-JOURNALISM)
+  * [12 principles journalists should follow to make sure they’re protecting their sources](#12-principles-journalists-should-follow-to-make-sure-theyre-protecting-their-sources)
   * [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
   * [Journalists in Distress: Securing Your Digital Life](#journalists-in-distress-securing-your-digital-life)
 
