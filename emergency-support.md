@@ -100,4 +100,4 @@
 
 **FOR WHOM**: Investigative journalists, independent media, human rights organizations and activists working in Internet repressive regimes. Priority is given to organizations that have been targets of digital attacks in the past, and "have a substantial readership in their respective country."
 
-**ENROLLMENT PERIOD**: January-October 2019.
+**ENROLLMENT PERIOD**: During 2019-2020, a total of 20 organizations will be enrolled to the IGLOO program on an ongoing basis.
