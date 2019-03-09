@@ -1,9 +1,8 @@
-# Emergency Support (A-Z)
+# Support (A-Z)
 
-*Last updated: Jan 2019*
+*Last updated: March 2019*
 
 > As part of the [MoneyTrail project](https://www.money-trail.org/), Free Press Unlimited has established a **Technical Support Desk** that participants can reach out to for digital security-related advice and support, by writing to: *techsupport-moneytrail@freepressunlimited.org*.
-
 
 * [FINANCIAL ASSISTANCE](#financial-assistance)
   * [Digital Defenders Partnership](#digital-defenders-partnership-ddp)
@@ -12,6 +11,9 @@
 
 * [LEGAL ASSISTANCE](#legal-assistance)
   * [Legal Defense Fund](#Legal-Defense-Fund)
+
+* [SAFETY SUPPORT](#safety-support)
+  * [Safety For Journalists Programmes at FPU](#Safety-For-Journalists-Programmes-at-FPU-pdf)
 
 * [TECHNICAL ASSISTANCE](#technical-assistance)
   * [Access Now Digital Security Helpline](#access-now-digital-security-helpline)
@@ -54,6 +56,10 @@
 
 
 
+
+
+
+
 # LEGAL ASSISTANCE
 
 ## **[Legal Defense Fund](https://www.freepressunlimited.org/en/legal-support-for-journalists)**
@@ -69,7 +75,21 @@
 
 
 
+* * * 
 
+
+
+
+
+
+
+# SAFETY SUPPORT
+
+## **[Safety For Journalists Programmes at FPU (PDF)](https://security.money-trail.org/assets/Jakarta-Feb-2019/fpusafety.pdf)**
+
+**WHAT**: Free Press Unlimited (FPU) aims to support and help protect media workers and journalists around the world who are facing an increasing amount of threats because of their work. To achieve this, FPU offers various training and support programmes that address diferent aspects of their safety: physical, digital, psychosocial and legal.
+
+**LEARN MORE** at [FreePressUnlimited.org](https://www.freepressunlimited.org/en/our-work/safety-for-journalists).
 
 
 
