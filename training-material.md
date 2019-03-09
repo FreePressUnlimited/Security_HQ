@@ -1,7 +1,7 @@
 # Training Material
 
 * [Free Press Unlimited](#free-press-unlimited)
-  * [Safety For Journalists](#Safety-For-Journalists)
+  * [Safety For Journalists](#safety-for-journalists)
   * [Who We Are, What We Do](#who-we-are-what-we-do)
 
 * * *
