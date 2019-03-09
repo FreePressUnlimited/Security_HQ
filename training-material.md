@@ -2,7 +2,7 @@
 
 * [Free Press Unlimited](#free-press-unlimited)
   * [Safety For Journalists](#Safety-For-Journalists)
-  * [Who We Are, What We Do](#Who-We-Are-What-We-Do)
+  * [Who We Are, What We Do](#who-we-are-what-we-do)
 
 * * *
 
