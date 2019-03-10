@@ -8,7 +8,7 @@
 
 # FREE PRESS UNLIMITED
 
-## [**Safety For Journalists**](#)
+## **Safety For Journalists**
 
 **WHAT**: Free Press Unlimited (FPU) aims to support and help protect media workers and journalists around the world who are facing an increasing amount of threats because of their work. To achieve this, FPU offers various training and support programmes that address diferent aspects of their safety: physical, digital, psychosocial and legal.
 
