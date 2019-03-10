@@ -3,7 +3,7 @@
 * [Presentations](#presentations)
   * [Main Presentation](#main-presentation)
   * [Hands-On Session](#hands-on-session)
-* [Communication Scorecard](#Communication-Scorecard)
+* [Communication Scorecard](#communication-scorecard)
 * [Free Press Unlimited](#free-press-unlimited)
   * [Safety For Journalists](#safety-for-journalists)
   * [Who We Are, What We Do](#who-we-are-what-we-do)
