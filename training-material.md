@@ -4,7 +4,7 @@ Here you will find the most up-to-date versions of the training material. Use it
 
 * [Presentations](#presentations)
   * [Main Presentation](#main-presentation)
-  * [Hands-On Session](#hands-on-session)
+  * [Hands-On Session Presentation](#hands-on-session-presentation)
 * [MATERIAL](#material)
   * [XXXX](#XXX)
   * [XXXX](#XXX)
@@ -27,7 +27,7 @@ Here you will find the most up-to-date versions of the training material. Use it
 
 ## [Main Presentation](https://security.money-trail.org/assets/Jakarta-Feb-2019/mainprez.pdf)
 
-## [Hands-On Session](https://security.money-trail.org/assets/Jakarta-Feb-2019/handson.pdf)
+## [Hands-On Session Presentation](https://security.money-trail.org/assets/Jakarta-Feb-2019/handson.pdf)
 
 * * *
 
