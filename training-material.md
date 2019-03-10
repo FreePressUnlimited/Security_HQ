@@ -53,6 +53,10 @@
 
 ## [**Communication Scorecard**](https://security.money-trail.org/assets/Jakarta-Feb-2019/commscore.pdf)
 
+**HOW TO USE THE SCORECARD**: the scorecard helps you make informed choices when you need a secure alternative to popular communication tools. Examples:
+* [WhatsApp vs. Signal](https://security.money-trail.org/assets/Jakarta-Feb-2019/SignalWhatsApp.pdf)
+* [Skype vs. Jitsi](https://security.money-trail.org/assets/Jakarta-Feb-2019/SkypeJitsi.pdf)
+
 ## [**Security Checklist**](https://security.money-trail.org/assets/Jakarta-Feb-2019/secucheck.pdf)
 
 ## [**Security Checklist**](https://security.money-trail.org/assets/Jakarta-Feb-2019/secucheck.pdf)
@@ -64,10 +68,6 @@
 ## [**Password Card Deck**](https://security.money-trail.org/assets/Jakarta-Feb-2019/passdeck.pdf)
 
 ## [**Diceware Wordlist** (Courtesy eff.org)](https://security.money-trail.org/assets/Jakarta-Feb-2019/wordlist.pdf)
-
-**HOW TO USE THE SCORECARD**: the scorecard helps you make informed choices when you need a secure alternative to popular communication tools. Examples:
-* [WhatsApp vs. Signal](https://security.money-trail.org/assets/Jakarta-Feb-2019/SignalWhatsApp.pdf)
-* [Skype vs. Jitsi](https://security.money-trail.org/assets/Jakarta-Feb-2019/SkypeJitsi.pdf)
 
 * * *
 
