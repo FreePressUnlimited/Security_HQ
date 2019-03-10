@@ -2,7 +2,7 @@
 
 * [Presentations](#Presentations)
   * [Main Presentation](#Main-Presentation)
-  * [Hands-On Session](#Hands--On-Session)
+  * [Hands-On Session](#hands-on-session)
 * [Communication Scorecard](#Communication-Scorecard)
 * [Free Press Unlimited](#free-press-unlimited)
   * [Safety For Journalists](#safety-for-journalists)
