@@ -1,7 +1,7 @@
 # Training Material
 
 * [Presentation](#Presentation)
-* [Communication Scorecard](#ommunication-Scorecard)
+* [Communication Scorecard](#Communication-Scorecard)
 * [Free Press Unlimited](#free-press-unlimited)
   * [Safety For Journalists](#safety-for-journalists)
   * [Who We Are, What We Do](#who-we-are-what-we-do)
