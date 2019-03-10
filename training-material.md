@@ -1,6 +1,8 @@
 # Training Material
 
-* [Presentation](#Presentation)
+* [Presentations](#Presentations)
+  * [Main Presentation](#Main-Presentation)
+  * [Hands-On Session](#Hands--On-Session)
 * [Communication Scorecard](#Communication-Scorecard)
 * [Free Press Unlimited](#free-press-unlimited)
   * [Safety For Journalists](#safety-for-journalists)
@@ -8,11 +10,19 @@
 
 * * *
 
-## [**Presentation**](https://security.money-trail.org/assets/Jakarta-Feb-2019/presentation.pdf)
+# PRESENTATIONS
+
+## [Main Presentation](https://security.money-trail.org/assets/Jakarta-Feb-2019/mainpresentation.pdf)
+
+## [Hands-On Session](https://security.money-trail.org/assets/Jakarta-Feb-2019/handson.pdf)
+
+* * *
+
+# MATERIAL
 
 ## [**Communication Scorecard**](https://security.money-trail.org/assets/Jakarta-Feb-2019/commscore.pdf)
 
-**HOW TO USE THE SCORECARD**: the scorecard helps you make informed choices when you need a secure alternative to popular tools. Examples:
+**HOW TO USE THE SCORECARD**: the scorecard helps you make informed choices when you need a secure alternative to popular communication tools. Examples:
 * [WhatsApp vs. Signal](https://security.money-trail.org/assets/Jakarta-Feb-2019/SignalWhatsApp.pdf)
 * [Skype vs. Jitsi](https://security.money-trail.org/assets/Jakarta-Feb-2019/SkypeJitsi.pdf)
 
