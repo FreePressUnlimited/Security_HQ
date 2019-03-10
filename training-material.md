@@ -12,7 +12,7 @@
 
 # PRESENTATIONS
 
-## [Main Presentation](https://security.money-trail.org/assets/Jakarta-Feb-2019/mainpresentation.pdf)
+## [Main Presentation](https://security.money-trail.org/assets/Jakarta-Feb-2019/mainprez.pdf)
 
 ## [Hands-On Session](https://security.money-trail.org/assets/Jakarta-Feb-2019/handson.pdf)
 
