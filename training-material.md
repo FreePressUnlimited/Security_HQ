@@ -30,9 +30,9 @@ Here you will find the most up-to-date versions of the training material. Use it
 
 # PRESENTATIONS
 
-## [Main Presentation](https://security.money-trail.org/assets/Jakarta-Feb-2019/mainprez.pdf)
+## [**Main Presentation**](https://security.money-trail.org/assets/Jakarta-Feb-2019/mainprez.pdf)
 
-## [Hands-On Session Presentation](https://security.money-trail.org/assets/Jakarta-Feb-2019/handson.pdf)
+## [**Hands-On Session Presentation**](https://security.money-trail.org/assets/Jakarta-Feb-2019/handson.pdf)
 
 * * *
 
