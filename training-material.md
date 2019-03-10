@@ -1,7 +1,7 @@
 # Training Material
 
-* [Presentations](#Presentations)
-  * [Main Presentation](#Main-Presentation)
+* [Presentations](#presentations)
+  * [Main Presentation](#main-presentation)
   * [Hands-On Session](#hands-on-session)
 * [Communication Scorecard](#Communication-Scorecard)
 * [Free Press Unlimited](#free-press-unlimited)
