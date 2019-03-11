@@ -1,6 +1,6 @@
 # Training Material
 
-Here you will find the most up-to-date versions of the training material. Use it to organize trainings of your own or to train yourself. [Reach out to us](techsupport-moneytrail@freepressunlimited.org) if you have any questions or if you need support. 
+Here you will find the most up-to-date versions of the training material. Use it to organize trainings of your own or to train yourself. [Reach out to us](mailto:techsupport-moneytrail@freepressunlimited.org) if you have any questions or if you need support. 
 
 * [PRESENTATIONS](#presentations)
   * [Main Presentation](#main-presentation)
