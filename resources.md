@@ -26,6 +26,26 @@
 
 # 1. RESOURCES
 
+### **[Humanitarian data exchange (HDX)](https://data.humdata.org/)** 
+
+**AUTHOR**: The United Nations Office for the Coordination of Humanitarian Affairs. The OCHA was formed in 1991 to strengthen the UN's response to complex emergencies and natural disasters.
+
+**WHAT**: An open source platform to access and share humanitarian data. The UN defines humanitarian data as any data the context of a humanitarian crisis (e.g., baseline/development data, damage assessments, geospatial data), the people affected and/or the response by organisations and people seeking to help those who need assistance.
+
+**USEFUL FOR**: Research and collaboration over issues related to humanitarian crises.
+
+**COST**: Free
+
+**DIFFICULTY**: Easy
+
+**LIMITS**: HDX does not allow personal data or personally identifiable information (PII) to be shared in public or private datasets. All data shared through the platform must be sufficiently aggregated or anonymized so as to prevent identification of people or harm to affected people and the humanitarian community
+
+**LEARN MORE**: [About the Humanitarian Data Exchange](#https://data.humdata.org/faq).
+
+
+
+
+
 
 * * * 
 
@@ -36,7 +56,6 @@
 # 2. GUIDES
 
 ## DIGITAL SECURITY FOR JOURNALISTS
-
 
 
 ### **[12 principles journalists should follow to make sure they’re protecting their sources](http://www.niemanlab.org/2019/01/here-are-12-principles-journalists-should-follow-to-make-sure-theyre-protecting-their-sources/)** 
