@@ -7,6 +7,8 @@
   * [Prey](#prey)
 * [ANTIVIRUS](#antivirus)
   * [Clam AV](#clam-av)
+* [ANTI-RANSOMWARE](#anti-ransomware)
+  * [The No More Ransomware Project](#The-No-More-Ransomware-Project)
 * [DATA DELETION AND DISK WIPE](#data-deletion-and-disk-wipe)
   * [DBAN](#dban)
   * [ERASER](#eraser)
@@ -77,6 +79,33 @@
 **COST**: Free.
 
 **DIFFICULTY**: Hard.
+
+* * *
+
+
+
+
+
+
+# ANTI-RANSOMWARE
+
+## **[The Anti Ransomware Project](https://www.nomoreransom.org/en/index.html)** 
+
+**WHAT**: A effort by the National High Tech Crime Unit of the Netherlands’ police, Europol’s European Cybercrime Centre and McAfee (antivirus company) aimed at helping victims of ransomware retrieve their encrypted data without having to pay the criminals.
+
+The project also aims to educate users about how ransomware works and what countermeasures can be taken to effectively prevent infection. 
+
+**USEFUL FOR**: If you have been infected with one of the listed (unlocked) types of ransomware, the website guides you through the steps to decrypt your files and devices.
+
+**COST**: Free.
+
+**DIFFICULTY**: Variable.
+
+
+
+
+
+
 
 * * * 
 
