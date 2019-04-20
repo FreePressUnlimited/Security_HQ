@@ -15,6 +15,24 @@
 
 # ANTI-THEFT
 
+## **[Kensington Locks](https://www.kensington.com/c/products/security/keyed-locks/)**
+
+**WHAT**: A Kessington lock is similar to a bicycle lock especially designed for your device. It is a security device that attaches a cable from your device to a stationary object such as a table.  
+
+**USEFUL FOR**: Discourage the casual theft of your devices in a shared office or in public areas such as cafes or airports.
+
+**PLATFORM**: Most manufacturers design computers with a Kensington slot compatible with a Kessington lock.
+
+**COST**: Variable. 
+
+**DIFFICULTY**: Easy.
+
+**LIMITS**: Kessington lock are designed to deter quick grab-and-run thefts of equipment. They can, however, be torn out or cut if an individual has the opportunity and time, though not without causing significant damage to the case or drawing attention.
+
+**LEARN MORE**: [Kensington Laptop and Computer Locks Explained](https://www.youtube.com/watch?v=-fQLCp1Pcb8).
+
+
+
 ## **[Prey](https://preyproject.com/pricing/)**
 
 **WHAT**: Open source, remote device tracking, wipe and encryption software. 
