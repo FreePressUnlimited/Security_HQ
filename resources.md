@@ -5,7 +5,7 @@
 
 * [1. RESOURCES](#1-resources)
 * [2. GUIDES](#2-guides)
-  * [DIGITAL SECURITY IN RELATION TO JOURNALISM](#DIGITAL-SECURITY-IN-RELATION-TO-JOURNALISM)
+  * [DIGITAL SECURITY FOR JOURNALISTS](#DIGITAL-SECURITY-IN-RELATION-TO-JOURNALISM)
     * [12 principles journalists should follow to make sure they’re protecting their sources](#12-principles-journalists-should-follow-to-make-sure-theyre-protecting-their-sources)
     * [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
     * [Journalists in Distress: Securing Your Digital Life](#journalists-in-distress-securing-your-digital-life)
@@ -35,11 +35,11 @@
 
 # 2. GUIDES
 
-# DIGITAL SECURITY IN RELATION TO JOURNALISM
+## DIGITAL SECURITY FOR JOURNALISTS
 
 
 
-## **[12 principles journalists should follow to make sure they’re protecting their sources](http://www.niemanlab.org/2019/01/here-are-12-principles-journalists-should-follow-to-make-sure-theyre-protecting-their-sources/)** 
+### **[12 principles journalists should follow to make sure they’re protecting their sources](http://www.niemanlab.org/2019/01/here-are-12-principles-journalists-should-follow-to-make-sure-theyre-protecting-their-sources/)** 
 
 **AUTHOR**: [Nieman Journalism Lab's Joshua Benton](http://www.niemanlab.org/author/jbenton/).
 
@@ -50,7 +50,7 @@
 
 
 
-## **[CPJ Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)** 
+### **[CPJ Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)** 
 
 **AUTHOR**: [CPJ](https://cpj.org/).
 
@@ -61,7 +61,7 @@
 
 
 
-## **[Journalists in Distress: Securing Your Digital Life](https://www.cjfe.org/journalists_in_distress_securing_your_digital_life)** 
+### **[Journalists in Distress: Securing Your Digital Life](https://www.cjfe.org/journalists_in_distress_securing_your_digital_life)** 
 
 **AUTHOR**: [Canadian Journalists For Free Expression](https://www.cjfe.org/).
 
@@ -78,9 +78,9 @@
 
 * * *
 
-# DIGITAL SECURITY IN GENERAL
+## DIGITAL SECURITY IN GENERAL
 
-## **[Digital Security from Riseup](https://riseup.net/en/security)** 
+### **[Digital Security from Riseup](https://riseup.net/en/security)** 
 
 **AUTHOR**: [Riseup](https://riseup.net/en).
 
@@ -89,7 +89,7 @@
 **WHAT**: Short overview. Ideal for quickly getting started on the basics of digital security. 
 
 
-## **[Digital security tips to protect you, your sources and your story](https://ijnet.org/en/story/digital-security-tips-protect-you-your-sources-and-your-story)** 
+### **[Digital security tips to protect you, your sources and your story](https://ijnet.org/en/story/digital-security-tips-protect-you-your-sources-and-your-story)** 
 
 **AUTHOR**: [IJNET](https://ijnet.org/en).
 
@@ -98,7 +98,7 @@
 **WHAT**: Guide tailored for investigative journalists. Offers basic principles of protection for devices and communication with sources. 
 
 
-## **[Security in a Box](https://securityinabox.org/en/)** 
+### **[Security in a Box](https://securityinabox.org/en/)** 
 
 **AUTHOR**: [Tactical Technology Collective](https://tacticaltech.org/) and [Front Line Defenders](https://www.frontlinedefenders.org/).
 
@@ -107,7 +107,7 @@
 **WHAT**: Comprehensive and trusted resource for looking for and comparing tools and tactics and learning about new ones.
 
 
-## **[Security Planner](https://securityplanner.org/#/)** 
+### **[Security Planner](https://securityplanner.org/#/)** 
 
 **AUTHOR**: [The Citizen Lab](https://citizenlab.ca/).
 
@@ -116,7 +116,7 @@
 **WHAT**: Comprehensive and updated guide ideal for devising personalized digital security plans. 
 
 
-## **[Surveillance Self-Defense](https://ssd.eff.org/en)** 
+### **[Surveillance Self-Defense](https://ssd.eff.org/en)** 
 
 **AUTHOR**: [The Electronic Frontier Foundation (EFF)](https://www.eff.org/).
 
@@ -126,7 +126,7 @@
 
 
 
-## **[Umbrella](https://secfirst.org/umbrella/)** 
+### **[Umbrella](https://secfirst.org/umbrella/)** 
 
 **AUTHOR**: [Security First](https://secfirst.org/).
 
