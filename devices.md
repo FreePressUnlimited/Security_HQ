@@ -3,6 +3,7 @@
 *Last updated: JAN 2019*
 
 * [ANTI-THEFT](#anti-theft)
+  * [Kensington Locks](#kensington-locks)
   * [Prey](#prey)
 * [ANTIVIRUS](#antivirus)
   * [Clam AV](#clam-av)
@@ -27,7 +28,7 @@
 
 **DIFFICULTY**: Easy.
 
-**LIMITS**: Kessington lock are designed to deter quick grab-and-run thefts of equipment. They can, however, be torn out or cut if an individual has the opportunity and time, though not without causing significant damage to the case or drawing attention.
+**LIMITS**: Kessington lock are designed to deter quick grab-and-run thefts of equipment. They can, however, be torn out or cut if an individual has the opportunity and time, though not without causing significant damage to the case or drawing unwanted attention.
 
 **LEARN MORE**: [Kensington Laptop and Computer Locks Explained](https://www.youtube.com/watch?v=-fQLCp1Pcb8).
 
