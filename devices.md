@@ -20,7 +20,7 @@
 
 **WHAT**: A Kessington lock is similar to a bicycle lock especially designed for your device. It is a security device that attaches a cable from your device to a stationary object such as a table.  
 
-**USEFUL FOR**: Discourage the casual theft of your devices in a shared office or in public areas such as cafes or airports.
+**USEFUL FOR**: Discouraging the casual theft of your devices in a shared office or in public areas such as cafes or airports.
 
 **PLATFORM**: Most manufacturers design computers with a Kensington slot compatible with a Kessington lock.
 
