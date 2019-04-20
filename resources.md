@@ -4,6 +4,7 @@
 *Last updated: APRIL 2019*
 
 * [1. RESOURCES](#1-resources)
+    * [[Humanitarian data exchange (HDX)](#Humanitarian-data-exchange-HDX)
 * [2. GUIDES](#2-guides)
   * [DIGITAL SECURITY FOR JOURNALISTS](#DIGITAL-SECURITY-FOR-JOURNALISTS)
     * [12 principles journalists should follow to make sure they’re protecting their sources](#12-principles-journalists-should-follow-to-make-sure-theyre-protecting-their-sources)
@@ -40,7 +41,7 @@
 
 **LIMITS**: HDX does not allow personal data or personally identifiable information (PII) to be shared in public or private datasets. All data shared through the platform must be sufficiently aggregated or anonymized so as to prevent identification of people or harm to affected people and the humanitarian community
 
-**LEARN MORE**: [About the Humanitarian Data Exchange](#https://data.humdata.org/faq).
+**LEARN MORE**: [About the Humanitarian Data Exchange](https://data.humdata.org/faq).
 
 
 
