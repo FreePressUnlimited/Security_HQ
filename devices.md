@@ -91,7 +91,7 @@
 
 ## **[The No More Ransomware Project](https://www.nomoreransom.org/en/index.html)** 
 
-**WHAT**: A effort by the National High Tech Crime Unit of the Netherlands’ police, Europol’s European Cybercrime Centre and McAfee (antivirus company) aimed at helping victims of ransomware retrieve their encrypted data without having to pay the criminals.
+**WHAT**: An effort by the National High Tech Crime Unit of the Netherlands’ police, Europol’s European Cybercrime Centre and McAfee (an antivirus company) aimed at helping victims of ransomware retrieve their encrypted data without having to pay the criminals.
 
 The project also aims to educate users about how ransomware works and what countermeasures can be taken to effectively prevent infection. 
 
