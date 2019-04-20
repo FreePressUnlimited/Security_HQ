@@ -3,20 +3,20 @@
 
 *Last updated: Jan 2019*
 
-* [1. RESOURCES](#2-resources)
-* [2. GUIDES](#1-guides)
-* [DIGITAL SECURITY IN RELATION TO JOURNALISM](#DIGITAL-SECURITY-IN-RELATION-TO-JOURNALISM)
-  * [12 principles journalists should follow to make sure they’re protecting their sources](#12-principles-journalists-should-follow-to-make-sure-theyre-protecting-their-sources)
-  * [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
-  * [Journalists in Distress: Securing Your Digital Life](#journalists-in-distress-securing-your-digital-life)
+* [1. RESOURCES](#1-resources)
+* [2. GUIDES](#2-guides)
+  * [DIGITAL SECURITY IN RELATION TO JOURNALISM](#DIGITAL-SECURITY-IN-RELATION-TO-JOURNALISM)
+    * [12 principles journalists should follow to make sure they’re protecting their sources](#12-principles-journalists-should-follow-to-make-sure-theyre-protecting-their-sources)
+    * [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
+    * [Journalists in Distress: Securing Your Digital Life](#journalists-in-distress-securing-your-digital-life)
 
-* [DIGITAL SECURITY IN GENERAL](#digital-security-in-general)
-  * [Digital Security from Riseup](#digital-security-from-riseup)
-  * [Digital security tips to protect you, your sources and your story](#digital-security-tips-to-protect-you-your-sources-and-your-story)
-  * [Security in a Box](#security-in-a-box)
-  * [Security Planner](#security-planner)
-  * [Surveillance Self-Defense](#surveillance-self-defense)
-  * [Umbrella](#umbrella)
+  * [DIGITAL SECURITY IN GENERAL](#digital-security-in-general)
+    * [Digital Security from Riseup](#digital-security-from-riseup)
+    * [Digital security tips to protect you, your sources and your story](#digital-security-tips-to-protect-you-your-sources-and-your-story)
+    * [Security in a Box](#security-in-a-box)
+    * [Security Planner](#security-planner)
+    * [Surveillance Self-Defense](#surveillance-self-defense)
+    * [Umbrella](#umbrella)
 
 
 
