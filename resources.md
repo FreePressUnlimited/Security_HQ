@@ -4,7 +4,7 @@
 *Last updated: APRIL 2019*
 
 * [1. RESOURCES](#1-resources)
-    * [[Humanitarian data exchange (HDX)](#Humanitarian-data-exchange-HDX)
+    * [Humanitarian data exchange (HDX)](#Humanitarian-data-exchange-HDX)
 * [2. GUIDES](#2-guides)
   * [DIGITAL SECURITY FOR JOURNALISTS](#DIGITAL-SECURITY-FOR-JOURNALISTS)
     * [12 principles journalists should follow to make sure they’re protecting their sources](#12-principles-journalists-should-follow-to-make-sure-theyre-protecting-their-sources)
