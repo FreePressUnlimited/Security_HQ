@@ -1,6 +1,6 @@
 # Device Security
 
-*Last updated: JAN 2019*
+*Last updated: April 2019*
 
 * [ANTI-THEFT](#anti-theft)
   * [Kensington Locks](#kensington-locks)
