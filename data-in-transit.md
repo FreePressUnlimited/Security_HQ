@@ -25,6 +25,7 @@
   * [ProtonMail + Tor](#protonmail--tor)
 * [MESSAGING](#messaging)
 * [SENDING LARGE FILES](#sending-large-files)
+  + [Firefox Send](#firefox-send)
   * [Onion Share](#onion-share)
   * [Riseup Share](#riseup-share)
 * [VIDEO-CONFERENCING](#video-conferencing)
@@ -425,6 +426,33 @@ The following table compiled by [Access Now](https://accessnowhelpline.gitlab.io
 
 # SENDING LARGE FILES
 
+
+
+
+
+### **[Firefox Send](https://send.firefox.com/)**
+
+**WHAT**: Open source, end-to-end encrypted file sharing website developed by Mozilla Firefox.
+
+**USEFUL FOR**: Anonymous sharing of large files with end-to-end encryption via a link that automatically expires. You can choose how long you want your files to stay available online and possibly protect the link with a password.
+
+**PLATFORM**: Cross platform.
+
+**COST**: Free.
+
+**DIFFICULTY**: Easy.
+
+**LIMTS**: Upload is limited to 2.5 GB and files cannot be stored longer than a week.
+
+**LEARN MORE** about the [Tor network](https://www.torproject.org/about/overview.html.en).
+
+
+
+
+
+
+
+
 ### **[Onion Share](https://onionshare.org/)**
 
 **WHAT**: Lightweight, open source file sharing program.
@@ -438,6 +466,19 @@ The following table compiled by [Access Now](https://accessnowhelpline.gitlab.io
 **DIFFICULTY**: Medium.
 
 **LEARN MORE** about the [Tor network](https://www.torproject.org/about/overview.html.en).
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### **[Riseup Share](https://share.riseup.net/)**
 
@@ -455,7 +496,36 @@ The following table compiled by [Access Now](https://accessnowhelpline.gitlab.io
 
 **LEARN MORE** about [Riseup](https://riseup.net/en/about-us).
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * * * 
+
+
+
+
+
+
+
+
+
+
+
+
 
 # VIDEO-CONFERENCING
 
