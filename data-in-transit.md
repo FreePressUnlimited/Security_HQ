@@ -434,7 +434,7 @@ The following table compiled by [Access Now](https://accessnowhelpline.gitlab.io
 
 **WHAT**: Open source, end-to-end encrypted file sharing website developed by Mozilla Firefox.
 
-**USEFUL FOR**: Anonymous sharing of large files with end-to-end encryption via a link that automatically expires. You can choose how long you want your files to stay available online and possibly protect the link with a password.
+**USEFUL FOR**: Anonymous sharing of large files with end-to-end encryption via a link that automatically expires. You can choose how long you want your files to remain available online and possibly protect the link with a password.
 
 **PLATFORM**: Cross platform.
 
@@ -444,7 +444,7 @@ The following table compiled by [Access Now](https://accessnowhelpline.gitlab.io
 
 **LIMTS**: Upload is limited to 2.5 GB and files cannot be stored longer than a week.
 
-**LEARN MORE** about the [Tor network](https://www.torproject.org/about/overview.html.en).
+**LEARN MORE**: [Send Privacy Notice](https://send.firefox.com/legal).
 
 
 
