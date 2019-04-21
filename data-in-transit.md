@@ -2,7 +2,7 @@
 
 *Resources for securing the data you exchange with others.*
 
-*Last updated: April 2019*
+*Last updated: APRIL 2019*
 
 * [BROWSING](#browsing)
   * [DuckDuckGo](#duckduckgo)
