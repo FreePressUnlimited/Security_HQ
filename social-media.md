@@ -10,7 +10,7 @@
   * [Password Alert](#password-alert)
   * [VirusTotal](#virustotal)
 * [TEST YOUR KNOWLEDGE](#test-your-knowledge)
-  * [PHISHING]
+  * [PHISHING](#phishing)
     * [Phishing Quiz](#phishing-quiz)
 
 * * *
@@ -104,9 +104,9 @@
 
 **LEARN MORE** about VirusTotal's privacy policy [here](https://support.virustotal.com/hc/en-us/sections/115000720829-About-us).
 
-## **[TEST YOUR KNOWLEDGE]**
+## **TEST YOUR KNOWLEDGE**
 
-### **[PHISHING]
+### **PHISHING**
 
 #### **[Phishing Quiz](https://phishingquiz.withgoogle.com/)**
 
