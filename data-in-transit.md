@@ -406,7 +406,7 @@ When choosing a messaging tool, make sure they meet your security and privacy re
 * **Whether it is a paid or free service**.
 * **What jurisdiction the company falls under**.
 * **Whether it can be self-hosted**: Self-hosting a messaging tool provides greater control over the communication process and eliminates vulnerabilities caused by any third party.
-* **How easy i it to use** (a.k.a. usability).
+* **How easy is it to use** (a.k.a. usability).
 
 The following table compiled by [Access Now](https://accessnowhelpline.gitlab.io/community-documentation/141-Secure_Chat_Mobile.html) offers an overview of recommended messaging tools based on the requirements listed above:
 
@@ -420,6 +420,14 @@ The following table compiled by [Access Now](https://accessnowhelpline.gitlab.io
 | **WhatsApp** | Only encryption protocol | Yes | Yes | Signal | No | No | Yes | Yes | Yes | Yes | No | USA | No | Good |
 | **FB Messenger** | Only encryption protocol | No | No | Signal | No | Yes | No | Yes | No | Yes | No | USA | No | Good |
 | **Wickr Me** | Only encryption protocol | Yes | Yes | Wickr | Yes | No | No | Yes | Yes | No | No | USA | No | Good |
+
+**LEARN MORE**: [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/).
+
+
+
+
+
+
 
 
 * * *
