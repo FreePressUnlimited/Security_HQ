@@ -9,6 +9,9 @@
 * [ANTI-PHISHING](#anti-phishing)
   * [Password Alert](#password-alert)
   * [VirusTotal](#virustotal)
+* [TEST YOUR KNOWLEDGE](#test-your-knowledge)
+  * [PHISHING]
+    * [Phishing Quiz](#phishing-quiz)
 
 * * *
 
@@ -100,4 +103,14 @@
 **LIMITS**: VirusTotal is owned by a company called Chronicle, a subsidiary of Alphabet Inc. URLs and files uploaded to VirusTotal may be shared with antivirus companies "so as to help them in improving their services and products."
 
 **LEARN MORE** about VirusTotal's privacy policy [here](https://support.virustotal.com/hc/en-us/sections/115000720829-About-us).
+
+## **[TEST YOUR KNOWLEDGE]**
+
+### **[PHISHING]
+
+#### **[Phishing Quiz](https://phishingquiz.withgoogle.com/)**
+
+**WHAT**: A quiz developed by Google to help users identify phishing.
+
+**DIFFICULTY**: EASY
 
