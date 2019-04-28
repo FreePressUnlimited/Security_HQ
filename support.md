@@ -14,11 +14,11 @@
 
 * [SAFETY SUPPORT](#safety-support)
   * [Safety For Journalists Programmes at FPU](#Safety-For-Journalists-Programmes-at-FPU-pdf)
+  * [GIJN Guide: Resources for Women Journalists](https://gijn.org/gijn-guide-resources-for-women-journalists/)
 
 * [TECHNICAL ASSISTANCE](#technical-assistance)
   * [Access Now Digital Security Helpline](#access-now-digital-security-helpline)
   * [IGLOO](#igloo)
-  
   
   
   
