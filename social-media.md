@@ -9,6 +9,8 @@
 * [ANTI-PHISHING](#anti-phishing)
   * [Password Alert](#password-alert)
   * [VirusTotal](#virustotal)
+* [ONLINE HARASSMENT](#online-harassment)
+  * [Online Harassment Field Manual](#onine harassment field manual)
 * [TEST YOUR KNOWLEDGE](#test-your-knowledge)
   * [PHISHING](#phishing)
     * [Phishing Quiz](#phishing-quiz)
@@ -104,11 +106,40 @@
 
 **LEARN MORE** about VirusTotal's privacy policy [here](https://support.virustotal.com/hc/en-us/sections/115000720829-About-us).
 
-## **TEST YOUR KNOWLEDGE**
 
-### **PHISHING**
 
-#### **[Phishing Quiz](https://phishingquiz.withgoogle.com/)**
+
+* * *
+## ONLINE HARASSMENT
+
+## **[ONLINE HARASSMENT FIELD MANUAL](https://onlineharassmentfieldmanual.pen.org/)**
+
+**AUTHOR**: PEN America, part of PEN International, a worldwide association of writers fighting for freedom of expression on behalf of writers facing persecution.
+
+**WHAT**: A Field Manual with effective strategies and resources that writers can use to defend against online abuse.
+
+**USEFUL FOR**: Writers, journalists, their allies, and their employers.
+
+**COST**: Free
+
+**DIFFICULTY**: Easy
+
+**LEARN MORE**: [The Outrage Machine (The New York Times)](https://www.nytimes.com/video/us/100000004467822/the-outrage-machine.html)
+
+
+
+
+
+
+
+
+* * *
+
+# **TEST YOUR KNOWLEDGE**
+
+## **PHISHING**
+
+### **[Phishing Quiz](https://phishingquiz.withgoogle.com/)**
 
 **WHAT**: A quiz developed by Google to help users identify phishing.
 
