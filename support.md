@@ -10,7 +10,7 @@
   * [Frontline Defenders' Protection Grants](#frontline-defenders-protection-grants)
 
 * [LEGAL ASSISTANCE](#legal-assistance)
-  * [Legal Defense Fund](#Legal-Defense-Fund)
+  * [Legal Defense Fund](#legal-defense-fund)
 
 * [SAFETY SUPPORT](#safety-support)
   * [Safety For Journalists Programmes at FPU](#Safety-For-Journalists-Programmes-at-FPU-pdf)
