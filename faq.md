@@ -7,6 +7,6 @@
 **Click on the question to see the answer in printable PDF format**
 
 # EMAIL ENCRYPTION
-* [HOW TO GET PEOPLE WITH ZERO KNOWLEDGE OF PGP ENCRYPTION TO SEND ME A PGP-ENCRYPTED MESSAGE?](https://security.money-trail.org/assets/hawkpost.pdf)
+* [HOW TO GET PEOPLE WITH ZERO KNOWLEDGE OF PGP ENCRYPTION TO SEND ME A PGP-ENCRYPTED MESSAGE?](assets/Hawkpost.pdf)
 
 
