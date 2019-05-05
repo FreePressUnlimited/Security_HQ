@@ -7,6 +7,8 @@
 **Click on the question to see the answer in printable PDF format**
 
 # EMAIL ENCRYPTION
-* [HOW TO GET PEOPLE WITH ZERO KNOWLEDGE OF PGP ENCRYPTION TO SEND ME A PGP-ENCRYPTED MESSAGE?](https://security.money-trail.org/assets/Hawkpost.pdf)
+* [How can people who do not know how encryption works still send me a confidential message?](https://security.money-trail.org/assets/Hawkpost.pdf)
+* [How do I publish my PGP key in keybase (For Mac)?](https://security.money-trail.org/assets/keybase.pdf)
+
 
 
