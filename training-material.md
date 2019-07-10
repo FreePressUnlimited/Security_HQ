@@ -5,6 +5,7 @@ Here you will find the most up-to-date versions of the training material. Use it
 * [PRESENTATIONS](#presentations)
   * [Main Presentation](#main-presentation)
   * [Hands-On Session Presentation](#hands-on-session-presentation)
+  * [Game: Limit the Damage](#game-limit-the-damage)
 * [MATERIAL](#material)
   * [Research Briefing](#research-briefing)
   * [Roles](#roles)
@@ -33,6 +34,9 @@ Here you will find the most up-to-date versions of the training material. Use it
 ## [**Main Presentation**](https://security.money-trail.org/assets/Jakarta-Feb-2019/mainprez.pdf)
 
 ## [**Hands-On Session Presentation**](https://security.money-trail.org/assets/Jakarta-Feb-2019/handson.pdf)
+
+## [**Game: Limit the Damage**](https://security.money-trail.org/assets/Abuja-July-2019/limitdamage.pdf)
+
 
 * * *
 
