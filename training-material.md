@@ -15,7 +15,7 @@ Here you will find the most up-to-date versions of the training material. Use it
   * [Internal Factors](#internal-factors)
   * [External Factors](#external-factors)
   * [Identifying Data and Metadata](#identifying-data-and-metadata)
-  * [Commnication Cards](#commnication-cards)
+  * [Communication Cards](#communication-cards)
   * [Communication Scorecard](#communication-scorecard)
   * [Security Checklist](#security-checklist)
   * [Building Standard Operating Procedures](#building-standard-operating-procedures)
@@ -65,7 +65,7 @@ Life is full of surprises. Some of them may affect your investigation in ways yo
 ## [**Identifying Data and Metadata**](https://security.money-trail.org/assets/Jakarta-Feb-2019/datametadata.pdf)
 Emails may reveal more than what you might know.
 
-## [**Commnication Cards**](https://security.money-trail.org/assets/Jakarta-Feb-2019/comcards.pdf)
+## [**Communication Cards**](https://security.money-trail.org/assets/Jakarta-Feb-2019/comcards.pdf)
 Are all communications channels created equal?
 
 ## [**Communication Scorecard**](https://security.money-trail.org/assets/Jakarta-Feb-2019/commscore.pdf)
