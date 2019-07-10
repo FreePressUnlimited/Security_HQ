@@ -6,6 +6,9 @@
 
 **Click on the question to see the answer in printable PDF format**
 
+# ACCOUNT SECURITY
+* [How can I protect my Gmail account with a security key?](https://security.money-trail.org/assets/securitykey.pdf)
+
 # EMAIL ENCRYPTION
 * [How can people who do not know how encryption works still send me a confidential message?](https://security.money-trail.org/assets/Hawkpost.pdf)
 * [How do I publish my PGP key in keybase (For Mac)?](https://security.money-trail.org/assets/keybase.pdf)
