@@ -6,6 +6,7 @@ Here you will find the most up-to-date versions of the training material. Use it
   * [Main Presentation](#main-presentation)
   * [Hands-On Session Presentation](#hands-on-session-presentation)
   * [Game: Limit the Damage](#game-limit-the-damage)
+    * [Digital Security Measures: A Card Deck](#)
 * [MATERIAL](#material)
   * [Research Briefing](#research-briefing)
   * [Roles](#roles)
@@ -33,10 +34,16 @@ Here you will find the most up-to-date versions of the training material. Use it
 
 ## [**Main Presentation**](https://security.money-trail.org/assets/Jakarta-Feb-2019/mainprez.pdf)
 
+This main presentation walks you through the Petronia investigation. Use it with your team to reproduce the training and review the digital security measures you learned during the training.
+
 ## [**Hands-On Session Presentation**](https://security.money-trail.org/assets/Jakarta-Feb-2019/handson.pdf)
 
-## [**Game: Limit the Damage**](https://security.money-trail.org/assets/Abuja-July-2019/limitdamage.pdf)
+This presentation reviews the main digital security strategies and recommended tools seen during the MoneyTrail training.
 
+## [**Game: Limit the Damage**](https://security.money-trail.org/assets/Abuja-July-2019/limitdamage.pdf)
+### [Digital Security Measures: A Card Deck](https://security.money-trail.org/assets/Abuja-July-2019/measurescarddeck.pdf)
+
+This is a fun game that you can play with your team and colleagues. Start by displaying the problem. Ask your audience to come up with proper solutions using the card deck that contains most measures seen during the MoneyTrail training. 
 
 * * *
 
