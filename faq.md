@@ -11,5 +11,5 @@
 * [How do I publish my PGP key in keybase (For Mac)?](https://security.money-trail.org/assets/keybase.pdf)
 
 # VPN CONNECTION
-* [How can I use the MoneyTrail VPN?](https://security.money-trail.org/assets/vpn-outline.pdf)
+* [How can I use the MoneyTrail VPN?](https://security.money-trail.org/assets/vpnoutline.pdf)
 
