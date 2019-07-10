@@ -10,5 +10,6 @@
 * [How can people who do not know how encryption works still send me a confidential message?](https://security.money-trail.org/assets/Hawkpost.pdf)
 * [How do I publish my PGP key in keybase (For Mac)?](https://security.money-trail.org/assets/keybase.pdf)
 
-
+# VPN CONNECTION
+* [How can I use the MoneyTrail VPN?](https://security.money-trail.org/assets/Hawkpost.pdf)
 
