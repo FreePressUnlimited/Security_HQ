@@ -8,6 +8,7 @@
 * [2. GUIDES](#2-guides)
   * [DIGITAL SECURITY FOR JOURNALISTS](#DIGITAL-SECURITY-FOR-JOURNALISTS)
     * [12 principles journalists should follow to make sure they’re protecting their sources](#12-principles-journalists-should-follow-to-make-sure-theyre-protecting-their-sources)
+    * [CPJ's Digital Safety Kit](#)
     * [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
     * [Journalists in Distress: Securing Your Digital Life](#journalists-in-distress-securing-your-digital-life)
 
@@ -67,6 +68,18 @@
 **TYPE**: Short guide.
 
 **WHAT**: Summary of the 12 *Perugia Principles for Journalists Working with Whistleblowers in the Digital Age*. Find the full Principles [here](https://blueprintforfreespeech.net/wp-content/uploads/2019/01/Blueprint_Perugia_Principles.pdf).
+
+
+
+
+### **[CPJ's Journalist Security Guide](https://cpj.org/2019/07/digital-safety-kit-journalists.php)** 
+
+**AUTHOR**: [CPJ](https://cpj.org/).
+
+**TYPE**: Read-through guide.
+
+**WHAT**: Comprehensive guide specifically tailored for journalists. Offers basic to advanced security advice.
+
 
 
 
