@@ -8,7 +8,7 @@
 * [2. GUIDES](#2-guides)
   * [DIGITAL SECURITY FOR JOURNALISTS](#DIGITAL-SECURITY-FOR-JOURNALISTS)
     * [12 principles journalists should follow to make sure they’re protecting their sources](#12-principles-journalists-should-follow-to-make-sure-theyre-protecting-their-sources)
-    * [CPJ's Digital Safety Kit](#)
+    * [CPJ's Digital Safety Kit](#cpjs-journalist-security-guide)
     * [CPJ Journalist Security Guide](#cpj-journalist-security-guide)
     * [Journalists in Distress: Securing Your Digital Life](#journalists-in-distress-securing-your-digital-life)
 
