@@ -1,7 +1,7 @@
 
 **Guides (A-Z)**
 
-*Last updated: APRIL 2019*
+*Last updated: AUGUST 2019*
 
 * [1. RESOURCES](#1-resources)
   * [Humanitarian data exchange (HDX)](#humanitarian-data-exchange-hdx)
