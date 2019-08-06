@@ -72,7 +72,7 @@
 
 
 
-### **[CPJ's Journalist Security Guide](https://cpj.org/2019/07/digital-safety-kit-journalists.php)** 
+### **[CPJ's Digital Safety Kit](https://cpj.org/2019/07/digital-safety-kit-journalists.php)** 
 
 **AUTHOR**: [CPJ](https://cpj.org/).
 
