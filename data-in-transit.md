@@ -418,7 +418,6 @@ The following table compiled by [Access Now](https://accessnowhelpline.gitlab.io
 | **Mattermost** | Yes | No | Yes | No encryption | No | Yes | No | No | Yes | No | No | - | Yes | Good |
 | **Threema** | Only encryption protocol | Yes | Yes | NaCl | Yes | No | No | No | No | No | No | Switzerland | No | Good |
 | **WhatsApp** | Only encryption protocol | Yes | Yes | Signal | No | No | Yes | Yes | Yes | Yes | No | USA | No | Good |
-| **FB Messenger** | Only encryption protocol | No | No | Signal | No | Yes | No | Yes | No | Yes | No | USA | No | Good |
 | **Wickr Me** | Only encryption protocol | Yes | Yes | Wickr | Yes | No | No | Yes | Yes | No | No | USA | No | Good |
 
 **LEARN MORE**: [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/).
