@@ -2,6 +2,8 @@
 
 Here you will find the most up-to-date versions of the training material. Use it to organize trainings of your own or to train yourself. [Reach out to us](mailto:techsupport-moneytrail@freepressunlimited.org) if you have any questions or if you need support. 
 
+* [TRAINER'S MANUAL](##)
+
 * [PRESENTATIONS](#presentations)
   * [Main Presentation](#main-presentation)
   * [Hands-On Session Presentation](#hands-on-session-presentation)
