@@ -1,7 +1,12 @@
 
 **Guides (A-Z)**
 
-*Last updated: AUGUST 2019*
+*Last updated: APRIL 2020*
+
+> **RESOURCES ON COVID-19**
+> A few links to help you better report on the crisis:
+> * [Safe and responsible reporting on Covid-19](https://kq.freepressunlimited.org/2020/04/reporting-on-covid-19/)
+> * [Covid-19 and gender equality](https://kq.freepressunlimited.org/2020/04/covid-19-and-gender-equality/)
 
 * [1. RESOURCES](#1-resources)
   * [Humanitarian data exchange (HDX)](#humanitarian-data-exchange-hdx)
