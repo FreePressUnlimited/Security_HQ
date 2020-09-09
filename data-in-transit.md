@@ -218,7 +218,7 @@ Choose carefully, depending on your needs, which service offers a better balance
 Provider | Open source | Metadata collection | Anonymous sign in | Jurisdiction | Paid | Ease of use | Platform
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Mullvad](https://mullvad.net/en/) | Yes | No | Yes | Sweden | Yes | Good | Cross-platform
-[ProtonVPN](https://protonvpn.com/) | No | No | Yes | Switzerland | Freemium | Good | Cross-platform
+[ProtonVPN](https://protonvpn.com/) | Yes | No | Yes | Switzerland | Freemium | Good | Cross-platform
 [Psiphon](https://psiphon.ca/) | Yes | No | Yes | - | Free | Good | iOS, Android, Windows
 
 
@@ -303,6 +303,61 @@ The use of a VPN does NOT eliminate the need for making sure that other security
 **DIFFICULTY**: Easy.
 
 **LIMITS**: Accessing a Riseup Pad does not protect from snooping by internet service providers or governments. For added security, it is recommended to access the Riseup Pad via a VPN connection such as the [Riseup VPN](https://riseup.net/vpn) or a ["Tor hidden service"](https://www.torproject.org/docs/onion-services), a unique, anonymous link only accessible via the Tor Browser.
+
+
+
+
+
+
+
+
+
+
+
+
+## **[OwnCloud](https://owncloud.com/)**
+
+**WHAT**: Open source cloud services comparable to Google apps or Microsoft Office 365, including file storage and sharing, calendars, tasks, notes, contacts, data backup, chat, collaborative file editing etc. Large ecosystem of add-ons (especially connectors to ensure interoperability), including high-grade end-to-end encryption for manual download from or upload to selected folders.
+
+**USEFUL FOR**: Storing, saving and sharing files with a high level of confidentiality, collaborative work, users and roles management, access monitoring.
+
+**PLATFORM**: All.
+
+**COST**: Free if you install and host your instance yourself; some providers offer paid plans inluding OwnCloud and some storage space, with a given number of users and support.
+
+**DIFFICULTY**: Hard if you install it yourself; easy if you buy a paid plan.
+
+**LIMITS**: On a paid plan, the provider has your identity and payment details. The Enterprise solution is not open source.
+
+**LEARN MORE**: [How it works](https://owncloud.org/features/).
+
+
+
+
+
+
+
+
+
+
+
+
+## **[Nextcloud](https://nextcloud.com/)**
+
+**WHAT**: Forked from OwnCloud. Open source cloud services comparable to Google apps or Microsoft Office 365, including file storage and sharing, calendars, tasks, notes, contacts, data backup, chat, collaborative file editing etc. Large ecosystem of add-ons (especially connectors to ensure interoperability), including file synchronisation between local computer and the cloud through high-grade and seemless end-to-end encryption for selected folders.
+
+**USEFUL FOR**: Storing, saving and sharing files with a high level of confidentiality, collaborative work, users and roles management, access monitoring.
+
+**PLATFORM**: All.
+
+**COST**: Free if you install and host your instance yourself; many providers offer free or paid plans including Nextcloud, storage space and support.
+
+**LIMITS**: On a paid plan, the provider has your identity and payment details.
+
+**LEARN MORE**: [How it works](https://nextcloud.com/hub/).
+
+
+
 
 
 
@@ -515,7 +570,21 @@ The following table compiled by [Access Now](https://accessnowhelpline.gitlab.io
 
 
 
+## **[ORC](https://orc.network/)**
 
+**WHAT**: Open source, encrypted, decentralised and anonymous TOR-based platform for storage and publication.
+
+**USEFUL FOR**: Storing and publishing information in a secure and anonymous way.
+
+**PLATFORM**: Linux (Debian-like), MacOS.
+
+**COST**: Free.
+
+**DIFFICULTY**: Medium.
+
+**LIMITS**: Depending on circumstances, can be slow.
+
+**LEARN MORE**: [How it works](https://orc.network/#get-started).
 
 
 
