@@ -43,6 +43,26 @@ Thank you for taking the MoneyTrail 2021, pre-training survey.
 
 - [ ] A WhatsApp employee can read the message "Hello!"
 - [ ] An employee of your phone company can read the message "Hello!"
-- [ ] Only your friend can read the message "Hello!"
-- [ ] A WhatsApp employee can see yours and your friend's phone number
+- [x] Only your friend can read the message "Hello!"
+- [x] A WhatsApp employee can see yours and your friend's phone number
 - [ ] Not sure / I don't know
+
+> **Explanation:** WhatsApp is end-to-end encrypted meaning that your content on WhatsApp is protected with a powerful type of encryption. However, some details about the messages you send via WhatsApp are collected by WhatsApp (the company - itself owned by Facebook) including metadata: your phone number, your contact lists, the brand of your phone.
+
+---
+
+### Which of the following Facebook web addresses looks to you legitimate?
+
+- [ ] https://www.facebook.login.com/
+- [ ] https://www.faacebok.com/login
+- [x] https://www.facebook.com/login
+- [ ] https://www.facedook.com/login
+- [ ] Not sure / I don't know
+
+> **Explanation:** Learn to identify a legitimate URL: Look for the website real name before .com or other endings like .org. Is it the site you want to visit?
+Does the website you're going to visit ask for your personal information? Then check for the letter “S” in “HTTPS” at the beginning of the address or look for a green padlock icon located in the far left of your URL bar. Any website that asks for your information should have HTTPS. This means that your information will be safely encrypted in transit when you submit it.
+
+You can also check a suspicious website address yourself with the online scanning engine [VirusTotal](https://www.virustotal.com/gui/home/url).
+---
+
+### 
