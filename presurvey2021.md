@@ -76,5 +76,29 @@ You can also check a suspicious website address yourself with the online scannin
 
 ---
 
-### 
+### You are at the airport. You need to send a confidential report to a colleague before you board the plane. The report contains information that could put people in danger. Is it generally safe to use the airport free Wi-Fi network.
 
+- [ ] Yes, if it uses a password
+- [ ] Yes, if I am in the European Union
+- [ ] Yes, if my laptop has a good anti-virus
+- [x] Yes, if I use encryption such as VPN
+- [ ] Not sure / I don't know
+ 
+> **Explanation:** Encryption is the only sure way to prevent people sitting in the middle (between your machine and the website you visit or the person you communicate with) from listening in. Luckily there are incresingly user-friendly encryption tools at out disposal. Our favorites are Signal, the Tor Browser, use of a VPN or email encryption -- or a combination of all the above.
+
+---
+
+### Which of the following passwords is stronger do you think?
+
+- [ ] Alphanumerically1234567890
+- [ ] 1234567890
+- [ ] Alphanumerically
+- [ ] WTh!5Z
+- [x] made hut blast dull
+- [ ] Not sure
+
+> **Explanation:** A good password shoudl actually be a passphrase made up of at least 3 random words, not connected to yourself or to your work. You can make it even stronger by adding a few capital letters, numerals and/or special characters
+
+---
+
+### 
