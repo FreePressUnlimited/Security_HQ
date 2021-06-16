@@ -31,7 +31,7 @@ Thank you for taking the MoneyTrail 2021, pre-training survey.
 - [ ] The brand of your smartphone or computer
 - [ ] Your Google password
 - [x] All the above
-- [ ] Not sure
+- [ ] Not sure 
 
 > **Explanation:** Google doesn't offer an end-to-end encrypted service either and can possibly access the content and the metadata associated with your account.
 
