@@ -101,4 +101,26 @@ You can also check a suspicious website address yourself with the online scannin
 
 ---
 
-### 
+### You came up with a good and strong password. You should use it (the same one) on your most important and sensitive accounts.
+
+- [ ] I agree
+- [x] I disagree
+- [ ] I am not sure / I don't know
+
+> **Explanation:** You should not use the same password in more than one account because you do not want that if that single password is compromised a lot of your online accounts and assets are also breached.
+
+---
+
+### If you use Facebook, an employee of Facebook can possibly have access to:
+
+- [ ] Your private messages in Facebook Messenger
+- [ ] The list of people you text in WhatsApp
+- [ ] The phone number you use in WhatsApp
+- [ ] The brand of your smartphone or computer
+- [x] All the above
+- [ ] Not sure
+
+> **Explanation:** Facebook remains a unique and powerful networking and publishing platform. It owns, howver, the data you share and store while using the it. It is therefore important to use it wisely and assume that anything you do on Facebook is potentially visible to a third person or persons.
+
+
+
