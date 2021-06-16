@@ -61,8 +61,20 @@ Thank you for taking the MoneyTrail 2021, pre-training survey.
 
 > **Explanation:** Learn to identify a legitimate URL: Look for the website real name before .com or other endings like .org. Is it the site you want to visit?
 Does the website you're going to visit ask for your personal information? Then check for the letter “S” in “HTTPS” at the beginning of the address or look for a green padlock icon located in the far left of your URL bar. Any website that asks for your information should have HTTPS. This means that your information will be safely encrypted in transit when you submit it.
-
 You can also check a suspicious website address yourself with the online scanning engine [VirusTotal](https://www.virustotal.com/gui/home/url).
+
+---
+
+### 'Private' or 'Incognito' mode is a feature in many web browsers. It allows users to hide their online activity from their internet service provider, phone company and government.
+
+- [ ] True
+- [x] False
+- [ ] Not sure / I don't know
+
+
+> **Explanation:** Private or Incognito mode stops your browser from collecting yoru browsing activity and some websites from tracking around oon the web. But this does not protect or hide yoru activity from third parties such as your internet service provider, phone company of government. In addition, websites can keep a record of your IP address (the location where you connect to the internet from) as well as your device fingerprint - a series of traits that make your device unique (brand, operating system, apps and plugiins in use, etc.) All of this can identify you online.
+
 ---
 
 ### 
+
