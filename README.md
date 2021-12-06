@@ -2,8 +2,6 @@
 > ### Dear reader. Our project has come to an end. This repository is consequenlty no longer maintained or updated. It is kept online for archiving purposes. Please use it with the foreknowledge that the tools and advice found herein are not necessarily accurate and possibly no longer valid. 
 ----
 
-
-
 A safe working environment is essential for investigative journalists. Because journalists work with sensitive information that adversaries often prefer not to see published, training on keeping themselves, their data and their sources secure is paramount. So during the last two days of our training, Free Press Unlimited (FPU) will focus on advanced digital security techniques, including encryption, secure communication and methods to stay “under the radar” during investigations. This includes:
 
 - **[Security of data at rest](https://security.money-trail.org/data-at-rest)**: includes resources on how to secure the **information stored** in your devices.
