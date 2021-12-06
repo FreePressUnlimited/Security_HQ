@@ -2,7 +2,7 @@
 
 > # **DISCLAIMER**:
 
-> ** Dear reader. Our project has come to an end. This repository is consequenlty no longer maintained or updated. It is kept online for archiving purposes. Please use it with the foreknowledge that the tools and advice found herein are not necessarily accurate and possibly no longer valid. 
+> ### **Dear reader. Our project has come to an end. This repository is consequenlty no longer maintained or updated. It is kept online for archiving purposes. Please use it with the foreknowledge that the tools and advice found herein are not necessarily accurate and possibly no longer valid. 
 **
 ----
 
